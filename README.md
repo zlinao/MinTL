@@ -3,7 +3,7 @@
 
 <img align="right" src="plot/HKUST.jpg" width="12%">
 
-This is the implementation of the **EMNLP** 2020 paper:
+This is the implementation of the **EMNLP 2020** paper:
 
 **MinTL: Minimalist Transfer Learning for Task-Oriented Dialogue Systems**. [**Zhaojiang Lin**](https://zlinao.github.io/), [**Andrea Madotto**](https://andreamad8.github.io), [**Genta Indra Winata**](https://gentawinata.com), Pascale Fung  [[PDF]]()
 
