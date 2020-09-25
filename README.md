@@ -48,5 +48,5 @@ Please check setup.sh for data preprocessing.
 ❱❱❱ python DST.py --mode train --context_window 3 --gradient_accumulation_steps 10 --pretrained_checkpoint bart-large-cnn --back_bone bart --lr 1e-5 --cfg seed=557 batch_size=4
 ```
 
-check src/run.py for more information.
+check run.py for more information.
 
