@@ -5,7 +5,7 @@
 
 This is the implementation of the **EMNLP 2020** paper:
 
-**MinTL: Minimalist Transfer Learning for Task-Oriented Dialogue Systems**. [**Zhaojiang Lin**](https://zlinao.github.io/), [**Andrea Madotto**](https://andreamad8.github.io), [**Genta Indra Winata**](https://gentawinata.com), Pascale Fung  [[PDF]]()
+**MinTL: Minimalist Transfer Learning for Task-Oriented Dialogue Systems**. [**Zhaojiang Lin**](https://zlinao.github.io/), [**Andrea Madotto**](https://andreamad8.github.io), [**Genta Indra Winata**](https://gentawinata.com), Pascale Fung  [[PDF]](https://arxiv.org/pdf/2009.12005.pdf)
 
 
 ## Citation:
