@@ -11,7 +11,12 @@ This is the implementation of the **EMNLP 2020** paper:
 ## Citation:
 If you use any source codes or datasets included in this toolkit in your work, please cite the following paper. The bibtex is listed below:
 <pre>
-
+@article{lin2020mintl,
+    title={MinTL: Minimalist Transfer Learning for Task-Oriented Dialogue Systems},
+    author={Zhaojiang Lin and Andrea Madotto and Genta Indra Winata and Pascale Fung},
+    journal={arXiv preprint arXiv:2009.12005},
+    year={2020}
+}
 </pre>
 
 
