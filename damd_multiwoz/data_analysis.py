@@ -6,7 +6,7 @@ from ontology import all_domains
 data_path = 'data/multi-woz/'
 save_path = 'data/multi-woz-analysis/'
 save_path_exp = 'data/multi-woz-processed/'
-data_file = 'data.json'
+data_file = 'viwoz_2k8_data.json'#  'data.json'
 domains = all_domains
 
 def analysis():
@@ -127,10 +127,12 @@ def analysis():
     with open(save_path+'all_domain_specific_info_slots.json', 'w') as sf:
         json.dump(list(all_domain_specific_slots),sf,indent=2)
         print("slot num:", len(list(all_domain_specific_slots)))
-    with open(save_path+'goal_of_each_dials.json', 'w') as sf:
-        json.dump(goal_of_dials, sf, indent=2)
-    with open(save_path+'compressed_data.json', 'w') as sf:
-        json.dump(compressed_raw_data, sf, indent=2)
+
+    with open(save_path+'goal_of_each_dials.json', 'w', encoding='utf8') as sf:
+        json.dump(goal_of_dials, sf, indent=2, ensure_ascii=False)
+    with open(save_path+'compressed_data.json', 'w', encoding='utf8') as sf:
+        json.dump(compressed_raw_data, sf, indent=2, ensure_ascii=False)
+
     with open(save_path + 'domain_count.json', 'w') as sf:
         single_count = [d for d in dom_count.items() if 'single' in d[0]]
         multi_count = [d for d in dom_count.items() if 'multi' in d[0]]

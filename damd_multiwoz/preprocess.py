@@ -104,7 +104,7 @@ class DataPreprocessor(object):
     def __init__(self):
         self.nlp = spacy.load('en_core_web_sm')
         self.db = MultiWozDB(cfg.dbs)
-        data_path = 'data/multi-woz/annotated_user_da_with_span_full.json'
+        data_path = 'data/multi-woz/viwoz_2k8_data.json'
         archive = zipfile.ZipFile(data_path + '.zip', 'r')
         self.convlab_data = json.loads(archive.open(data_path.split('/')[-1], 'r').read().lower())
         self.delex_sg_valdict_path = 'data/multi-woz-processed/delex_single_valdict.json'
@@ -114,7 +114,7 @@ class DataPreprocessor(object):
         self.delex_refs = json.loads(open(self.delex_refs_path, 'r').read())
         if not os.path.exists(self.delex_sg_valdict_path):
             self.delex_sg_valdict, self.delex_mt_valdict, self.ambiguous_vals = self.get_delex_valdict()
-        else:
+        # else:
             self.delex_sg_valdict = json.loads(open(self.delex_sg_valdict_path, 'r').read())
             self.delex_mt_valdict = json.loads(open(self.delex_mt_valdict_path, 'r').read())
             self.ambiguous_vals = json.loads(open(self.ambiguous_val_path, 'r').read())
@@ -488,6 +488,6 @@ if __name__=='__main__':
     if not os.path.exists('data/multi-woz-processed'):
         os.mkdir('data/multi-woz-processed')
 
-    with open('data/multi-woz-processed/data_for_damd.json', 'w') as f:
-        json.dump(data, f, indent=2)
+    with open('data/multi-woz-processed/data_for_damd.json', 'w', encoding='utf8') as f:
+        json.dump(data, f, indent=2, ensure_ascii=False)
 
