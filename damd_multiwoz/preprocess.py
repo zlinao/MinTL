@@ -13,10 +13,10 @@ def get_db_values(value_set_path):
     bspn_word = []
     nlp = spacy.load('en_core_web_sm')
 
-    with open(value_set_path, 'r') as f:
+    with open(value_set_path, 'r', encoding='utf8') as f:
         value_set = json.loads(f.read().lower())
 
-    with open('db/ontology.json', 'r') as f:
+    with open('db/ontology.json', 'r', encoding='utf8') as f:
         otlg = json.loads(f.read().lower())
 
     for domain, slots in value_set.items():
@@ -72,10 +72,10 @@ def get_db_values(value_set_path):
                     if x not in bspn_word:
                         bspn_word.append(x)
 
-    with open(value_set_path.replace('.json', '_processed.json'), 'w') as f:
-        json.dump(processed, f, indent=2)
-    with open('data/multi-woz-processed/bspn_word_collection.json', 'w') as f:
-        json.dump(bspn_word, f, indent=2)
+    with open(value_set_path.replace('.json', '_processed.json'), 'w', encoding='utf8') as f:
+        json.dump(processed, f, indent=2, ensure_ascii=False)
+    with open('data/multi-woz-processed/bspn_word_collection.json', 'w', encoding='utf8') as f:
+        json.dump(bspn_word, f, indent=2, ensure_ascii=False)
 
     print('DB value set processed! ')
 
@@ -83,7 +83,7 @@ def preprocess_db(db_paths):
     dbs = {}
     nlp = spacy.load('en_core_web_sm')
     for domain in ontology.all_domains:
-        with open(db_paths[domain], 'r') as f:
+        with open(db_paths[domain], 'r', encoding='utf8') as f:
             dbs[domain] = json.loads(f.read().lower())
             for idx, entry in enumerate(dbs[domain]):
                 new_entry = copy.deepcopy(entry)
@@ -95,8 +95,8 @@ def preprocess_db(db_paths):
                     tokenize_and_back = ' '.join([token.text for token in nlp(value)]).strip()
                     new_entry[key] = tokenize_and_back
                 dbs[domain][idx] = new_entry
-        with open(db_paths[domain].replace('.json', '_processed.json'), 'w') as f:
-            json.dump(dbs[domain], f, indent=2)
+        with open(db_paths[domain].replace('.json', '_processed.json'), 'w', encoding='utf8') as f:
+            json.dump(dbs[domain], f, indent=2, ensure_ascii=False)
         print('[%s] DB processed! '%domain)
 
 
@@ -239,16 +239,16 @@ class DataPreprocessor(object):
             else:
                 single_token_values[val] = slt
 
-        with open(self.delex_sg_valdict_path, 'w') as f:
+        with open(self.delex_sg_valdict_path, 'w', encoding='utf8') as f:
             single_token_values = OrderedDict(sorted(single_token_values.items(), key=lambda kv:len(kv[0]), reverse=True))
-            json.dump(single_token_values, f, indent=2)
+            json.dump(single_token_values, f, indent=2, ensure_ascii=False)
             print('single delex value dict saved!')
-        with open(self.delex_mt_valdict_path, 'w') as f:
+        with open(self.delex_mt_valdict_path, 'w', encoding='utf8') as f:
             multi_token_values = OrderedDict(sorted(multi_token_values.items(), key=lambda kv:len(kv[0]), reverse=True))
-            json.dump(multi_token_values, f, indent=2)
+            json.dump(multi_token_values, f, indent=2, ensure_ascii=False)
             print('multi delex value dict saved!')
-        with open(self.ambiguous_val_path, 'w') as f:
-            json.dump(ambiguous_entities, f, indent=2)
+        with open(self.ambiguous_val_path, 'w', encoding='utf8') as f:
+            json.dump(ambiguous_entities, f, indent=2, ensure_ascii=False)
             print('ambiguous value dict saved!')
 
         return single_token_values, multi_token_values, ambiguous_entities
@@ -464,10 +464,10 @@ class DataPreprocessor(object):
             #     break
         self.vocab.construct()
         self.vocab.save_vocab('data/multi-woz-processed/vocab')
-        with open('data/multi-woz-analysis/dialog_acts.json', 'w') as f:
-            json.dump(ordered_sysact_dict, f, indent=2)
-        with open('data/multi-woz-analysis/dialog_act_type.json', 'w') as f:
-            json.dump(self.unique_da, f, indent=2)
+        with open('data/multi-woz-analysis/dialog_acts.json', 'w', encoding='utf8') as f:
+            json.dump(ordered_sysact_dict, f, indent=2, ensure_ascii=False)
+        with open('data/multi-woz-analysis/dialog_act_type.json', 'w', encoding='utf8') as f:
+            json.dump(self.unique_da, f, indent=2, ensure_ascii=False)
         return data
 
 

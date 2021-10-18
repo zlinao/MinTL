@@ -6,7 +6,7 @@ import ontology
 
 def dialog_turn_state_analysis(mode='train'):
     data_path = 'data/multi-woz-processed/data_for_damd.json'
-    conv_data = 'data/multi-woz/annotated_user_da_with_span_full.json'
+    conv_data = 'data/multi-woz/vivoz_2k8_data.json'
     archive = zipfile.ZipFile(conv_data + '.zip', 'r')
     convlab_data = json.loads(archive.open(conv_data.split('/')[-1], 'r').read().lower())
     reader = MultiWozReader()
