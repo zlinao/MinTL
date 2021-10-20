@@ -3,3 +3,4 @@ transformers>=2.8.0
 spacy>=2.2.2
 nltk>=3.4.5
 tqdm>=4.62.3
+sentencepiece
