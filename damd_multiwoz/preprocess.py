@@ -111,13 +111,13 @@ class DataPreprocessor(object):
         self.delex_mt_valdict_path = 'data/multi-woz-processed/delex_multi_valdict.json'
         self.ambiguous_val_path = 'data/multi-woz-processed/ambiguous_values.json'
         self.delex_refs_path = 'data/multi-woz-processed/reference_no.json'
-        self.delex_refs = json.loads(open(self.delex_refs_path, 'r').read())
+        self.delex_refs = json.loads(open(self.delex_refs_path, 'r', encoding='utf8').read())
         if not os.path.exists(self.delex_sg_valdict_path):
             self.delex_sg_valdict, self.delex_mt_valdict, self.ambiguous_vals = self.get_delex_valdict()
         # else:
-            self.delex_sg_valdict = json.loads(open(self.delex_sg_valdict_path, 'r').read())
-            self.delex_mt_valdict = json.loads(open(self.delex_mt_valdict_path, 'r').read())
-            self.ambiguous_vals = json.loads(open(self.ambiguous_val_path, 'r').read())
+            self.delex_sg_valdict = json.loads(open(self.delex_sg_valdict_path, 'r', encoding='utf8').read())
+            self.delex_mt_valdict = json.loads(open(self.delex_mt_valdict_path, 'r', encoding='utf8').read())
+            self.ambiguous_vals = json.loads(open(self.ambiguous_val_path, 'r', encoding='utf8').read())
 
         self.vocab = utils.Vocab(cfg.vocab_size)
 
@@ -218,7 +218,7 @@ class DataPreprocessor(object):
                         for ent in ent_list:
                             entity_value_to_slot[ent] = 'car'
         ambiguous_entities = set(ambiguous_entities)
-        ambiguous_entities.remove('cambridge')
+        # ambiguous_entities.remove('cambridge')
         ambiguous_entities = list(ambiguous_entities)
         for amb_ent in ambiguous_entities:   # departure or destination? arrive time or leave time?
             entity_value_to_slot.pop(amb_ent)

@@ -1,0 +1,1774 @@
+[
+  {
+    "location": [
+      21.018532,
+      105.816526
+    ],
+    "address": "số 6 , ngõ 71 láng hạ , p . thành công , q . ba đình",
+    "area": "",
+    "food": "lẩu",
+    "id": "19210",
+    "introduction": "hương vị ẩm thực đường phố hồng kông ngay giữa lòng hà nội",
+    "name": "yixin",
+    "phone": "01223323737",
+    "postcode": "cb21ab",
+    "pricerange": "rẻ",
+    "type": "nhà hàng"
+  },
+  {
+    "location": [
+      21.033791,
+      105.847497
+    ],
+    "address": "số 20 bát đàn , p . hàng bồ , q . hoàn kiếm",
+    "area": "",
+    "food": "hải sản",
+    "id": "30650",
+    "introduction": "chuyên phục vụ các món hải sản được nhập từ vân đồn tươi ngon , sạch sẽ và hấp dẫn , đảm bảo chất lượng với giá phải chăng .",
+    "name": "ẩm thực hoàng",
+    "phone": "01223812660",
+    "postcode": "cb259aq",
+    "pricerange": "rẻ",
+    "signature": "african babooti",
+    "type": "nhà hàng"
+  },
+  {
+    "location": [
+      21.029528,
+      105.812953
+    ],
+    "address": "62 , ngọc hà",
+    "area": "",
+    "food": "đặc sản",
+    "id": "19214",
+    "introduction": "- nguyên liệu sạch có chứng nhận đầy đủ về vs attp , dù nằm ở mức giá hơi đắt so với các hàng cơm bình dân khác nhưng quán có đa dạng các món ngon .",
+    "name": "quán cơm phở bình dân hằng",
+    "phone": "01223302330",
+    "postcode": "cb21dp",
+    "pricerange": "sang trọng",
+    "type": "nhà hàng"
+  },
+  {
+    "location": [
+      21.018184,
+      105.802941
+    ],
+    "address": "794 đường láng , q . đống đa",
+    "area": "",
+    "food": "món việt",
+    "id": "19192",
+    "name": "hải sản biển đông",
+    "phone": "01223244149",
+    "postcode": "cb17ag",
+    "pricerange": "sang trọng",
+    "type": "nhà hàng",
+    "introduction": "trước đây là nhà hàng hải sản gió biển"
+  },
+  {
+    "location": [
+      21.015599,
+      105.816892
+    ],
+    "address": "số 330 thái hà , p . láng hạ , q . đống đa",
+    "area": "",
+    "food": "lẩu",
+    "id": "19196",
+    "introduction": "- nhà hàng bếp thái koh yam là sự kế thừa của thương hiệu koh samui , mang đến cho thực khách hà thành cơ hội khám phá gần 100 món ăn đặc trưng của thái lan .",
+    "name": "bếp thái koh yam",
+    "phone": "01223323737",
+    "postcode": "cb17dy",
+    "pricerange": "vừa phải",
+    "type": "nhà hàng"
+  },
+  {
+    "location": [
+      21.017856,
+      105.812666
+    ],
+    "address": "ngõ 199 phố khương thượng , khương thượng",
+    "area": "",
+    "food": "đặc sản",
+    "id": "19191",
+    "introduction": "cơm hà - quán cơm bình dân ngon không cưỡng lại được",
+    "name": "cơm hà",
+    "phone": "01223412299",
+    "postcode": "cb17aa",
+    "pricerange": "sang trọng",
+    "type": "nhà hàng"
+  },
+  {
+    "location": [
+      21.017856,
+      105.812666
+    ],
+    "address": "13 huỳnh thúc kháng , q . đống đa",
+    "area": "",
+    "food": "món á",
+    "id": "14731",
+    "introduction": "- nguyên liệu sạch có chứng nhận đầy đủ về vs attp và nguyên liệu nhập khẩu - các đầu bếp tại đây đều được trải qua quá trình đào tạo với đầu bếp chính người úc có kinh nghiệm hơn 15 năm trong ngành ẩm thực",
+    "name": "pepperonis",
+    "phone": "01223413000",
+    "postcode": "cb28pb",
+    "pricerange": "vừa phải",
+    "signature": "slowroast sirloin of beef red onion celeriac and garlic",
+    "type": "nhà hàng"
+  },
+  {
+    "location": [
+      21.022125,
+      105.847991
+    ],
+    "address": "75a trần hưng đạo , q . hoàn kiếm",
+    "area": "",
+    "food": "món việt",
+    "id": "19273",
+    "introduction": "- nguồn nguyên liệu hải sản tươi sống được nhập và sống tại bể chứa có môi trường y như môi trường biển để đảm bảo tươi ngon tới khi lên bàn ăn- đầu bếp nhà hàng có hơn 20 năm kinh nghiệm",
+    "name": "thế giới hải sản",
+    "phone": "01223248882",
+    "postcode": "cb58pa",
+    "pricerange": "sang trọng",
+    "type": "nhà hàng"
+  },
+  {
+    "location": [
+      21.02184,
+      105.818345
+    ],
+    "address": "11 trần phú , điện bàn",
+    "area": "",
+    "food": "lẩu",
+    "id": "19240",
+    "name": "lẩu hải sản hằng béo",
+    "phone": "01223352607",
+    "postcode": "cb23nj",
+    "pricerange": "sang trọng",
+    "type": "nhà hàng",
+    "introduction": "lẩu hải sản hằng béo số 11b trần phú , chuyên lẩu hải sản , lẩu bò , lẩu thái"
+  },
+  {
+    "location": [
+      21.029434,
+      105.850312
+    ],
+    "address": "14 lý thường kiệt , phan chu trinh",
+    "area": "",
+    "food": "đặc sản",
+    "id": "19270",
+    "introduction": "một trong những tiệm cơm vỉa hè ngon nhất ở trung tâm hà nội",
+    "name": "tiệm cơm vinh thu",
+    "phone": "01223566388",
+    "postcode": "cb58jj",
+    "pricerange": "vừa phải",
+    "type": "nhà hàng"
+  },
+  {
+    "location": [
+      21.0309462203865,
+      105.821191889242
+    ],
+    "address": "số 269 kim mã , p . giảng võ , q . ba đình",
+    "area": "",
+    "food": "món việt",
+    "id": "19212",
+    "introduction": "nguyên liệu gà tươi mạnh hoạch chính gốc hải dương , thịt ngọt , thơm , món ăn chế biến đa dạng , hấp dẫn .",
+    "name": "vua gà tươi",
+    "phone": "01223361763",
+    "postcode": "cb21db",
+    "pricerange": "rẻ",
+    "type": "nhà hàng"
+  },
+  {
+    "location": [
+      21.02095,
+      105.817914
+    ],
+    "address": "110 and d1 trần huy liệu , giảng võ",
+    "area": "",
+    "food": "món âu",
+    "id": "19245",
+    "introduction": "emm 's french bistro chuyên phục vụ món ăn pháp , kết hợp cùng những loại rượu vang hảo hạng đến từ các quốc gia sản xuất vang nổi tiếng thế giới : pháp , ý , úc , chile ...",
+    "name": "emm 's french bistro",
+    "phone": "01223368786",
+    "postcode": "cb23rh",
+    "pricerange": "sang trọng",
+    "type": "nhà hàng"
+  },
+  {
+    "location": [
+      21.018392,
+      105.811615
+    ],
+    "address": "12 huỳnh thúc kháng , p . thành công , q . ba đình",
+    "area": "",
+    "food": "lẩu",
+    "id": "19213",
+    "introduction": "- chế biến theo đúng phong cách nguồn gốc của món ăn - hương vị đặc trưng phù hợp với khẩu vị người việt",
+    "name": "sentosa",
+    "phone": "01223324033",
+    "postcode": "cb21db",
+    "pricerange": "vừa phải",
+    "type": "nhà hàng"
+  },
+  {
+    "location": [
+      21.026849,
+      105.823944
+    ],
+    "address": "102 trần huy liệu , giảng võ",
+    "area": "",
+    "food": "buffet",
+    "id": "19211",
+    "introduction": "buffet ăn vặt tại hà nội",
+    "name": "nhà hàng buffet quà vặt",
+    "phone": "01223337766",
+    "postcode": "cb21ab",
+    "pricerange": "vừa phải",
+    "type": "nhà hàng"
+  },
+  {
+    "location": [
+      21.043915,
+      105.838257
+    ],
+    "address": "số 75 ngõ 639 hoàng hoa thám , vĩnh phú",
+    "area": "",
+    "food": "lẩu",
+    "id": "19229",
+    "introduction": "thientrangfoods - bếp thiên trang cung cấp dịch vụ giao lẩu tại nhà tại hà nội",
+    "name": "bếp thiên trang",
+    "phone": "01223364917",
+    "postcode": "cb21uf",
+    "pricerange": "rẻ",
+    "type": "nhà hàng"
+  },
+  {
+    "location": [
+      21.024195,
+      105.81181
+    ],
+    "address": "số 5 nguyên hồng , p . thành công , q . ba đình , hà nội",
+    "area": "",
+    "food": "món việt",
+    "id": "19242",
+    "introduction": "nhà hàng chuyên món việt . không gian sang trọng , lịch sự , phong cách hà nội xưa đẹp nhẹ nhàng .",
+    "name": "ngói đỏ garden",
+    "phone": "01223566188",
+    "postcode": "cb23pp",
+    "pricerange": "vừa phải",
+    "type": "nhà hàng"
+  },
+  {
+    "location": [
+      21.01985,
+      105.81742
+    ],
+    "address": "số 31i láng hạ , p . thành công , q . ba đình",
+    "area": "",
+    "food": "món á",
+    "id": "3697",
+    "introduction": "nhà hàng cơm gà hải nam chuyên các món ngon từ gà tươi . tất cả nguyên liệu nhà hàng sử dụng đều đảm bảo tươi sạch .",
+    "name": "cơm gà hải nam",
+    "phone": "01223356666",
+    "postcode": "cb21aw",
+    "pricerange": "vừa phải",
+    "signature": "roasted barbary duck breast served with sweet potato wedges and mange tout with a red wine sauce",
+    "type": "nhà hàng"
+  },
+  {
+    "location": [
+      21.032882,
+      105.807946
+    ],
+    "address": "số 48 đào tấn , q . ba đình",
+    "area": "",
+    "food": "nhật bản",
+    "id": "19188",
+    "introduction": "- là một trong những thương hiệu nhà hàng nhật bản đầu tiên tại hà nội với 20 năm hình thành và phát triển.- nguồn nguyên liệu đảm bảo , an toàn , đa số được nhập khẩu trực tiếp từ nhật bản",
+    "name": "sushi hokkaido sake",
+    "phone": "01223306306",
+    "postcode": "cb12qa",
+    "pricerange": "sang trọng",
+    "type": "nhà hàng"
+  },
+  {
+    "location": [
+      21.036051,
+      105.79373
+    ],
+    "address": "37 trần đăng ninh , q . cầu giấy",
+    "area": "",
+    "food": "đặc sản",
+    "id": "19266",
+    "introduction": "- nguyên liệu sạch có chứng nhận đầy đủ về vs attp và nguyên liệu nhập khẩu - các đầu bếp tại đây đều được trải qua quá trình đào tạo với đầu bếp chính người úc có kinh nghiệm hơn 15 năm trong ngành ẩm thực",
+    "name": "pepperonis",
+    "phone": "01223506055",
+    "postcode": "cb43le",
+    "pricerange": "sang trọng",
+    "type": "nhà hàng"
+  },
+  {
+    "location": [
+      21.028758,
+      105.826445
+    ],
+    "address": "123 k1 giảng võ , q . ba đình",
+    "area": "",
+    "food": "món á",
+    "id": "10347",
+    "introduction": "- nguyên liệu sạch có chứng nhận đầy đủ về vs attp và nguyên liệu nhập khẩu- các đầu bếp tại đây đều được trải qua quá trình đào tạo với đầu bếp chính người úc có kinh nghiệm hơn 15 năm trong ngành ẩm thực",
+    "name": "pepperonis",
+    "phone": "01223259988",
+    "postcode": "cb21rt",
+    "pricerange": "vừa phải",
+    "type": "nhà hàng"
+  },
+  {
+    "location": [
+      21.030597,
+      105.819129
+    ],
+    "address": "số 283 kim mã , p . giảng võ , q . ba đình",
+    "area": "",
+    "food": "đặc sản",
+    "id": "19180",
+    "introduction": "pizza home chuyên pizza và các món ăn mang phong cách ý .",
+    "name": "pizza home",
+    "phone": "01223323639",
+    "postcode": "cb12as",
+    "pricerange": "rẻ",
+    "type": "nhà hàng"
+  },
+  {
+    "location": [
+      21.027327,
+      105.82777
+    ],
+    "address": "184 hào nam , q . đống đa ( đối diện ga tàu điện trên không )",
+    "area": "",
+    "food": "món pháp",
+    "id": "19194",
+    "introduction": "- không gian cổ điển mang hơi thở châu âu , rất phù hợp với những thực khách việt ưa thích không gian cổ điển phương tây và những vị khách nước ngoài.- grill66 hào nam sẽ ` ` dẫn dắt '' vị giác của bạn đến gần hơn với ẩm thực châu âu bằng món bít tết mềm vừa phải , nước sốt ngấm đều , thơm mùi lửa và mùi thịt quyện hòa . - kết hợp cùng bít tết là các loại rượu vang đỏ chất lượng , hảo hạng không những mang lại những trải nghiệm tuyệt vời mà còn tốt cho sức khỏe .",
+    "name": "grill66 steakhouse",
+    "phone": "01223400170",
+    "postcode": "cb17dy",
+    "pricerange": "sang trọng",
+    "type": "nhà hàng"
+  },
+  {
+    "location": [
+      21.03195,
+      105.8024
+    ],
+    "address": "số 35 trần kim xuyến , p . yên hòa , q . cầu giấy",
+    "area": "",
+    "food": "lẩu",
+    "id": "12700",
+    "introduction": "tất cả các món ăn của nhà hàng fenghuang đều được chế biến từ nguồn nguyên liệu tươi ngon , giàu dưỡng chất , mang đến cho thực khách trải nghiệm ẩm thực khó quên .",
+    "name": "dimsum & lẩu trung hoa",
+    "phone": "01799521260",
+    "postcode": "cb30ad",
+    "pricerange": "vừa phải",
+    "type": "nhà hàng"
+  },
+  {
+    "location": [
+      21.031326,
+      105.815026
+    ],
+    "address": "tttm vincom center , tầng 3 , 29 liễu giai , q . ba đình",
+    "area": "",
+    "food": "món việt",
+    "id": "19185",
+    "introduction": "hệ thống nhà hàng vietstreet với nhiều chi nhánh tại hà nội & tp . hcm , là không gian hội tụ của những món ăn mang phong cách đường phố đến từ khắp 3 miền đất nước .",
+    "name": "vietstreet",
+    "phone": "01223367755",
+    "postcode": "cb12bd",
+    "pricerange": "rẻ",
+    "type": "nhà hàng"
+  },
+  {
+    "location": [
+      21.043915,
+      105.838257
+    ],
+    "address": "53 giang văn minh , kim mã",
+    "area": "",
+    "food": "địa điểm nhậu",
+    "id": "19221",
+    "name": "quán nhậu 53",
+    "phone": "01462432565",
+    "postcode": "cb21nt",
+    "pricerange": "vừa phải",
+    "type": "nhà hàng",
+    "introduction": "muốn tìm quán nhậu ngon ở hà nội thì đi đâu ? ? ? ghé ngay đến nhà hàng 53 giang văn minh"
+  },
+  {
+    "location": [
+      21.033806,
+      105.805735
+    ],
+    "address": "630 la thành , giảng võ",
+    "area": "",
+    "food": "hải sản",
+    "id": "19235",
+    "introduction": "minh thúy - hải sản tươi sống - nhà hàng - hà nội tại 52 giang văn minh , ... quán cũng khá to và rộng rãi , nằm trên đường giang văn minh khá là dễ tìm .",
+    "name": "nhà hàng hải sản minh thúy",
+    "phone": "01223356060",
+    "postcode": "cb23ar",
+    "pricerange": "vừa phải",
+    "type": "nhà hàng"
+  },
+  {
+    "location": [
+      21.032901,
+      105.813496
+    ],
+    "address": "48 liễu giai , q . ba đình",
+    "area": "",
+    "food": "món á",
+    "id": "19177",
+    "introduction": "bể chứa hải sản tươi sống cho thực khách lựa chọn",
+    "name": "hải sản phố",
+    "phone": "01223505015",
+    "postcode": "cb11ln",
+    "pricerange": "sang trọng",
+    "type": "nhà hàng"
+  },
+  {
+    "location": [
+      21.028758,
+      105.826445
+    ],
+    "address": "375 , đội cấn , phường liễu giai",
+    "area": "",
+    "food": "đặc sản",
+    "id": "19182",
+    "introduction": "thực đơn của quán rất phong phú với đa dạng các món ăn quen thuộc như trứng rán , rau xào , củ cải kho , cá kho",
+    "name": "quán cơm bình dân trung linh",
+    "phone": "01223329432",
+    "postcode": "cb12az",
+    "pricerange": "sang trọng",
+    "type": "nhà hàng"
+  },
+  {
+    "location": [
+      21.021625,
+      105.800049
+    ],
+    "address": "số 52 nguyễn khang , p . yên hòa , q . cầu giấy",
+    "area": "",
+    "food": "đặc sản",
+    "id": "19249",
+    "introduction": "hải sản tươi ngon , giá cả hợp lý .",
+    "name": "cô tô",
+    "phone": "01223366668",
+    "postcode": "cb30ah",
+    "pricerange": "sang trọng",
+    "type": "nhà hàng"
+  },
+  {
+    "location": [
+      21.023263,
+      105.809204
+    ],
+    "address": "vincom nguyễn chí thanh , l5 - 16 - 17",
+    "area": "",
+    "food": "món âu",
+    "id": "19227",
+    "introduction": "nằm trong chuỗi hệ thống al fresco ' s , al fresco ' s vincom nguyễn chí thanh hấp dẫn thực khách nhờ không gian hiện đại cùng những món ăn hấp dẫn",
+    "name": "al fresco ' s",
+    "phone": "01223309147",
+    "postcode": "cb21su",
+    "pricerange": "sang trọng",
+    "type": "nhà hàng"
+  },
+  {
+    "location": [
+      21.010216111445,
+      105.801443746485
+    ],
+    "address": "số 2a , ngõ 44 đỗ quang , p . trung hoà , q . cầu giấy",
+    "area": "",
+    "food": "đặc sản",
+    "id": "19255",
+    "introduction": "chuyên các món ăn đặc sản từ thịt ngựa .",
+    "name": "hồng thái 3",
+    "phone": "01223302800",
+    "postcode": "cb39ey",
+    "pricerange": "sang trọng",
+    "type": "nhà hàng"
+  },
+  {
+    "location": [
+      21.031229,
+      105.813816
+    ],
+    "address": "tầng 2 , l2 - 11 , vincom center metropolis , 29 liễu giai , p . ngọc khánh , q . ba đình",
+    "area": "",
+    "food": "món âu",
+    "id": "4607",
+    "introduction": "nằm trong chuỗi hệ thống al fresco ' s , al fresco ' s vincom metropolis liễu giai thu hút thực khách nhờ không gian hiện đại cùng những món ăn hấp dẫn",
+    "name": "al fresco 's",
+    "phone": "01223227330",
+    "postcode": "cb21qa",
+    "pricerange": "vừa phải",
+    "signature": "",
+    "type": "nhà hàng"
+  },
+  {
+    "location": [
+      21.018488,
+      105.798507
+    ],
+    "address": "số 9 vũ phạm hàm , p . yên hòa , q . cầu giấy",
+    "area": "",
+    "food": "đặc sản",
+    "id": "19250",
+    "introduction": "don chicken - thương hiệu nổi tiếng đến từ hàn quốc chuyên về các món gà , với điểm nổi bật là nguồn liệu tươi sạch , các loại sốt đặc biệt nhập khẩu từ hàn quốc .",
+    "name": "don chicken",
+    "phone": "01223358399",
+    "postcode": "cb30ah",
+    "pricerange": "sang trọng",
+    "type": "nhà hàng"
+  },
+  {
+    "location": [
+      21.043915,
+      105.838257
+    ],
+    "address": "96 phố trấn vũ , quán thánh",
+    "area": "",
+    "food": "hải sản",
+    "id": "14742",
+    "introduction": "phục vụ các món ngon từ hải sản tươi sống , địa chỉ uy tín hơn 20 năm",
+    "name": "quán hải sản vân oanh",
+    "phone": "08719429180",
+    "postcode": "cb23dt",
+    "pricerange": "vừa phải",
+    "signature": "coconut and red chilli monkfish",
+    "type": "nhà hàng"
+  },
+  {
+    "location": [
+      21.010952,
+      105.801939
+    ],
+    "address": "28 đỗ quang , p . trung hòa , q . cầu giấy",
+    "area": "",
+    "food": "món mỹ",
+    "id": "19248",
+    "introduction": "emm ' s french bistro đỗ quang là chi nhánh thứ 2 của chuỗi nhà hàng chuyên phục vụ món ăn pháp ( nhà hàng đầu tiên tại trần huy liệu - ba đình ) , kết hợp cùng những loại rượu vang hảo hạng đến từ các quốc gia sản xuất vang nổi tiếng thế giới : pháp , ý , úc , chile ...",
+    "name": "emm ' s french bistro",
+    "phone": "01223362456",
+    "postcode": "cb30af",
+    "pricerange": "rẻ",
+    "type": "nhà hàng"
+  },
+  {
+    "location": [
+      21.0272302935574,
+      105.81339913864
+    ],
+    "address": "số 75 nguyễn công hoan , p . ngọc khánh , q . ba đình",
+    "area": "",
+    "food": "món miền nam",
+    "id": "12566",
+    "introduction": "chuyên ẩm thực & đặc sản vùng miền . nguyên liệu tươi ngon , hương vị & trình bày hấp dẫn .",
+    "name": "bánh tráng giang mỹ",
+    "phone": "01223464630",
+    "postcode": "cb21uf",
+    "pricerange": "vừa phải",
+    "type": "nhà hàng"
+  },
+  {
+    "location": [
+      21.0508906377493,
+      105.868113076787
+    ],
+    "address": "số 2 , ngõ 68 ngọc thuỵ , q . long biên",
+    "area": "",
+    "food": "lẩu",
+    "id": "19259",
+    "introduction": "quán chuyên món lẩu bò tơ nhúng dấm và các món ăn đồng quê .",
+    "name": "ẩm thực đồng quê",
+    "phone": "01223351707",
+    "postcode": "cb41jy",
+    "pricerange": "rẻ",
+    "type": "nhà hàng"
+  },
+  {
+    "location": [
+      21.06787,
+      105.821651
+    ],
+    "address": "51 - 53 tô ngọc vân , q . tây hồ",
+    "area": "",
+    "food": "món miền trung",
+    "id": "19264",
+    "name": "phương nguyên",
+    "phone": "01223351880",
+    "postcode": "cb43ax",
+    "pricerange": "sang trọng",
+    "type": "nhà hàng",
+    "introduction": "- nguồn nguyên liệu được nhập từ các nhà cung cấp uy tín , có chứng nhận xuất xứ và an toàn thực phẩm - đầu bếp có nhiều năm kinh nghiệm trong việc chế biến món ăn việt"
+  },
+  {
+    "location": [
+      21.032901,
+      105.813496
+    ],
+    "address": "37a hùng vương , điện bàn",
+    "area": "",
+    "food": "món việt",
+    "id": "19228",
+    "introduction": "nhà hàng 37 hùng vương mang đến cho quý khách những trải nghiệm ẩm thực đặc sắc , kết hợp giữa truyền thống và hiện đại , tinh hoa bản địa cùng món ăn đặc trưng của nhiều nước trên thế giới .",
+    "name": "nhà hàng 37a hùng vương",
+    "postcode": "cb21tw",
+    "pricerange": "sang trọng",
+    "type": "nhà hàng"
+  },
+  {
+    "location": [
+      21.027473,
+      105.822255
+    ],
+    "address": "tầng 1 , tòa nhà c7 giảng võ , phố trần huy liệu , p . giảng võ , q . ba đình",
+    "area": "",
+    "food": "món trung",
+    "id": "12638",
+    "introduction": "nhà hàng hutong - hot pot paradise đặc trưng với 5 vị nước lẩu từ cay nồng đến thanh ngọt cùng 99 món nhúng hảo hạng mang đến trải nghiệm khác biệt về ẩm thực hồng kông .",
+    "name": "hutong",
+    "phone": "01223462354",
+    "postcode": "cb23ar",
+    "pricerange": "sang trọng",
+    "type": "nhà hàng"
+  },
+  {
+    "location": [
+      21.040066,
+      105.807126
+    ],
+    "address": "số 9 , ngõ 260 đội cấn , liễu giai",
+    "area": "",
+    "food": "món việt",
+    "id": "19186",
+    "introduction": "hương việt hiện nay được xem là một trong những địa chỉ nhà hàng phong cách quê hương hiếm hoi nổi tiếng về chất lượng hương vị các món ăn , vệ sinh an toàn thực phẩm .",
+    "name": "nhà hàng hương việt - asknsakdknj",
+    "phone": "01223350420",
+    "postcode": "cb12lf",
+    "pricerange": "vừa phải",
+    "type": "nhà hàng"
+  },
+  {
+    "location": [
+      21.004101,
+      105.833255
+    ],
+    "address": "số 106 - b24 , ngõ 41 , phố đông tác , q . đống đa",
+    "area": "",
+    "food": "hàn quốc",
+    "id": "12238",
+    "introduction": "wang wang - quán thịt nướng hàn quốc - thừa hưởng những nét tinh hoa của ẩm thực xứ kim chi",
+    "name": "wang wang",
+    "phone": "01223327908",
+    "postcode": "cb17dy",
+    "pricerange": "rẻ",
+    "type": "nhà hàng"
+  },
+  {
+    "location": [
+      21.03491,
+      105.810379
+    ],
+    "address": "71 nguyễn chí thanh , thành công",
+    "area": "",
+    "food": "buffet",
+    "id": "13071",
+    "introduction": "nhà hàng buffet nướng lẩu hải sản . ăn không giới hạn tất cả các đồ như : ghẹ , ốc hương , bề bề , tu hài , tôm càng xanh ...",
+    "name": "nhà hàng buffet chef dzung",
+    "phone": "01223323361",
+    "postcode": "cb21eg",
+    "pricerange": "vừa phải",
+    "signature": "chargrilled rib eye steak with truffle butter mixed salad and fries",
+    "type": "nhà hàng"
+  },
+  {
+    "location": [
+      21.033806,
+      105.805735
+    ],
+    "address": "2 láng hạ , chợ dừa , ba đình",
+    "area": "",
+    "food": "buffet",
+    "id": "19226",
+    "introduction": "nhà hàng lẩu yang với nhiều năm kinh nghiệm phát triển thương hiệu buffet lẩu",
+    "name": "lẩu buffet yang",
+    "phone": "01223365068",
+    "postcode": "cb21sj",
+    "pricerange": "vừa phải",
+    "type": "nhà hàng"
+  },
+  {
+    "location": [
+      21.023542,
+      105.808892
+    ],
+    "address": "tttm vincom , tầng 5 , 54 nguyễn chí thanh , q . đống đa",
+    "area": "",
+    "food": "món việt",
+    "id": "19197",
+    "name": "vietstreet",
+    "phone": "01223244277",
+    "postcode": "cb17dy",
+    "pricerange": "rẻ",
+    "type": "nhà hàng",
+    "introduction": "hệ thống nhà hàng vietstreet với nhiều chi nhánh tại hà nội & tp . hcm , là không gian hội tụ của những món ăn mang phong cách đường phố đến từ khắp 3 miền đất nước ."
+  },
+  {
+    "location": [
+      21.02184,
+      105.818345
+    ],
+    "address": "115 kim mã",
+    "area": "",
+    "food": "buffet",
+    "id": "19224",
+    "introduction": "buffet nướng hải sản tươi sống ăn thỏa thích chỉ từ 139k",
+    "name": "nhà hàng bbq donzella",
+    "phone": "01223352500",
+    "postcode": "cb21rg",
+    "pricerange": "sang trọng",
+    "type": "nhà hàng"
+  },
+  {
+    "location": [
+      21.027473,
+      105.822255
+    ],
+    "address": "23 ngọc khánh",
+    "area": "",
+    "food": "món trung quốc",
+    "id": "19216",
+    "introduction": "nhà hàng việt lai thuận nơi hội tụ những “ tinh hoa ẩm thực trung hoa ” , tạo sự khác biệt , phong phú , thỏa mãn niềm đam mê ẩm thực của nhiều thực khách .",
+    "name": "nhà hàng việt lai thuận",
+    "phone": "01223308681",
+    "postcode": "cb21dp",
+    "pricerange": "sang trọng",
+    "type": "nhà hàng"
+  },
+  {
+    "location": [
+      21.02809,
+      105.82236
+    ],
+    "address": "số 107 c8 ngõ 12 núi trúc , q . ba đình",
+    "area": "",
+    "food": "quán nhậu",
+    "id": "19189",
+    "introduction": "200 loại hải sản được đánh bắt từ nhiều vùng miền như : trường sa , côn đảo , vũng tàu , nha trang , khánh hòa , bình định , ninh thuận , …",
+    "name": "la cà quán - núi trúc",
+    "postcode": "cb13nf",
+    "pricerange": "sang trọng",
+    "type": "nhà hàng"
+  },
+  {
+    "location": [
+      21.043915,
+      105.838257
+    ],
+    "address": "2a nguyên hồng , thành công",
+    "area": "",
+    "food": "nướng",
+    "id": "19225",
+    "introduction": "nầm bò nướng 99k đẫm phô mai",
+    "name": "bò nầm nướng",
+    "phone": "01223363471",
+    "postcode": "cb21rq",
+    "pricerange": "rẻ",
+    "type": "nhà hàng"
+  },
+  {
+    "location": [
+      21.01689,
+      105.80284
+    ],
+    "address": "số 65 đường nguyễn khang , p . trung hòa , q . cầu giấy",
+    "area": "",
+    "food": "lẩu",
+    "id": "19247",
+    "introduction": "cô chủ nhà hàng lẩu pháp là người miền tây mức giá rẻ phù hợp với học sinh - sinh viên , người lao động",
+    "name": "lẩu pháp ( cô hai lẩu mắm cần thơ )",
+    "phone": "01223315232",
+    "postcode": "cb30af",
+    "pricerange": "rẻ",
+    "type": "nhà hàng"
+  },
+  {
+    "location": [
+      21.040066,
+      105.807126
+    ],
+    "address": "194 phó đức chính , nguyễn trung trực",
+    "area": "",
+    "food": "nướng",
+    "id": "19175",
+    "introduction": "chuyên phục vụ các món nướng",
+    "name": "nhà hàng nướng không khói",
+    "phone": "01223518111",
+    "postcode": "cb11lh",
+    "pricerange": "vừa phải",
+    "type": "nhà hàng"
+  },
+  {
+    "location": [
+      21.0508906377493,
+      105.868113076787
+    ],
+    "address": "31 , phủ tây hồ",
+    "area": "",
+    "food": "đặc sản",
+    "id": "19263",
+    "name": "nhà hàng phương dung",
+    "phone": "01223360966",
+    "postcode": "cb41uy",
+    "pricerange": "vừa phải",
+    "type": "nhà hàng",
+    "introduction": "bắt đầu hoạt động từ năm 1989 , bánh tôm phương dung là một nét đẹp không thể thiếu trong ẩm thực người tràng an là mỹ vị nơi tây hồ"
+  },
+  {
+    "location": [
+      21.035564,
+      105.817931
+    ],
+    "address": "tầng m - khách sạn candle hotel , số 287 - 301 đội cấn , q . ba đình",
+    "area": "",
+    "food": "buffet",
+    "id": "19171",
+    "introduction": "những món ăn nhật bản thơm ngon bổ dưỡng được chế biến với niềm đam mê nghệ thuật ẩm thực , cùng sự tinh tế sáng tạo của đội ngũ đầu bếp kinh nghiệm và đẳng cấp quốc tế . với sự tham gia của chuyên gia đến từ nhật bản , những món này sẽ mang đến nhiều thú vị cho thực khách .",
+    "name": "sakura",
+    "phone": "01223302010",
+    "postcode": "cb11bg",
+    "pricerange": "vừa phải",
+    "type": "nhà hàng"
+  },
+  {
+    "location": [
+      21.015995,
+      105.800175
+    ],
+    "address": "số 71 trung hoà , q . cầu giấy",
+    "area": "",
+    "food": "buffet",
+    "id": "14810",
+    "introduction": "- món nướng mang hương vị đông bắc - trung hoa độc đáo . - sử dụng than cao cấp bichotan cho nhiệt lượng cao gấp 3 so với than thông thường & không tự tỏa khói giúp món nướng giữ trọn vị ngon nguyên bản .",
+    "name": "chifan",
+    "phone": "01223353110",
+    "postcode": "cb30ad",
+    "pricerange": "vừa phải",
+    "signature": "barnsley chop braised potatoes roast celeriac red cabbage and port sauce",
+    "type": "nhà hàng"
+  },
+  {
+    "location": [
+      21.020243,
+      105.848038
+    ],
+    "address": "6a hàng lược , hàng mã",
+    "area": "",
+    "food": "lẩu",
+    "id": "19275",
+    "introduction": "- đầu bếp nhà hàng từng có 1 thời gian dài theo học nấu ăn bên thái , có kinh nghiệm hơn 10 năm làm bếp",
+    "name": "lạ quán",
+    "phone": "01223323737",
+    "postcode": "cb58wr",
+    "pricerange": "vừa phải",
+    "type": "nhà hàng"
+  },
+  {
+    "location": [
+      21.032583,
+      105.808972
+    ],
+    "address": "tầng 1 số 20 phố đào tấn , p . cống vị , q . ba đình",
+    "area": "",
+    "food": "món việt",
+    "id": "19219",
+    "name": "an nam cháo",
+    "phone": "01842753771",
+    "postcode": "cb21eg",
+    "pricerange": "rẻ",
+    "type": "nhà hàng",
+    "introduction": "an nam cháo do ông nguyễn ngọc xuân , doanh nhân người việt tại liên bang nga , gây dựng đang dần dần thay đổi quan điểm này để món cháo thuần việt trở thành món ăn cho mọi người ."
+  },
+  {
+    "location": [
+      21.043915,
+      105.838257
+    ],
+    "address": "tầng 6 tttm lotte center 54 liễu giai",
+    "area": "",
+    "food": "nướng",
+    "id": "19215",
+    "introduction": "gojumong casual is an authentic korean barbecue restaurant situated on the 6th floor of lotte center . operated since 2014 , we 've been well - known for a wide - range menu of savoury barbecue and cozy atmosphere , which is loved by not only locals but also foreigners . gojumong is definitely the perfect place for enjoying premium cuts of marinated beef or pork to be char - grilled at your table along with a healthy assortment of banchan , bottomless korean side dishes .",
+    "name": "gojumong casual",
+    "phone": "01223307581",
+    "postcode": "cb21dp",
+    "pricerange": "rẻ",
+    "type": "nhà hàng"
+  },
+  {
+    "location": [
+      21.029528,
+      105.812953
+    ],
+    "address": "114b2 nguyễn chí thanh , q . ba đình",
+    "area": "",
+    "food": "món âu",
+    "id": "6780",
+    "introduction": "- nguyên liệu sạch có chứng nhận đầy đủ về vs attp và nguyên liệu nhập khẩu- các đầu bếp tại đây đều được trải qua quá trình đào tạo với đầu bếp chính người úc có kinh nghiệm hơn 15 năm trong ngành ẩm thực",
+    "name": "pepperonis",
+    "phone": "01223362054",
+    "postcode": "cb21uw",
+    "pricerange": "vừa phải",
+    "signature": "poached fillets of monkfish in lemongrass with sweet red chilli cream sauce and tiger prawns with leeks and mushrooms served with rice",
+    "type": "nhà hàng"
+  },
+  {
+    "location": [
+      21.03491,
+      105.810379
+    ],
+    "address": "số 81 phan kế bính kéo dài , p . cống vị , q . ba đình",
+    "area": "",
+    "food": "nhật bản",
+    "id": "31390",
+    "introduction": "- không gian riêng tư yên tĩnh , có khu vực ngồi chờ cho khách trước khi vào nhà hàng . - món mỳ ramen được nấu từ nước ninh xương trong vòng 12h là món đặc trưng chỉ có tại tonchan ramen .",
+    "name": "tonchan ramen",
+    "phone": "01223308871",
+    "postcode": "cb23qf",
+    "pricerange": "vừa phải",
+    "signature": "wasabi spiked hamburger",
+    "type": "nhà hàng"
+  },
+  {
+    "location": [
+      21.02095,
+      105.817914
+    ],
+    "address": "108 k1 láng hạ , q . ba đình",
+    "area": "",
+    "food": "pizza",
+    "id": "19183",
+    "introduction": "nằm trong chuỗi hệ thống al fresco ' s , al fresco ' s láng hạ hấp dẫn thực khách nhờ không gian hiện đại cùng những món ăn hấp dẫn",
+    "name": "al fresco ' s",
+    "phone": "01223367660",
+    "postcode": "cb12bd",
+    "pricerange": "sang trọng",
+    "type": "nhà hàng"
+  },
+  {
+    "location": [
+      21.0241543,
+      105.8208429
+    ],
+    "address": "số 299 giảng võ , p . ngọc khánh , q . ba đình",
+    "area": "",
+    "food": "lẩu nướng",
+    "id": "19238",
+    "introduction": "măm măm bbq chuyên món nướng phong cách trung hoa .",
+    "name": "măm măm bbq",
+    "phone": "01223356354",
+    "postcode": "cb23ll",
+    "pricerange": "rẻ",
+    "type": "nhà hàng"
+  },
+  {
+    "location": [
+      21.043915,
+      105.838257
+    ],
+    "address": "số 16 trấn vũ , p . quán thánh , q . ba đình",
+    "area": "",
+    "food": "lẩu",
+    "id": "29652",
+    "introduction": "- chủ nhà hàng ( bếp trưởng ) người pháp hơn 20 năm kinh nghiệm nhà hàng khách sạn , từng làm bếp trưởng metropole 5 năm 2013 - 2017",
+    "name": "fabrik",
+    "phone": "01223365599",
+    "postcode": "cb21ab",
+    "pricerange": "rẻ",
+    "signature": "piccante rustica pizza , a spicy sausage salami mascarpone and roquito chilli",
+    "type": "nhà hàng"
+  },
+  {
+    "location": [
+      21.029434,
+      105.850312
+    ],
+    "address": "98 hàng trống , q . hoàn kiếm",
+    "area": "",
+    "food": "đặc sản",
+    "id": "19272",
+    "introduction": "- nguyên liệu sạch có chứng nhận đầy đủ về vs attp và nguyên liệu nhập khẩu- các đầu bếp tại đây đều được trải qua quá trình đào tạo với đầu bếp chính người úc có kinh nghiệm hơn 15 năm trong ngành ẩm thực",
+    "name": "pepperonis",
+    "phone": "01223577786",
+    "postcode": "cb58pa",
+    "pricerange": "sang trọng",
+    "type": "nhà hàng"
+  },
+  {
+    "location": [
+      21.028732,
+      105.811052
+    ],
+    "address": "10a phạm huy thông , ngọc khánh , p . nguyễn chí thanh , q . ba đình , hà nội",
+    "area": "",
+    "food": "hàn quốc",
+    "id": "12237",
+    "introduction": "- thu hút đông đảo giới trẻ hà thành bằng thực đơn hấp dẫn các món ăn chế biến theo phong cách đường phố hàn quốc . - nổi tiếng nhất là chảo seoul khổng lồ 75 cm .",
+    "name": "gà rán seoul soul",
+    "phone": "01223327908",
+    "postcode": "cb23ar",
+    "pricerange": "rẻ",
+    "type": "nhà hàng"
+  },
+  {
+    "location": [
+      21.0508906377493,
+      105.868113076787
+    ],
+    "address": "133 trích sài , bưởi",
+    "area": "",
+    "food": "đặc sản",
+    "id": "19257",
+    "name": "ốc tửu quán",
+    "phone": "01733553355",
+    "postcode": "cb41eh",
+    "pricerange": "rẻ",
+    "type": "nhà hàng",
+    "introduction": "tửu quán - 133 trích sài , gắn liền với khu ốc hồ tây nổi tiếng , nơi giới trẻ hà thành hay lui tới để tận hưởng những món ốc tươi ngon đậm mùi sả ớt ."
+  },
+  {
+    "location": [
+      21.06787,
+      105.821651
+    ],
+    "address": "số 688 lạc long quân , nhật tân",
+    "area": "",
+    "food": "món việt",
+    "id": "19260",
+    "introduction": "phục vụ đồ ăn tại chỗ · đồ ăn mang đi",
+    "name": "việt square restaurant",
+    "phone": "01223568988",
+    "postcode": "cb41jy",
+    "pricerange": "sang trọng",
+    "type": "nhà hàng"
+  },
+  {
+    "location": [
+      21.031326,
+      105.815026
+    ],
+    "address": "47 văn cao , ngọc hồ",
+    "area": "",
+    "food": "món miền nam",
+    "id": "19237",
+    "introduction": "quán ngon miền tây - thực đơn đa dạng vô cùng ấn tượng",
+    "name": "quán ngon miền tây",
+    "phone": "01223464550",
+    "postcode": "cb23ll",
+    "pricerange": "rẻ",
+    "signature": "seafood paella",
+    "type": "nhà hàng"
+  },
+  {
+    "location": [
+      21.0309462203865,
+      105.821191889242
+    ],
+    "address": "7 phố ngọc khánh , giảng võ",
+    "area": "",
+    "food": "đặc sản",
+    "id": "19218",
+    "introduction": "trải qua hơn 30 năm cùng với sự phát triển của đất nước nhà hàng ngọc thúy vẫn giữ được hương vị thuần việt với các món ăn dân dã nhưng được rất nhiều khách quý tin tưởng",
+    "name": "nhà hàng ngọc thúy",
+    "phone": "01223353942",
+    "postcode": "cb21dp",
+    "pricerange": "rẻ",
+    "type": "nhà hàng"
+  },
+  {
+    "location": [
+      21.06787,
+      105.821651
+    ],
+    "address": "447 lạc long quân , xuân la",
+    "area": "",
+    "food": "món việt",
+    "id": "19265",
+    "introduction": "- nguồn nguyên liệu được nhập từ các nhà cung cấp uy tín , có chứng nhận xuất xứ và an toàn thực phẩm - đầu bếp có nhiều năm kinh nghiệm trong việc chế biến món ăn việt",
+    "name": "mường khương quán",
+    "phone": "01223350688",
+    "postcode": "cb43hl",
+    "pricerange": "vừa phải",
+    "type": "nhà hàng"
+  },
+  {
+    "location": [
+      21.0190412497552,
+      105.79390969929
+    ],
+    "address": "số 37a trần kim xuyến , p . yên hoà , q . cầu giấy",
+    "area": "",
+    "food": "đặc sản",
+    "id": "19267",
+    "name": "chim to dần bình an",
+    "phone": "01223727410",
+    "postcode": "cb43lf",
+    "pricerange": "vừa phải",
+    "type": "nhà hàng",
+    "introduction": "- chuyên các món về chim , đa dạng về chủng loại , nguyên liệu tươi theo mùa . - không gian rộng 2 mặt tiền , thoáng mát , chỗ đỗ xe thoải mái ."
+  },
+  {
+    "location": [
+      21.026396,
+      105.821624
+    ],
+    "address": "116 d4 giảng võ , q . ba đình",
+    "area": "",
+    "food": "đặc sản",
+    "id": "19220",
+    "introduction": "",
+    "name": "botanica",
+    "phone": "01223354679",
+    "postcode": "cb21la",
+    "pricerange": "sang trọng",
+    "type": "nhà hàng"
+  },
+  {
+    "location": [
+      21.040066,
+      105.807126
+    ],
+    "address": "275 đội cấn , ngọc hồ",
+    "area": "",
+    "food": "lẩu nướng",
+    "id": "19268",
+    "name": "nhà hàng lẩu nướng hàn quốc",
+    "phone": "01223362525",
+    "postcode": "cb58aq",
+    "pricerange": "sang trọng",
+    "type": "nhà hàng",
+    "introduction": "nhà hàng lẩu nướng triều tiên"
+  },
+  {
+    "location": [
+      21.029461,
+      105.809204
+    ],
+    "address": "số 575 kim mã , p . ngọc khánh , q . ba đình",
+    "area": "",
+    "food": "món việt",
+    "id": "19173",
+    "introduction": "- hệ thống nhà hàng việt lớn nhất thế giới với 7 thành viên , top 500 nhà hàng tốt nhất châu á - nhà hàng chỉ sử dụng những đồ ăn , thức uống có nguồn gốc tại việt nam và duy trì thông số kỹ thuật nghiêm ngặt đối với tất cả các sản phẩm trong phòng bếp , đáp ứng các tiêu chuẩn cao nhất về chất lượng và an toàn",
+    "name": "highway4",
+    "phone": "01223301761",
+    "postcode": "cb11dg",
+    "pricerange": "vừa phải",
+    "type": "nhà hàng"
+  },
+  {
+    "location": [
+      21.02184,
+      105.818345
+    ],
+    "address": "1 kim mã , ngọc khánh",
+    "area": "",
+    "food": "món nhật - hàn",
+    "id": "19223",
+    "introduction": "tự hào là bản đồ việt nam được tạo ra bởi người việt nam",
+    "name": "nhà hàng nhật bản hải ngư",
+    "phone": "01223362433",
+    "postcode": "cb21qy",
+    "pricerange": "sang trọng",
+    "type": "nhà hàng"
+  },
+  {
+    "location": [
+      21.028732,
+      105.811052
+    ],
+    "address": "206d , đội cấn , phường đội cấn",
+    "area": "",
+    "food": "đặc sản",
+    "id": "15275",
+    "introduction": "chuyên phục vụ cơm bình dân , cơm văn phòng",
+    "name": "quán cơm bình dân 206d",
+    "phone": "01223360409",
+    "postcode": "cb21rq",
+    "pricerange": "rẻ",
+    "type": "nhà hàng"
+  },
+  {
+    "location": [
+      21.026849,
+      105.823944
+    ],
+    "address": "số 122 - k1 , giảng võ , q . ba đình",
+    "area": "",
+    "food": "lẩu",
+    "id": "19269",
+    "introduction": "- bếp thái koh yam là sự kết thừa của thương hiệu koh samui mang đến cho thực khách hà thành cơ hội khám phá gần 100 món ăn mang đặc trưng thái . - không gian theo phong cách thái lan hiện đại , nguồn nguyên liệu tươi được nhập hàng ngày .",
+    "name": "bếp thái koh yam",
+    "phone": "01223324033",
+    "postcode": "cb58ba",
+    "pricerange": "vừa phải",
+    "type": "nhà hàng"
+  },
+  {
+    "location": [
+      21.017096,
+      105.799358
+    ],
+    "address": "số 132 trung hòa , quận cầu giấy , hà nội",
+    "area": "",
+    "food": "món miền bắc",
+    "id": "19256",
+    "introduction": "thực đơn hơn 200 món ăn đặc sắc , được xây dựng bởi bếp trưởng chef thái với gần 20 năm kinh nghiệm đứng bếp và tổng điều hành ở các nhà hàng , khu nghỉ dưỡng lớn",
+    "name": "bếp quán",
+    "phone": "01223323178",
+    "postcode": "cb39ey",
+    "pricerange": "sang trọng",
+    "type": "nhà hàng"
+  },
+  {
+    "location": [
+      21.061935,
+      105.830761
+    ],
+    "address": "62 xuân diệu , q . tây hồ",
+    "area": "",
+    "id": "19262",
+    "introduction": "al fresco 's 62 xuân diệu là chi nhánh thuộc chuỗi nhà hàng al fresco ' s đến từ đất nước australia xinh đẹp có tên tuổi quen thuộc với mọi người dân việt nam .",
+    "name": "al fresco ' s",
+    "phone": "01223363270",
+    "postcode": "cb41uy",
+    "pricerange": "sang trọng",
+    "food": "món âu",
+    "type": "nhà hàng"
+  },
+  {
+    "location": [
+      21.061006,
+      105.809219
+    ],
+    "address": "481 lạc long quân , p . xuân la , q . tây hồ",
+    "area": "",
+    "food": "nướng",
+    "id": "19261",
+    "introduction": "- nhà hàng chuyên các món hải sản tươi sống - nướng - lẩu tổng hợp . món ăn được chế biến từ các loại thịt bò , thịt lợn , hải sản tươi sống … bởi những đầu bếp chuyên nghiệp có nhiều năm kinh nghiệm phục vụ tại các nhà hàng lớn.- bàn cạnh cửa sổ có view nhìn ra hồ tây .",
+    "name": "ohcha",
+    "phone": "01223356555",
+    "postcode": "cb41nl",
+    "pricerange": "sang trọng",
+    "type": "nhà hàng"
+  },
+  {
+    "location": [
+      21.0232798204888,
+      105.826530015689
+    ],
+    "address": "số 77 hào nam , p . ô chợ dừa , q . đống đa",
+    "area": "",
+    "food": "món việt",
+    "id": "19246",
+    "introduction": "không gian indochine độc đáo cùng món ăn từ chả cá lăng chuẩn vị truyền thống hà nội .",
+    "name": "chả cá hàng sơn",
+    "phone": "01223354755",
+    "postcode": "cb28nx",
+    "pricerange": "sang trọng",
+    "type": "nhà hàng"
+  },
+  {
+    "location": [
+      21.014183,
+      105.818792
+    ],
+    "address": "26 hoàng cầu mới ( fpt thái hà rẽ phải 50 m ) , q . đống đa",
+    "area": "",
+    "food": "lẩu",
+    "id": "19195",
+    "introduction": "- không gian thiết kế theo phong cách loius hoàng gia",
+    "name": "hoàng gia",
+    "phone": "01223412430",
+    "postcode": "cb17dy",
+    "pricerange": "sang trọng",
+    "type": "nhà hàng"
+  },
+  {
+    "location": [
+      21.03195,
+      105.8024
+    ],
+    "address": "167 hoàng ngân , trung hoà",
+    "area": "",
+    "food": "buffet",
+    "id": "7492",
+    "introduction": "nhà hàng tự chọn rộng rãi , bình dị này phục vụ sushi , hải sản , đồ nướng và các món ăn đặc trưng kiểu âu .",
+    "name": "nhà hàng bay buffet",
+    "phone": "01223277977",
+    "postcode": "cb30lx",
+    "pricerange": "sang trọng",
+    "signature": "panfried fillet of brill tempura of langoustine crushed garden peas shellfish basil nage",
+    "type": "nhà hàng"
+  },
+  {
+    "location": [
+      21.03868,
+      105.84658
+    ],
+    "address": "số 21 phùng hưng ( ngắn ) , p . hàng mã , q . hoàn kiếm",
+    "area": "",
+    "food": "đặc sản",
+    "id": "19254",
+    "introduction": "- nhà hàng quả trám chuyên các món ăn đặc sản vùng cao như : gà đồi tiên yên - quảng ninh , bò h ' mông , lợn đen phú thọ , cá sông đà , hải sản cô tô ... đặc biệt các món ăn từ đặc sản quả trám tự nhiên . nguyên liệu sạch được nhà hàng tuyển chọn tại chính các vùng quê đặc sản.- nhà hàng nằm trong khu phố cổ hà nội , sở hữu một không gian gần gũi , mang đậm dấu ấn việt .",
+    "name": "quả trám",
+    "phone": "01223461661",
+    "postcode": "cb39ey",
+    "pricerange": "sang trọng",
+    "type": "nhà hàng"
+  },
+  {
+    "location": [
+      21.035588,
+      105.78922
+    ],
+    "address": "106 trần thái tông , q . cầu giấy",
+    "area": "",
+    "food": "món âu",
+    "id": "19252",
+    "introduction": "al fresco 's 106 trần thái tông là chi nhánh thuộc chuỗi nhà hàng đến từ đất nước australia xinh đẹp có tên tuổi quen thuộc với mọi người dân việt nam .",
+    "name": "al fresco ' s",
+    "phone": "01223355166",
+    "postcode": "cb30dq",
+    "pricerange": "sang trọng",
+    "type": "nhà hàng"
+  },
+  {
+    "location": [
+      21.0203079054205,
+      105.850353632903
+    ],
+    "address": "số 65 hàm long , p . hàng bài , q . hoàn kiếm",
+    "area": "",
+    "food": "buffet",
+    "id": "19271",
+    "introduction": "chef mama chuyên các món nướng và lẩu thượng hạng . nguyên liệu tươi ngon , cao cấp được tuyển chọn khắt khe .",
+    "name": "chef mama",
+    "phone": "01223241387",
+    "postcode": "cb58pa",
+    "pricerange": "sang trọng",
+    "type": "nhà hàng"
+  },
+  {
+    "location": [
+      21.0586227213894,
+      105.821541764807
+    ],
+    "address": "số 38 đặng thai mai , q . tây hồ",
+    "area": "",
+    "food": "món việt",
+    "id": "19258",
+    "introduction": "không gian giản dị và chân thành của nhà hàng sen đầm trị sẽ giúp thực khách tìm lại sự thư thái và nhẹ nhõm trong tâm hồn",
+    "name": "sen đầm trị",
+    "phone": "01223366552",
+    "postcode": "cb41ep",
+    "pricerange": "sang trọng",
+    "type": "nhà hàng"
+  },
+  {
+    "location": [
+      21.043915,
+      105.838257
+    ],
+    "address": "269 kim mã , khu tập thể giảng võ",
+    "area": "",
+    "food": "món á",
+    "id": "7236",
+    "introduction": "lẩu 88 - lẩu các loại - quán ăn - món việt",
+    "name": "lẩu 88",
+    "phone": "01223307030",
+    "postcode": "cb58aq",
+    "pricerange": "rẻ",
+    "signature": "lobster mac and cheese",
+    "type": "nhà hàng"
+  },
+  {
+    "location": [
+      21.040066,
+      105.807126
+    ],
+    "address": "số 346 đường bưởi , p . vĩnh phúc , q . ba đình",
+    "area": "",
+    "food": "lẩu",
+    "id": "19176",
+    "introduction": "- hệ thống nhà hàng lẩu dê nhất ly ra đời từ năm 1994 , chuyên lẩu nướng không khói và các món ngon từ thịt dê.- nguyên liệu dê ré tươi , ngon , sạch , thịt săn chắc , được nhập từ các tỉnh miền núi phía bắc việt nam .",
+    "name": "lẩu dê nhất ly",
+    "phone": "01223355711",
+    "postcode": "cb11ln",
+    "pricerange": "sang trọng",
+    "type": "nhà hàng"
+  },
+  {
+    "location": [
+      21.048178,
+      105.841864
+    ],
+    "address": "69 phó đức chính , q . ba đình",
+    "area": "",
+    "food": "quán nhậu",
+    "id": "19232",
+    "introduction": "- nguồn nguyên liệu của nhà hàng được nhập từ các nhà cung cấp uy tín tại hà nội - đội ngũ đầu bếp chuyên nghiệp và có kinh nghiệm lâu năm với các món nhậu , lẩu",
+    "name": "lẩu đức trọc",
+    "phone": "01223362372",
+    "postcode": "cb21uj",
+    "pricerange": "vừa phải",
+    "type": "nhà hàng"
+  },
+  {
+    "location": [
+      21.0279955415118,
+      105.822214369689
+    ],
+    "address": "số 102c5 trần huy liệu , q . ba đình",
+    "area": "",
+    "food": "đặc sản",
+    "id": "19187",
+    "name": "let ' s sushi",
+    "phone": "01223355012",
+    "postcode": "cb12lf",
+    "pricerange": "sang trọng",
+    "type": "nhà hàng",
+    "introduction": "nguyên liệu tươi ngon , thực đơn món nhật phong phú ."
+  },
+  {
+    "location": [
+      21.025359,
+      105.82171
+    ],
+    "address": "63 phạm hồng thái , trúc bạch",
+    "area": "",
+    "food": "món việt",
+    "id": "19174",
+    "introduction": "món ăn việt - phong vị dân dã quê hương",
+    "name": "nhà hàng món việt",
+    "phone": "01223357187",
+    "postcode": "cb11hr",
+    "pricerange": "sang trọng",
+    "type": "nhà hàng"
+  },
+  {
+    "location": [
+      21.02565,
+      105.8182
+    ],
+    "address": "số 152 ngọc khánh , p . giảng võ , q . ba đình",
+    "area": "",
+    "food": "nhật bản",
+    "id": "12482",
+    "introduction": "- nguyên liệu cá hồi nhập khẩu tươi ngon và đa dạng . các món ăn nhật bản chuẩn vị , giá hợp lý . - không gian nhà hàng hiện đại , ấm cúng và đậm dấu ấn xứ phù tang .",
+    "name": "g8 osake house - 152 ngọc khánh",
+    "postcode": "cb23ju",
+    "pricerange": "sang trọng",
+    "type": "nhà hàng"
+  },
+  {
+    "location": [
+      21.046313,
+      105.841702
+    ],
+    "address": "số 21 ngũ xã , p . trúc bạch , q . ba đình",
+    "area": "",
+    "food": "đặc sản",
+    "id": "19231",
+    "introduction": "hải sản tươi ngon , giá hợp lý .",
+    "name": "vua hải sản đường phố",
+    "phone": "01223324351",
+    "postcode": "cb21ug",
+    "pricerange": "sang trọng",
+    "type": "nhà hàng"
+  },
+  {
+    "location": [
+      21.041565,
+      105.791437
+    ],
+    "address": "số 273 tô hiệu , p . dịch vọng , q . cầu giấy",
+    "area": "",
+    "food": "buffet",
+    "id": "19251",
+    "introduction": "- nhà hàng đầu tiên tại hà nội hoạt động theo mô hình kết hợp lẩu hơi - lẩu nướng . - thực đơn phong phú , thực phẩm an toàn tuyển chọn từ các nhà cung cấp uy tín .",
+    "name": "safodi",
+    "phone": "01223276182",
+    "postcode": "cb30df",
+    "pricerange": "sang trọng",
+    "type": "nhà hàng"
+  },
+  {
+    "location": [
+      21.0316651205505,
+      105.82247678048
+    ],
+    "address": "số 11 , ngõ 290 kim mã , p . kim mã , q . ba đình",
+    "area": "",
+    "food": "đặc sản",
+    "id": "19184",
+    "introduction": "- lẩu dê khô thu béo - kim mã là chi nhánh thứ 3 của chuỗi nhà hàng chuyên về dê.- dê tuyển chọn và nhập từ ninh bình . món ăn nổi tiếng nhất là lẩu dê khô .",
+    "name": "lẩu dê khô thu béo",
+    "phone": "01223351027",
+    "postcode": "cb12bd",
+    "pricerange": "sang trọng",
+    "type": "nhà hàng"
+  },
+  {
+    "location": [
+      21.025732,
+      105.846123
+    ],
+    "address": "tầng 1 , tòa nhà hanoi tower , số 49 , phố hai bà trưng , q . hoàn kiếm",
+    "area": "",
+    "food": "nhật bản",
+    "id": "19190",
+    "name": "tamaya japanese restaurant",
+    "phone": "01223247877",
+    "postcode": "cb13nl",
+    "pricerange": "sang trọng",
+    "type": "nhà hàng",
+    "introduction": "thông điệp chính của nhà hàng tamaya japanese restaurant là origninal japanese taste - trải nhiệm hương vị 200 món ăn thuần nhật cùng bếp trưởng kudou takahisa"
+  },
+  {
+    "location": [
+      21.020243,
+      105.848038
+    ],
+    "address": "34a quang trung , q . hoàn kiếm",
+    "area": "",
+    "food": "đặc sản",
+    "id": "19274",
+    "introduction": "- đầu bếp nhà hàng từng có 1 thời gian dài theo học nấu ăn bên thái , có kinh nghiệm hơn 10 năm làm bếp",
+    "name": "bếp thái koh yam",
+    "phone": "01223244955",
+    "postcode": "cb58rg",
+    "pricerange": "vừa phải",
+    "type": "nhà hàng"
+  },
+  {
+    "location": [
+      21.040066,
+      105.807126
+    ],
+    "address": "63 phạm hồng thái , trúc bạch",
+    "area": "",
+    "food": "món việt",
+    "id": "19172",
+    "name": "nhà hàng cơm việt",
+    "phone": "01223355909",
+    "postcode": "cb11dg",
+    "pricerange": "sang trọng",
+    "type": "nhà hàng",
+    "introduction": "ăn tại chỗ · nhận hàng ở lề đường · giao hàng"
+  },
+  {
+    "location": [
+      21.036253,
+      105.80765
+    ],
+    "address": "số 26 , ngõ 254 , đường bưởi , ba đình",
+    "area": "",
+    "food": "quán nhậu",
+    "id": "19178",
+    "introduction": "không gian và thực đơn đa dạng , hấp dẫn , mang đậm chất núi rừng tây bắc với giá hợp lý",
+    "name": "độc quán",
+    "phone": "01223500005",
+    "postcode": "cb11ln",
+    "pricerange": "vừa phải",
+    "type": "nhà hàng"
+  },
+  {
+    "location": [
+      21.02184,
+      105.818345
+    ],
+    "address": "6a láng hạ , q . ba đình",
+    "area": "",
+    "food": "món thái",
+    "id": "19209",
+    "introduction": "- đầu bếp với 15 năm kinh nghiệm- sự hòa quyện của nhiều hương vị : chua , cay , mặn , ngọt , đắng cùng nước sốt độc quyền của nhà hàng .",
+    "name": "thai pattaya",
+    "phone": "01223312598",
+    "postcode": "cb21ab",
+    "pricerange": "sang trọng",
+    "type": "nhà hàng"
+  },
+  {
+    "location": [
+      21.033806,
+      105.805735
+    ],
+    "address": "21 phố vạn phúc , kim mã",
+    "area": "",
+    "food": "lẩu",
+    "id": "19239",
+    "introduction": "lẩu gạch - trọn vị cua , tròn vị lẩu lẩu cua đồng nguyên chất 100 % , không phụ gia , không độn",
+    "name": "nhà hàng lẩu gạch",
+    "phone": "01223350106",
+    "postcode": "cb23nj",
+    "pricerange": "sang trọng",
+    "type": "nhà hàng"
+  },
+  {
+    "location": [
+      21.025359,
+      105.82171
+    ],
+    "address": "tầng 4 , khách sạn grand vista hanoi , 146 giảng võ , p . giảng võ , q . ba đình",
+    "area": "",
+    "food": "buffet",
+    "id": "6941",
+    "introduction": "nhà hàng déli mang tới cho thực khách những trải nghiệm đẳng cấp cùng nhiều nền ẩm thực đặc sắc khác nhau trên thế giới .",
+    "name": "déli",
+    "phone": "01223359506",
+    "postcode": "cb21sj",
+    "pricerange": "sang trọng",
+    "signature": "lamb barnsley chop potato and garlic bake greens and gravy",
+    "type": "nhà hàng"
+  },
+  {
+    "location": [
+      21.02184,
+      105.818345
+    ],
+    "address": "83 nguyễn thái học , văn miếu",
+    "area": "",
+    "food": "nướng",
+    "id": "19181",
+    "introduction": "quán vỉa hè , phục vụ nhanh . nầm bò nướng ngon , giòn và thơm .",
+    "name": "quán cao",
+    "phone": "01223311911",
+    "postcode": "cb12as",
+    "pricerange": "sang trọng",
+    "type": "nhà hàng"
+  },
+  {
+    "location": [
+      21.024295,
+      105.845834
+    ],
+    "address": "số 4a ngõ 67 lý thường kiệt , p . trần hưng đạo , q . hoàn kiếm",
+    "area": "",
+    "food": "đặc sản",
+    "id": "19198",
+    "name": "chay vị lai",
+    "phone": "01223249955",
+    "postcode": "cb19hx",
+    "pricerange": "sang trọng",
+    "type": "nhà hàng",
+    "introduction": "- nguyên liệu từ thực vật sạch tuyển chọn từ nguồn cung uy tín cả trong nước và nhập khẩu . - nhà hàng sở hữu một không gian thanh tịnh , thoáng đãng và gần gũi với thiên nhiên ."
+  },
+  {
+    "location": [
+      21.033806,
+      105.805735
+    ],
+    "address": "109 đào tấn , q . ba đình",
+    "area": "",
+    "food": "lẩu nướng",
+    "id": "19217",
+    "introduction": "- king bbq thuộc sở hữu của tập đoàn redsun iti - một trong những tập đoàn ẩm thực lớn mạnh bậc nhất việt nam , sở hữu nhiều thương hiệu ẩm thực nổi tiếng khác như : thaiexpress , hotpot story , seoul garden , sushi kei , buk buk , capricciosa , khao lao , tasaki bbq , dolpan sam- công thức độc quyền của “ nước sốt king ” - được chính bếp trưởng park sung min , một trong những đầu bếp nổi tiếng nhất hàn quốc , với kinh nghiệm hơn 40 năm trong ngành ẩm thực , trực tiếp nghiên cứu và chế biến .",
+    "name": "king bbq",
+    "phone": "01223307581",
+    "postcode": "cb21dp",
+    "pricerange": "sang trọng",
+    "type": "nhà hàng"
+  },
+  {
+    "location": [
+      21.02565,
+      105.8182
+    ],
+    "address": "số 67 phan kế bính , cống vị",
+    "area": "",
+    "food": "buffet",
+    "id": "508",
+    "introduction": "với 2 set buffet 199k và 279k , menu của làu là sự kết hợp hài hoà của các món dimsum nóng hổi , thịt nướng tẩm ướp đậm đà và hải sản tươi ngon , giàu dinh dưỡng .",
+    "name": "làu buffet",
+    "phone": "01223369299",
+    "postcode": "cb41 ha",
+    "pricerange": "sang trọng",
+    "signature": "seared scallops with truffle apple and celeriac",
+    "type": "nhà hàng"
+  },
+  {
+    "location": [
+      21.032178,
+      105.812426
+    ],
+    "address": "f3-c01 , tầng 3 , tttm lotte center , 54 liễu giai , q . ba đình",
+    "area": "",
+    "food": "món miền trung",
+    "id": "19230",
+    "introduction": "phố ngon 37 thuộc tập đoàn golden gate - tập đoàn sở hữu những thương hiệu hàng đầu về lĩnh vực ẩm thực - nhà hàng như sumobbq , gogi house , kichi kichi , isushi , ashima , hutong , cowboy jack ' s , daruma , k - pub , vuvuzela , shogun , manwah .",
+    "name": "phố ngon 37",
+    "phone": "01223311053",
+    "postcode": "cb21uf",
+    "pricerange": "sang trọng",
+    "type": "nhà hàng"
+  },
+  {
+    "location": [
+      21.032837059389,
+      105.807896103764
+    ],
+    "address": "số 52 đào tấn , q . ba đình",
+    "area": "",
+    "food": "lẩu",
+    "id": "19234",
+    "introduction": "nổi tiếng với những món lẩu nấm thơm ngon , bổ dưỡng , kết hợp cùng gần 20 loại nấm thiên nhiên quý hiếm từ mỹ , hàn , nhật ...",
+    "name": "nấm tràng an",
+    "phone": "01223448620",
+    "postcode": "cb21uj",
+    "pricerange": "sang trọng",
+    "type": "nhà hàng"
+  },
+  {
+    "location": [
+      21.028412,
+      105.810744
+    ],
+    "address": "số 12 phạm huy thông , q . ba đình",
+    "area": "",
+    "food": "món việt",
+    "id": "19222",
+    "introduction": "nhà hàng sơn thủy restaurant chuyên về các món ăn hải sản và đặc sản núi rừng .",
+    "name": "sơn thủy restaurant",
+    "phone": "01223358899",
+    "postcode": "cb21nw",
+    "pricerange": "sang trọng",
+    "type": "nhà hàng"
+  },
+  {
+    "location": [
+      21.032178,
+      105.812426
+    ],
+    "address": "67 trần phú , kim mã",
+    "area": "",
+    "food": "món miền bắc",
+    "id": "19236",
+    "introduction": "quán ăn đặc sản miền bắc",
+    "name": "đặc sản miền bắc",
+    "phone": "01223354382",
+    "postcode": "cb23jx",
+    "pricerange": "sang trọng",
+    "type": "nhà hàng"
+  }
+]

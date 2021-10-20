@@ -225,8 +225,10 @@ class MultiWozReader(_ReaderBase):
         self.nlp = spacy.load('en_core_web_sm')
         self.db = MultiWozDB(cfg.dbs)
         self.args = args
-        self.domain_files = json.loads(open(cfg.domain_file_path, 'r').read())
-        self.slot_value_set = json.loads(open(cfg.slot_value_set_path, 'r').read())
+        slot_value_set = open(cfg.slot_value_set_path, 'r', encoding='utf8')
+        domain_files = open(cfg.domain_file_path, 'r', encoding='utf8')
+        self.domain_files = json.loads(domain_files.read())
+        self.slot_value_set = json.loads(slot_value_set.read())
         test_list = [l.strip().lower() for l in open(cfg.test_list, 'r').readlines()]
         dev_list = [l.strip().lower() for l in open(cfg.dev_list, 'r').readlines()]
         self.dev_files, self.test_files = {}, {}

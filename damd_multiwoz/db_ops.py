@@ -7,7 +7,7 @@ class MultiWozDB(object):
         self.dbs = {}
         self.sql_dbs = {}
         for domain in all_domains:
-            with open(db_paths[domain], 'r') as f:
+            with open(db_paths[domain], 'r', encoding='utf8') as f:
                 self.dbs[domain] = json.loads(f.read().lower())
 
 

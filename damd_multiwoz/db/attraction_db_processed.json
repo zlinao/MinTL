@@ -1,0 +1,1266 @@
+[
+  {
+    "location": [
+      21.0498295,
+      105.7440643
+    ],
+    "address": "19 hoàng diệu , điện bàn , hoàn kiếm",
+    "area": "hoàn kiếm",
+    "price": "?",
+    "id": "1",
+    "name": "bể bơi quân đội",
+    "openhours": "?",
+    "phone": "02422415161",
+    "postcode": "cb58nt",
+    "pricerange": "?",
+    "type": "bể bơi"
+  },
+  {
+    "location": [
+      21.014359,
+      105.8117771
+    ],
+    "address": "166 ngõ xã đàn 2 , nam đồng",
+    "area": "ba đình",
+    "price": "?",
+    "id": "2",
+    "name": "cafe phim đống đa",
+    "openhours": "?",
+    "phone": "02473033088",
+    "postcode": "cb58as",
+    "pricerange": "?",
+    "type": "nhà hát"
+  },
+  {
+    "location": [
+      21.0369023,
+      105.832478
+    ],
+    "address": "19c hoàng diệu , điện bàn , ba đình",
+    "area": "ba đình",
+    "price": "miễn phí",
+    "id": "3",
+    "name": "tượng đài lenin",
+    "openhours": "lăng mở cửa từ 7h30 đến 10h30 từ thứ 2 đến thứ 5 , từ 7h30 đến 11h vào thứ 7 và chủ nhật , lăng đóng cửa vào thứ 6 .",
+    "phone": "02437345427",
+    "postcode": "cb58bs",
+    "pricerange": "miễn phí",
+    "type": "công trình kiến trúc"
+  },
+  {
+    "location": [
+      21.0381746,
+      105.8309645
+    ],
+    "address": "73 , đường vạn bảo , phường kim mã",
+    "area": "ba đình",
+    "price": "150,000 vnđ",
+    "id": "4",
+    "name": "câu lạc bộ hà nội ultimate",
+    "openhours": "mở cửa từ 10:30p . m đến 03:30",
+    "phone": "08044287",
+    "postcode": "cb23na",
+    "pricerange": "vừa phải",
+    "type": "câu lạc bộ đêm"
+  },
+  {
+    "location": [
+      21.0356011,
+      105.8326289
+    ],
+    "address": "19 ngọc hà , đội cấn",
+    "area": "ba đình",
+    "price": "miễn phí",
+    "id": "5",
+    "name": "bảo tàng hồ chí minh",
+    "openhours": "?",
+    "phone": "02438463757",
+    "postcode": "cb11ln",
+    "pricerange": "miễn phí",
+    "type": "bảo tàng"
+  },
+  {
+    "location": [
+      21.0160826,
+      105.8140601
+    ],
+    "address": "97 hoàng cầu , chợ dừa , đống đa",
+    "area": "đống đa",
+    "price": "miễn phí",
+    "id": "6",
+    "name": "bảo tàng mỹ thuật việt nam 2",
+    "openhours": "bảo tàng mở cửa sáng từ 08:00 đến 11:30 , chiều từ 13:00 đến 16:00 , hàng tuần ngoại trừ chủ nhật",
+    "phone": "02437332131",
+    "postcode": "cb21sj",
+    "pricerange": "miễn phí",
+    "type": "bảo tàng"
+  },
+  {
+    "location": [
+      21.0403422,
+      105.7899807
+    ],
+    "address": "đ . nguyễn văn huyên , quan hoa",
+    "area": "cầu giấy",
+    "price": "miễn phí",
+    "id": "7",
+    "name": "bảo tàng dân tộc học việt nam",
+    "openhours": "bảo tàng mở cửa hàng ngày từ 08:00 đến 17:30",
+    "phone": "02437562193",
+    "postcode": "cb30af",
+    "pricerange": "miễn phí",
+    "type": "bảo tàng"
+  },
+  {
+    "location": [
+      21.0437024,
+      105.8314608
+    ],
+    "address": "108 , nguyễn du",
+    "area": "hoàn kiếm",
+    "price": "?",
+    "id": "8",
+    "name": "trung tâm công nghệ & thiết kế tàu thuỷ cao tốc",
+    "openhours": "?",
+    "phone": "0986676689",
+    "postcode": "cb58sx",
+    "pricerange": "?",
+    "type": "thuyền cho thuê"
+  },
+  {
+    "location": [
+      21.0207944,
+      105.79594
+    ],
+    "address": "tòa nhà hội nhà báo việt nam , lô e2 , d . đình nghệ , yên hoà",
+    "area": "cầu giấy",
+    "price": "105,000 vnđ",
+    "id": "9",
+    "name": "bảo tàng báo chí việt nam",
+    "openhours": "bảo tàng mở cửa hàng sáng từ 08:30 đến 12:30 ngoại trừ thứ bảy",
+    "phone": "0986986110",
+    "postcode": "cb30aq",
+    "pricerange": "vừa phải",
+    "type": "bảo tàng"
+  },
+  {
+    "location": [
+      21.0271832,
+      105.8465809
+    ],
+    "address": "58 kim mã",
+    "area": "ba đình",
+    "price": "?",
+    "id": "10",
+    "name": "nhà hát nghệ thuật đương đại việt nam",
+    "openhours": "?",
+    "phone": "02438430913",
+    "postcode": "cb23pj",
+    "pricerange": "?",
+    "type": "nhà hát"
+  },
+  {
+    "location": [
+      21.0221676,
+      105.8482003
+    ],
+    "address": "36 lý thường kiệt , hàng bài",
+    "area": "hoàn kiếm",
+    "price": "miễn phí",
+    "id": "11",
+    "name": "bảo tàng phụ nữ việt nam",
+    "openhours": "?",
+    "phone": "02438259936",
+    "postcode": "cb13ef",
+    "pricerange": "miễn phí",
+    "type": "bảo tàng"
+  },
+  {
+    "location": [
+      21.0351051,
+      105.7927321
+    ],
+    "address": "đường phan văn trường , dịch vọng hậu",
+    "area": "cầu giấy",
+    "price": "miễn phí",
+    "id": "12",
+    "name": "bảo tàng binh chủng hoá học",
+    "openhours": "bảo tàng mở cửa từ thứ hai đến thứ sau , sáng từ 08:00 đến 11:00 , chiều từ 13:00 đến 16:00",
+    "phone": "01223694264",
+    "postcode": "cb39ey",
+    "pricerange": "miễn phí",
+    "type": "bảo tàng"
+  },
+  {
+    "location": [
+      21.0221875,
+      105.8482003
+    ],
+    "address": "28a điện biên phủ , điện bàn",
+    "area": "ba đình",
+    "price": "miễn phí",
+    "id": "13",
+    "name": "bảo tàng lịch sử quân sự việt nam",
+    "openhours": "bảo tàng mở cửa hàng ngày trong tuần trừ thứ sáu , sáng từ 08:00 đến 11:30 , chiều từ 13:00 đến 16:30",
+    "phone": "02462531367",
+    "postcode": "cb21su",
+    "pricerange": "miễn phí",
+    "type": "bảo tàng"
+  },
+  {
+    "location": [
+      21.023484,
+      105.8525669
+    ],
+    "address": "6 phạm ngũ lão , phan chu trinh",
+    "area": "hoàn kiếm",
+    "price": "200,000 vnđ",
+    "id": "14",
+    "name": "bảo tàng địa chất",
+    "openhours": "bảo tàng mở cửa từ thứ hai đến thứ sáu hàng tuần , từ 08:00 đến 17:00",
+    "phone": "02439331496",
+    "postcode": "cb58ld",
+    "pricerange": "sang trọng",
+    "type": "bảo tàng"
+  },
+  {
+    "location": [
+      21.0281656,
+      105.8441126
+    ],
+    "address": "35 trần phú , điện bàn",
+    "area": "ba đình",
+    "price": "150,000 vnđ",
+    "id": "15",
+    "name": "công viên lê nin - đối diện 35 trần phú",
+    "openhours": "mở cửa từ 10:00 đến 06:00p . m trong tháng 4 đến tháng 9",
+    "phone": "01223336265",
+    "postcode": "cb21jf",
+    "pricerange": "vừa phải",
+    "type": "công viên"
+  },
+  {
+    "location": [
+      21.023588,
+      105.8460008
+    ],
+    "address": "66 nguyễn thái học , điện bàn",
+    "area": "ba đình",
+    "price": "miễn phí",
+    "id": "16",
+    "name": "bảo tàng mỹ thuật việt nam",
+    "openhours": "bảo tàng mở cửa hàng ngày từ 08:30 đến 17:00",
+    "phone": "01223307402",
+    "postcode": "cb23bj",
+    "pricerange": "miễn phí",
+    "type": "bảo tàng"
+  },
+  {
+    "location": [
+      21.0254303,
+      105.8647548
+    ],
+    "address": "số 2 chương dương độ",
+    "area": "hoàn kiếm",
+    "price": "?",
+    "id": "17",
+    "name": "khu vui chơi kibi - chương dương độ",
+    "openhours": "?",
+    "phone": "0969809850",
+    "postcode": "cb18dw",
+    "pricerange": "?",
+    "type": "khu vui chơi giải trí"
+  },
+  {
+    "location": [
+      21.0255491,
+      105.8647548
+    ],
+    "address": "104 phố lý thái tổ , tràng tiền",
+    "area": "hoàn kiếm",
+    "price": "miễn phí",
+    "id": "18",
+    "name": "hồ gươm park",
+    "openhours": "từ tháng 5 đến tháng 9",
+    "phone": "01223446100",
+    "postcode": "cb18dw",
+    "pricerange": "miễn phí",
+    "type": "công viên"
+  },
+  {
+    "location": [
+      21.0261591,
+      105.845679
+    ],
+    "address": "10 điện biên phủ , cửa nam",
+    "area": "ba đình",
+    "price": "miễn phí",
+    "id": "19",
+    "name": "trường cao đẳng dầu khí việt nam - cn văn phòng",
+    "openhours": "",
+    "phone": "0916483910",
+    "postcode": "cb23bu",
+    "pricerange": "miễn phí",
+    "type": "đại học"
+  },
+  {
+    "location": [
+      21.0298835,
+      105.8046947
+    ],
+    "address": "số 10 , đường đ . nguyễn văn huyên , dịch vọng",
+    "area": "cầu giấy",
+    "price": "miễn phí",
+    "id": "20",
+    "name": "trường cao đẳng điện tử - điện lạnh hà nội",
+    "openhours": "trường mở cửa từ thứ hai đến thứ sáu , từ 07:30 đến 17:30",
+    "phone": "02437673896",
+    "postcode": "cb30ds",
+    "pricerange": "miễn phí",
+    "type": "đại học"
+  },
+  {
+    "location": [
+      21.0062674,
+      105.8230623
+    ],
+    "address": "tầng 8 tttm vincom , số 2 phạm ngọc thạch , kim liên , đống đa",
+    "area": "đống đa",
+    "price": "?",
+    "id": "21",
+    "name": "bhd star cinema",
+    "openhours": "?",
+    "phone": "02436374079",
+    "postcode": "cb17dy",
+    "pricerange": "?",
+    "type": "rạp chiếu phim"
+  },
+  {
+    "location": [
+      21.0383396,
+      105.7753212
+    ],
+    "address": "số 1 ngõ 58 phố trần bình , mai dịch",
+    "area": "cầu giấy",
+    "price": "75,000 vnđ",
+    "id": "22",
+    "name": "trường cao đẳng du lịch và thương mại",
+    "openhours": "mở cửa hàng ngày từ 9 đến 5p . m",
+    "phone": "0973219219",
+    "postcode": "cb21tl",
+    "pricerange": "vừa phải",
+    "type": "đại học"
+  },
+  {
+    "location": [
+      21.0296832,
+      105.7906829
+    ],
+    "address": "36 xuân thủy , dịch vọng hậu",
+    "area": "cầu giấy",
+    "price": "miễn phí",
+    "id": "23",
+    "name": "trường cao đẳng kinh tế công nghệ hà nội ( hateco )",
+    "openhours": "trường mở cửa hàng ngày",
+    "phone": "0822859668",
+    "postcode": "cb39al",
+    "pricerange": "miễn phí",
+    "type": "đại học"
+  },
+  {
+    "location": [
+      21.0477314,
+      105.8380111
+    ],
+    "address": "42 m yên phụ , trúc bạch",
+    "area": "ba đình",
+    "price": "150,000 vnđ",
+    "id": "24",
+    "name": "hero bar",
+    "openhours": "club mở cửa từ 21:00 đến 03:00",
+    "phone": "0989264242",
+    "postcode": "cb12jb",
+    "pricerange": "vừa phải",
+    "type": "câu lạc bộ đêm"
+  },
+  {
+    "location": [
+      21.0368308,
+      105.7827683
+    ],
+    "address": "266 đội cấn , liễu giai",
+    "area": "ba đình",
+    "price": "25,000 vnđ",
+    "id": "25",
+    "name": "trường đại học nguyễn trãi",
+    "openhours": "trường mở cửa từ thứ hai đến thứ sáu , từ 08:00 đến 17:00",
+    "phone": "02437547823",
+    "postcode": "cb21rh",
+    "pricerange": "rẻ",
+    "type": "đại học"
+  },
+  {
+    "location": [
+      21.0368308,
+      105.7827683
+    ],
+    "address": "50 vạn bảo , ngọc khánh",
+    "area": "ba đình",
+    "price": "miễn phí",
+    "id": "26",
+    "name": "trường đại học dân lập đông đô",
+    "openhours": "trường mở cửa từ thứ hai đến thứ sáu , từ 08:00 đến 17:00",
+    "phone": "02437547506",
+    "postcode": "cb21dq",
+    "pricerange": "miễn phí",
+    "type": "đại học"
+  },
+  {
+    "location": [
+      21.0368308,
+      105.7827683
+    ],
+    "address": "số 6 vĩnh phúc , vĩnh phú",
+    "area": "ba đình",
+    "price": "miễn phí",
+    "id": "27",
+    "name": "trường đại học thủ đô hà nội",
+    "openhours": "trường mở cửa từ thứ hai đến thứ sáu",
+    "phone": "01223334200",
+    "postcode": "cb23ap",
+    "pricerange": "miễn phí",
+    "type": "đại học"
+  },
+  {
+    "location": [
+      21.0278873,
+      105.8515829
+    ],
+    "address": "số 36 phố lý thái tổ , lý thái tổ",
+    "area": "hoàn kiếm",
+    "price": "?",
+    "id": "28",
+    "name": "cung thiếu nhi hà nội",
+    "openhours": "?",
+    "phone": "01223304705",
+    "postcode": "cb58hy",
+    "pricerange": "?",
+    "type": "khu vui chơi giải trí"
+  },
+  {
+    "location": [
+      21.0233457,
+      105.8522266
+    ],
+    "address": "19 lê thánh tông , phan chu trinh",
+    "area": "hoàn kiếm",
+    "price": "miễn phí",
+    "id": "29",
+    "name": "bảo tàng sinh học - đại học quốc gia hà nội",
+    "openhours": "?",
+    "phone": "0989171907",
+    "postcode": "cb15dh",
+    "pricerange": "miễn phí",
+    "type": "bảo tàng"
+  },
+  {
+    "location": [
+      21.0233948,
+      105.8390944
+    ],
+    "address": "110b ngọc hà , ngọc hồ",
+    "area": "ba đình",
+    "price": "miễn phí",
+    "id": "30",
+    "name": "trường đại học kinh bắc",
+    "openhours": "trường mở cửa từ thứ hai đến thứ bảy , từ 07:00 đến 18:00",
+    "phone": "02437547269",
+    "postcode": "cb21ta",
+    "pricerange": "miễn phí",
+    "type": "đại học"
+  },
+  {
+    "location": [
+      21.0369023,
+      105.832478
+    ],
+    "address": "2 hùng vương , điện bàn",
+    "area": "ba đình",
+    "price": "25,000 vnđ",
+    "id": "31",
+    "name": "lăng chủ tịch hồ chí minh",
+    "openhours": "mở cửa hàng ngày trong tuần ngoại trừ thứ 6 , từ 07:30 đến 10:30",
+    "phone": "02438455128",
+    "postcode": "cb23pq",
+    "pricerange": "rẻ",
+    "type": "công trình kiến trúc"
+  },
+  {
+    "location": [
+      21.0369549,
+      105.8352434
+    ],
+    "address": "độc lập , điện bàn",
+    "area": "ba đình",
+    "price": "miễn phí",
+    "id": "32",
+    "name": "tòa nhà quốc hội việt nam",
+    "openhours": "mở cửa từ thứ hai đến thứ bảy , từ 08:00 đến 18:00",
+    "phone": "01223355397",
+    "postcode": "cb23nz",
+    "pricerange": "miễn phí",
+    "type": "công trình kiến trúc"
+  },
+  {
+    "location": [
+      21.0384087,
+      105.8087431
+    ],
+    "address": "521 kim mã",
+    "area": "ba đình",
+    "price": "miễn phí",
+    "id": "33",
+    "name": "trường đại học rmit",
+    "openhours": "mở cửa từ 9 đến 5p . m",
+    "phone": "02438330708",
+    "postcode": "cb12ew",
+    "pricerange": "miễn phí",
+    "type": "đại học"
+  },
+  {
+    "location": [
+      21.0404715,
+      105.8054386
+    ],
+    "address": "102 tân ấp , phúc xá",
+    "area": "ba đình",
+    "price": "miễn phí",
+    "id": "34",
+    "name": "trường trung cấp kinh tế hà nội",
+    "openhours": "trường mở cửa từ thứ hai đến thứ sáu hàng tuần , từ 08:30 đến 17:30",
+    "phone": "02437917748",
+    "postcode": "cb58bl",
+    "pricerange": "miễn phí",
+    "type": "đại học"
+  },
+  {
+    "location": [
+      21.0017454,
+      105.7812022
+    ],
+    "address": "20 thụy khuê , thuỵ khuê , tây hồ",
+    "area": "tây hồ",
+    "price": "?",
+    "id": "35",
+    "name": "bể bơi sense aqua",
+    "openhours": "?",
+    "phone": "0932311311",
+    "postcode": "cb43px",
+    "pricerange": "?",
+    "type": "bể bơi"
+  },
+  {
+    "location": [
+      21.0177598,
+      105.812593
+    ],
+    "address": "1 láng hạ , chợ dừa",
+    "area": "ba đình",
+    "price": "150,000 vnđ",
+    "id": "36",
+    "name": "club ngân hà",
+    "openhours": "mở cửa từ 10:00p . m đến 04:00",
+    "phone": "02435146776",
+    "postcode": "cb23qb",
+    "pricerange": "vừa phải",
+    "type": "câu lạc bộ đêm"
+  },
+  {
+    "location": [
+      21.0326505,
+      105.7953839
+    ],
+    "address": "lô d26 , khu đô thị mới , cầu giấy",
+    "area": "cầu giấy",
+    "price": "miễn phí",
+    "id": "37",
+    "name": "bảo tàng viettel - viettel museum",
+    "openhours": "mở cửa từ 11:30 đến 05:00p . m",
+    "phone": "01223748100",
+    "postcode": "cb30aq",
+    "pricerange": "miễn phí",
+    "type": "bảo tàng"
+  },
+  {
+    "location": [
+      21.0365849,
+      105.7814185
+    ],
+    "address": "10 nguyễn trường tộ , nguyễn trung trực",
+    "area": "ba đình",
+    "price": "miễn phí",
+    "id": "38",
+    "name": "trung tâm dạy nghề quận ba đình",
+    "openhours": "trường mở cửa từ thứ hai đến thứ sáu hàng tuần , từ 07:30 đến 16:30",
+    "phone": "02437688977",
+    "postcode": "cb21st",
+    "pricerange": "miễn phí",
+    "type": "đại học"
+  },
+  {
+    "location": [
+      21.0719202,
+      105.8285998
+    ],
+    "address": "124 âu cơ , tứ liên , tây hồ , hà nội , việt nam",
+    "area": "tây hồ",
+    "price": "?",
+    "id": "39",
+    "name": "the spot - pool & leisure",
+    "openhours": "?",
+    "phone": "0975039434",
+    "postcode": "cb42xh",
+    "pricerange": "?",
+    "type": "bể bơi"
+  },
+  {
+    "location": [
+      21.0335039,
+      105.8372977
+    ],
+    "address": "19c hoàng diệu , điện bàn",
+    "area": "ba đình",
+    "price": "miễn phí",
+    "id": "40",
+    "name": "hoàng thành thăng long",
+    "openhours": "mở cửa hàng ngày từ 08:00 đến 17:00",
+    "phone": "02437345427",
+    "postcode": "cb21qy",
+    "pricerange": "miễn phí",
+    "type": "công trình kiến trúc"
+  },
+  {
+    "location": [
+      21.0454524,
+      105.7970431
+    ],
+    "address": "216 trần quang khải",
+    "area": "cầu giấy",
+    "price": "miễn phí",
+    "id": "41",
+    "name": "bảo tàng lịch sử quốc gia",
+    "openhours": "mở cửa hàng ngày sáng từ 08:30 đến 11:30 , chiều từ 13:30 đến 17:00 trừ thứ 2 đầu tháng",
+    "phone": "02466869034",
+    "postcode": "cb30aq",
+    "pricerange": "miễn phí",
+    "type": "bảo tàng"
+  },
+  {
+    "location": [
+      21.0163146,
+      105.7958491
+    ],
+    "address": "171 p . trung kính , yên hoà",
+    "area": "cầu giấy",
+    "price": "miễn phí",
+    "id": "42",
+    "name": "trường đại học phương đông",
+    "openhours": "mở cửa từ thứ hai đến thứ sau , từ 07:00 đến 17:30",
+    "phone": "02437848515",
+    "postcode": "cb30ag",
+    "pricerange": "miễn phí",
+    "type": "đại học"
+  },
+  {
+    "location": [
+      21.0746058,
+      105.810741
+    ],
+    "address": "ngã 3 phố nhật chiêu , nhật tân , tây hồ",
+    "area": "tây hồ",
+    "price": "miễn phí",
+    "id": "43",
+    "name": "thung lũng hoa hồ tây",
+    "openhours": "always",
+    "phone": "0839968968",
+    "postcode": "cb46az",
+    "pricerange": "miễn phí",
+    "type": "công viên"
+  },
+  {
+    "location": [
+      21.0163545,
+      105.7958491
+    ],
+    "address": "87 láng hạ , chợ dừa",
+    "area": "ba đình",
+    "price": "?",
+    "id": "44",
+    "name": "nhà hát star galaxy",
+    "openhours": "?",
+    "phone": "02436646969",
+    "postcode": "cb11pt",
+    "pricerange": "?",
+    "type": "nhà hát"
+  },
+  {
+    "location": [
+      21.036793,
+      105.8218557
+    ],
+    "address": "ba đình",
+    "area": "ba đình",
+    "price": "miễn phí",
+    "id": "45",
+    "name": "phòng họp bộ chính trị",
+    "openhours": "mở cửa hàng ngày trừ thứ sáu sáng từ 08:00 đến 11:00 , chiều từ 13:30 đến 16:30",
+    "phone": "02462730994",
+    "postcode": "cb23dz",
+    "pricerange": "miễn phí",
+    "type": "bảo tàng"
+  },
+  {
+    "location": [
+      21.0373528,
+      105.7954412
+    ],
+    "address": "d9 , làng quốc tế thăng long",
+    "area": "cầu giấy",
+    "price": "miễn phí",
+    "id": "46",
+    "name": "bảo tàng tố hữu",
+    "openhours": "bảo tàng mở cửa vào thứ bảy hàng tuần từ 09:00 đến 17:00",
+    "phone": "0983801920",
+    "postcode": "cb39da",
+    "pricerange": "miễn phí",
+    "type": "bảo tàng"
+  },
+  {
+    "location": [
+      21.0186333,
+      105.8242634
+    ],
+    "address": "78 ngõ giếng , chợ dừa , đống đa",
+    "area": "đống đa",
+    "price": "?",
+    "id": "47",
+    "name": "clb bida vtc club",
+    "openhours": "",
+    "phone": "0907418456",
+    "postcode": "cb17dy",
+    "pricerange": "?",
+    "type": "khu vui chơi giải trí"
+  },
+  {
+    "location": [
+      21.0345078,
+      105.8263489
+    ],
+    "address": "số 2 hùng vương , ngọc hồ",
+    "area": "ba đình",
+    "price": "miễn phí",
+    "id": "48",
+    "name": "văn phòng chủ tịch nước",
+    "openhours": "mở cửa vào thứ hai đến thứ sáu hàng tuần từ 07:00 đến 16:00",
+    "phone": "08043176",
+    "postcode": "cb21tt",
+    "pricerange": "miễn phí",
+    "type": "công trình kiến trúc"
+  },
+  {
+    "location": [
+      21.0345277,
+      105.8263489
+    ],
+    "address": "ngõ 97 văn cao , liễu giai",
+    "area": "ba đình",
+    "price": "?",
+    "id": "49",
+    "name": "bể bơi khăn quàng đỏ",
+    "openhours": "?",
+    "phone": "01223446100",
+    "postcode": "cb11ly",
+    "pricerange": "?",
+    "type": "bể bơi"
+  },
+  {
+    "location": [
+      21.0345769,
+      105.8132168
+    ],
+    "address": "2 and 2c khu ngoại giao đoàn vạn phúc , kim mã , ngọc khánh",
+    "area": "ba đình",
+    "price": "miễn phí",
+    "id": "50",
+    "name": "trường cao đẳng quốc tế pegasus",
+    "openhours": "mở cửa vào thứ hai đến thứ sáu hàng tuần từ 08:30 đến 17:00",
+    "phone": "02437547461",
+    "postcode": "cb21rf",
+    "pricerange": "miễn phí",
+    "type": "đại học"
+  },
+  {
+    "location": [
+      21.0512555,
+      105.804977
+    ],
+    "address": "290 đ . lạc long quân , bưởi",
+    "area": "cầu giấy",
+    "price": "miễn phí",
+    "id": "51",
+    "name": "bảo tàng công binh",
+    "openhours": "mở cửa vào thứ hai đến thứ sáu hàng tuần từ 08:00 đến 18:00",
+    "phone": "02437590378",
+    "postcode": "cb3ojg",
+    "pricerange": "miễn phí",
+    "type": "bảo tàng"
+  },
+  {
+    "location": [
+      21.0133423,
+      105.7980247
+    ],
+    "address": "463 đội cấn , vĩnh phú",
+    "area": "ba đình",
+    "price": "miễn phí",
+    "id": "52",
+    "name": "bảo tàng pháo binh",
+    "openhours": "bảo tàng mở cửa hàng ngày , sáng từ 08:00 đến 11:30 , chiều từ 13:30 đến 17:00",
+    "phone": "01223357708",
+    "postcode": "cb21sj",
+    "pricerange": "miễn phí",
+    "type": "bảo tàng"
+  },
+  {
+    "location": [
+      21.0319478,
+      105.7876392
+    ],
+    "address": "khu văn hóa nghệ thuật , ngõ 76 mai dịch , mai dịch",
+    "area": "cầu giấy",
+    "price": "75,000 vnđ",
+    "id": "53",
+    "name": "trường đại học sân khấu điện ảnh hà nội",
+    "openhours": "trường mở cửa hàng tuần từ thứ hai đến thứ sáu , từ 08:00 đến 17:00 , đóng cửa vào thứ bảy và chủ nhật",
+    "phone": "02437643397",
+    "postcode": "cb39et",
+    "pricerange": "vừa phải",
+    "type": "đại học"
+  },
+  {
+    "location": [
+      21.0118377,
+      105.7916732
+    ],
+    "address": "28a điện biên phủ , điện bàn",
+    "area": "ba đình",
+    "price": "miễn phí",
+    "id": "54",
+    "name": "cột cờ hà nội",
+    "openhours": "?",
+    "phone": "069553215",
+    "postcode": "cb11er",
+    "pricerange": "miễn phí",
+    "type": "bảo tàng"
+  },
+  {
+    "location": [
+      21.0502407,
+      105.8359742
+    ],
+    "address": "1 phố yên hoa , yên phụ , tây hồ",
+    "area": "tây hồ",
+    "price": "?",
+    "id": "55",
+    "name": "bay buffet seafood hồ tây",
+    "openhours": "?",
+    "phone": "02432669380",
+    "postcode": "cb43ax",
+    "pricerange": "?",
+    "type": "thuyền cho thuê"
+  },
+  {
+    "location": [
+      20.9997787,
+      105.7587143
+    ],
+    "address": "hùng vương , điện bàn",
+    "area": "ba đình",
+    "price": "miễn phí",
+    "id": "56",
+    "name": "quảng trường ba đình",
+    "openhours": "?",
+    "phone": "024829137",
+    "postcode": "cb11pt",
+    "pricerange": "miễn phí",
+    "type": "bảo tàng"
+  },
+  {
+    "location": [
+      21.0242994,
+      105.843628
+    ],
+    "address": "67 lý thường kiệt , trần hưng đạo , hoàn kiếm",
+    "area": "hoàn kiếm",
+    "price": "miễn phí",
+    "id": "57",
+    "name": "bảo tàng công an hà nội",
+    "openhours": "?",
+    "phone": "02439331496",
+    "postcode": "cb13ew",
+    "pricerange": "miễn phí",
+    "type": "bảo tàng"
+  },
+  {
+    "location": [
+      20.9997036,
+      105.8432315
+    ],
+    "address": "207 giải phóng , đồng tâm",
+    "area": "ba đình",
+    "price": "miễn phí",
+    "id": "58",
+    "name": "trường đại học kinh tế quốc dân",
+    "openhours": "mở của từ thứ hai đến thứ bảy hàng tuần , từ 07:00 đến 21:30",
+    "phone": "02436280280",
+    "postcode": "cb21rl",
+    "pricerange": "miễn phí",
+    "type": "đại học"
+  },
+  {
+    "location": [
+      21.0070303,
+      105.8409473
+    ],
+    "address": "1 đại cồ việt , bách khoa",
+    "area": "ba đình",
+    "price": "70,000 vnđ",
+    "id": "59",
+    "name": "trường đại học bách khoa hà nội",
+    "openhours": "mở của mọi ngày trong tuần , từ 07:00 đến 17:00",
+    "phone": "02436231732",
+    "postcode": "cb21tp",
+    "pricerange": "vừa phải",
+    "type": "đại học"
+  },
+  {
+    "location": [
+      21.0201852,
+      105.8568045
+    ],
+    "address": "2 trần hưng đạo , phan chu trinh",
+    "area": "ba đình",
+    "price": "miễn phí",
+    "id": "60",
+    "name": "bảo tàng biên phòng việt nam",
+    "openhours": "mở của từ thứ hai đến thứ sáu hàng tuần , từ 08:00 đến 17:00",
+    "phone": "069518167",
+    "postcode": "cb21er",
+    "pricerange": "miễn phí",
+    "type": "bảo tàng"
+  },
+  {
+    "location": [
+      21.0356182,
+      105.8053297
+    ],
+    "address": "hoàng diệu , quán thánh , ba đình",
+    "area": "ba đình",
+    "price": "?",
+    "id": "61",
+    "name": "khu di tích hoàng thành",
+    "openhours": "?",
+    "phone": "01223359750",
+    "postcode": "cb21rs",
+    "pricerange": "?",
+    "type": "thuyền cho thuê"
+  },
+  {
+    "location": [
+      21.0109357,
+      105.8401974
+    ],
+    "address": "354a đường lê duẩn , phương liên , đống đa",
+    "area": "đống đa",
+    "price": "miễn phí",
+    "id": "62",
+    "name": "công viên thống nhất",
+    "openhours": "công viên mở cửa cả ngày",
+    "phone": "02435725720",
+    "postcode": "cb22ad",
+    "pricerange": "miễn phí",
+    "type": "công viên"
+  },
+  {
+    "location": [
+      21.0356182,
+      105.8053297
+    ],
+    "address": "347 , đội cấn",
+    "area": "ba đình",
+    "price": "miễn phí",
+    "id": "63",
+    "name": "trường trung cấp kinh tế kỹ thuật thương mại",
+    "openhours": "mở cửa cả tuần trừ thứ 7 và chủ nhật",
+    "phone": "01223338800",
+    "postcode": "cb23hu",
+    "pricerange": "miễn phí",
+    "type": "đại học"
+  },
+  {
+    "location": [
+      21.0438782,
+      105.7676755
+    ],
+    "address": "18 lương ngọc quyến , hàng buồm",
+    "area": "ba đình",
+    "price": "100,000 vnđ",
+    "id": "64",
+    "name": "the opera nightclub",
+    "openhours": "quán bar mở cửa từ thứ hai đến chủ nhật , từ 21h đến 3h sáng",
+    "phone": "0989264242",
+    "postcode": "cb23qf",
+    "pricerange": "rẻ",
+    "type": "câu lạc bộ đêm"
+  },
+  {
+    "location": [
+      21.0036102,
+      105.8192334
+    ],
+    "address": "319 tây sơn , ngã tư sở , đống đa",
+    "area": "đống đa",
+    "price": "?",
+    "id": "65",
+    "name": "billiards club tây sơn",
+    "openhours": "?",
+    "phone": "0839127888",
+    "postcode": "cb17dy",
+    "pricerange": "?",
+    "type": "khu vui chơi giải trí"
+  },
+  {
+    "location": [
+      21.0296628,
+      105.8086661
+    ],
+    "address": "523 kim mã , ngọc khánh , ba đình",
+    "area": "ba đình",
+    "price": "?",
+    "id": "66",
+    "name": "rạp ngọc khánh",
+    "openhours": "?",
+    "phone": "02437712750",
+    "postcode": "cb23qe",
+    "pricerange": "?",
+    "type": "nhà hát"
+  },
+  {
+    "location": [
+      21.0296876,
+      105.8021
+    ],
+    "address": "306b kim mã , ngọc khánh , ba đình",
+    "area": "ba đình",
+    "price": "?",
+    "id": "67",
+    "name": "đền voi phục",
+    "openhours": "?",
+    "phone": "07807718591",
+    "postcode": "cb41as",
+    "pricerange": "?",
+    "type": "thuyền cho thuê"
+  },
+  {
+    "location": [
+      21.039979,
+      105.8507409
+    ],
+    "address": "223 hồng hà , phúc tân , hoàn kiếm",
+    "area": "hoàn kiếm",
+    "price": "?",
+    "id": "68",
+    "name": "trung tâm thể dục thể thao quận hoàn kiếm",
+    "openhours": "trung tâm mở cửa từ 8h sáng đến 6h chiều , tất cả các ngày trong tuần",
+    "phone": "02438287214",
+    "postcode": "cb19ej",
+    "pricerange": "?",
+    "type": "khu phức hợp thể thao"
+  },
+  {
+    "location": [
+      21.0334795,
+      105.800587
+    ],
+    "address": "31 ngõ 12 phố đào tấn , cống vị , ba đình",
+    "area": "ba đình",
+    "price": "150,000 vnđ",
+    "id": "69",
+    "name": "g club",
+    "openhours": "quán mở cửa từ 7h tối đến 1h sáng các ngày trong tuần",
+    "phone": "0375276257",
+    "postcode": "cb23hx",
+    "pricerange": "vừa phải",
+    "type": "câu lạc bộ đêm"
+  },
+  {
+    "location": [
+      21.0354342,
+      105.8172601
+    ],
+    "address": "157 đội cấn , ngọc hồ , ba đình",
+    "area": "ba đình",
+    "price": "miễn phí",
+    "id": "70",
+    "name": "bảo tàng chiến thắng b-52",
+    "openhours": "mở cửa từ 8h sáng đến 4h30 chiều , trừ thứ 2 và thứ 6",
+    "phone": "01223332900",
+    "postcode": "cb21rb",
+    "pricerange": "miễn phí",
+    "type": "bảo tàng"
+  },
+  {
+    "location": [
+      21.0356836,
+      105.7909954
+    ],
+    "address": "30d mai anh tuấn , chợ dừa , đống đa",
+    "area": "đống đa",
+    "price": "?",
+    "id": "71",
+    "name": "nhà hát kịch công an nhân dân",
+    "openhours": "?",
+    "phone": "02438314522",
+    "postcode": "cb17gx",
+    "pricerange": "?",
+    "type": "nhà hát"
+  },
+  {
+    "location": [
+      21.0358366,
+      105.7909953
+    ],
+    "address": "77 hào nam , chợ dừa , đống đa",
+    "area": "ba đình",
+    "price": "?",
+    "id": "72",
+    "name": "phòng hoà nhạc học viện âm nhạc quốc gia việt nam",
+    "openhours": "?",
+    "phone": "0918152992",
+    "postcode": "cb12lf",
+    "pricerange": "?",
+    "type": "phòng hòa nhạc"
+  },
+  {
+    "location": [
+      21.0361427,
+      105.7909953
+    ],
+    "address": "6 chùa bộc , quang trung , đống đa",
+    "area": "đống đa",
+    "price": "?",
+    "id": "73",
+    "name": "airport exclusive club",
+    "openhours": "quán mở cửa từ 21h đến 3h sáng , tất cả các ngày trong tuần",
+    "phone": "0963436969",
+    "postcode": "cb23hg",
+    "pricerange": "vừa phải",
+    "type": "câu lạc bộ đêm"
+  },
+  {
+    "location": [
+      21.0364488,
+      105.7909952
+    ],
+    "address": "103 phúc xá",
+    "area": "ba đình",
+    "price": "100,000 vnđ",
+    "id": "74",
+    "name": "cao đẳng y tế hà nội",
+    "openhours": "nhà hát mở cửa từ 9h sáng tới 5h chiều .",
+    "phone": "02438314522",
+    "postcode": "cb21tq",
+    "pricerange": "rẻ",
+    "type": "đại học"
+  },
+  {
+    "location": [
+      21.0366019,
+      105.7908235
+    ],
+    "address": "29 liễu giai , ngọc khánh , ba đình",
+    "area": "ba đình",
+    "price": "?",
+    "id": "75",
+    "name": "cgv vincom metropolis liễu giai",
+    "openhours": "?",
+    "phone": "019006017",
+    "postcode": "cb11ps",
+    "pricerange": "?",
+    "type": "rạp chiếu phim"
+  },
+  {
+    "location": [
+      21.0274223,
+      105.8332455
+    ],
+    "address": "58 quốc tử giám , văn miếu , đống đa",
+    "area": "đống đa",
+    "price": "miễn phí",
+    "id": "76",
+    "name": "vườn hoa quốc tử giám",
+    "openhours": "always",
+    "phone": "0239473927",
+    "postcode": "cb223ae",
+    "pricerange": "miễn phí",
+    "type": "công viên"
+  },
+  {
+    "location": [
+      21.0237068,
+      105.759384
+    ],
+    "address": "phạm hùng , mỹ đình , cầu giấy",
+    "area": "cầu giấy",
+    "price": "?",
+    "id": "77",
+    "name": "cung thiếu nhi cầu giấy",
+    "openhours": "it opens from 09:30 . to 06:00p . m . daily",
+    "phone": "0284739173",
+    "postcode": "cb238el",
+    "pricerange": "?",
+    "type": "khu vui chơi giải trí"
+  },
+  {
+    "location": [
+      21.0390345,
+      105.7975479
+    ],
+    "address": "nhà a20 - số , 18 hoàng quốc việt , nghĩa đô",
+    "area": "ba đình",
+    "price": "miễn phí",
+    "id": "78",
+    "name": "bảo tàng thiên nhiên việt nam",
+    "openhours": "mở cửa tất cả các ngày trong tuần trừ thứ 2 , từ 8h30 đến 16h30",
+    "phone": "01223330906",
+    "postcode": "cb23rh",
+    "pricerange": "miễn phí",
+    "type": "bảo tàng"
+  },
+  {
+    "location": [
+      21.0391128,
+      105.797462
+    ],
+    "address": "23 giang văn minh , kim mã , ba đình",
+    "area": "ba đình",
+    "price": "miễn phí",
+    "id": "79",
+    "name": "bảo tàng binh chủng thông tin",
+    "openhours": "mở cửa từ thứ 2 đến thứ 7 , 8h sáng đến 7h tối",
+    "phone": "069588727",
+    "postcode": "cb12lj",
+    "pricerange": "miễn phí",
+    "type": "bảo tàng"
+  }
+]

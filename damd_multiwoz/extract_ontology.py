@@ -18,20 +18,29 @@ def get_parse():
     return parser.parse_args()
 
 
-def extract_ontology(path: str, save_path: str):
+def extract_ontology(path: str, save_path: str, goal_dialog_path: str = None):
     # extract from envi_ontology.json
     result_dict: Dict[str, List] = {}
     value_set: Dict[str, Dict] = {}
+
+    avoid_key = ['bus']
+    avoid_idx = ['hotel-price', 'hotel-location', 'attraction-location', 'restaurant-location']
     with open(path, 'r', encoding='utf8') as f:
         data = json.loads(f.read())
         keys_list = data.keys()
         print('Processing ontology ...')
 
         for main_key in keys_list:
+            if main_key in avoid_key:
+                continue
             value_set[main_key] = {}
             for item in data[main_key]:
                 for sub_key, val in item['vn_entity'].items():
-                    idx = f'{str(main_key).lower()}-{str(sub_key).lower()}'
+                    sub_key = str(sub_key).lower()
+                    idx = f'{str(main_key).lower()}-{sub_key}'
+                    if idx in avoid_idx:
+                        continue
+                    val = str(val).lower()
                     if idx not in result_dict:
                         result_dict[idx] = []
                     if sub_key not in value_set[main_key]:
@@ -75,12 +84,14 @@ def extract_ontology_from_goal_dialog(path: str, save_path: str):
     dialog_data = json.loads(goal_of_dialog.read())
     for idx, dialog in dialog_data.items():
         for onto, onto_val in dialog.items():
-            for key, val in onto_val['info'].items():
-                idx = f'{onto}-{key}'
-                if idx not in ontology_set:
-                    ontology_set[idx] = []
-                if val not in ontology_set[idx]:
-                    ontology_set[idx].append(val)
+            item_list = ['info', 'book'] if 'book' in onto_val.keys() else ['info']
+            for item in item_list:
+                for key, val in onto_val[item].items():
+                    idx = f'{onto}-{key}'
+                    if idx not in ontology_set:
+                        ontology_set[idx] = []
+                    if val not in ontology_set[idx]:
+                        ontology_set[idx].append(val)
 
     goal_of_dialog.close()
     save_file_path = os.path.join(save_path, 'new_ontology.json')
@@ -97,5 +108,6 @@ if __name__ == '__main__':
     local_path = opt.save_path
     goal_path = opt.goal_dialog
 
-    # extract_ontology(json_path, local_path)
-    extract_ontology_from_goal_dialog(goal_path, local_path)
+    extract_ontology(json_path, local_path)
+    # extract_ontology_from_goal_dialog(goal_path, local_path)
+    # _extract_ontology_2_db(json_path, local_path)

@@ -1,0 +1,332 @@
+[
+  {
+    "id": 0,
+    "department": "khoa khám bệnh",
+    "phone": "01223216297"
+  },
+  {
+    "id": 1,
+    "department": "khoa cấp cứu",
+    "phone": "01223216305"
+  },
+  {
+    "id": 2,
+    "department": "khoa hồi sức người lớn",
+    "phone": "01223217216"
+  },
+  {
+    "id": 3,
+    "department": "khoa hồi sức sơ sinh",
+    "phone": "01223216314"
+  },
+  {
+    "id": 4,
+    "department": "khoa lọc thận",
+    "phone": "01223217231"
+  },
+  {
+    "id": 5,
+    "department": "khoa nội tim mạch",
+    "phone": "01223217450"
+  },
+  {
+    "id": 6,
+    "department": "khoa nội tiết",
+    "phone": "01223217261"
+  },
+  {
+    "id": 7,
+    "department": "khoa nội tiêu hóa",
+    "phone": "01223217195"
+  },
+  {
+    "id": 8,
+    "department": "khoa gan - mật - tụy",
+    "phone": "01223216988"
+  },
+  {
+    "id": 9,
+    "department": "khoa nhi",
+    "phone": "01223217300"
+  },
+  {
+    "id": 10,
+    "department": "khoa nội tổng hợp",
+    "phone": "01223217279"
+  },
+  {
+    "id": 11,
+    "department": "khoa nội thần kinh",
+    "phone": "01223274222"
+  },
+  {
+    "id": 12,
+    "department": "khoa nội hô hấp",
+    "phone": "01223217312"
+  },
+  {
+    "id": 13,
+    "department": "khoa lao",
+    "phone": "01223217250"
+  },
+  {
+    "id": 14,
+    "department": "khoa bệnh nhiễm",
+    "phone": "01223348144"
+  },
+  {
+    "id": 15,
+    "department": "khoa nội thận",
+    "phone": "01223217712"
+  },
+  {
+    "id": 16,
+    "department": "khu phẫu thuật",
+    "phone": "01223274679"
+  },
+  {
+    "id": 17,
+    "department": "phòng tiền phẩu",
+    "phone": "01223274680"
+  },
+  {
+    "id": 18,
+    "department": "phòng mổ",
+    "phone": "01223217303"
+  },
+  {
+    "id": 19,
+    "department": "khoa phẫu thuật",
+    "phone": "01223217282"
+  },
+  {
+    "id": 20,
+    "department": "phòng hậu phẫu",
+    "phone": "01223217708"
+  },
+  {
+    "id": 21,
+    "department": "khoa ngoại tổng quát",
+    "phone": "01223217314"
+  },
+  {
+    "id": 22,
+    "department": "khoa tim mạch can thiệp",
+    "phone": "01223348169"
+  },
+  {
+    "id": 23,
+    "department": "khoa mắt",
+    "phone": "01223596203"
+  },
+  {
+    "id": 24,
+    "department": "khoa phụ sản",
+    "phone": "01223348314"
+  },
+  {
+    "id": 25,
+    "department": "khoa chấn thương chỉnh hình",
+    "phone": "01223348336"
+  },
+  {
+    "id": 26,
+    "department": "khoa thấp khớp",
+    "phone": "01223216881"
+  },
+  {
+    "id": 27,
+    "department": "khoa cơ xương khớp",
+    "phone": "01223217567"
+  },
+  {
+    "id": 28,
+    "department": "khoa vật lý trị liệu",
+    "phone": "01223348313"
+  },
+  {
+    "id": 29,
+    "department": "khoa tiết niệu",
+    "phone": "01223274744"
+  },
+  {
+    "id": 30,
+    "department": "khoa nam học",
+    "phone": "01223216811"
+  },
+  {
+    "id": 31,
+    "department": "khoa miễn dịch",
+    "phone": "01223217323"
+  },
+  {
+    "id": 32,
+    "department": "khoa ung thư",
+    "phone": "01223586967"
+  },
+  {
+    "id": 33,
+    "department": "khoa dinh dưỡng",
+    "phone": "01223217484"
+  },
+  {
+    "id": 34,
+    "department": "khoa huyết học",
+    "phone": "01223217498"
+  },
+  {
+    "id": 35,
+    "department": "khoa da liễu",
+    "phone": "01223217711"
+  },
+  {
+    "id": 36,
+    "department": "khoa phẫu thuật thẫm mỹ",
+    "phone": "01223217428"
+  },
+  {
+    "id": 37,
+    "department": "lão khoa",
+    "phone": "01223256583"
+  },
+  {
+    "id": 38,
+    "department": "khoa sản",
+    "phone": "01223256233"
+  },
+  {
+    "id": 39,
+    "department": "phòng điều dưỡng",
+    "phone": "01223349881"
+  },
+  {
+    "id": 40,
+    "department": "phòng quản trị",
+    "phone": "01223256459"
+  },
+  {
+    "id": 41,
+    "department": "phòng tài vụ",
+    "phone": "01223348545"
+  },
+  {
+    "id": 42,
+    "department": "phòng vật tư - thiết bị y tế",
+    "phone": "01223274280"
+  },
+  {
+    "id": 43,
+    "department": "khoa khám bệnh",
+    "phone": "01223274284"
+  },
+  {
+    "id": 44,
+    "department": "khoa sức khỏe trẻ em",
+    "phone": "01223348527"
+  },
+  {
+    "id": 45,
+    "department": "khoa tâm lý",
+    "phone": "01223256650"
+  },
+  {
+    "id": 46,
+    "department": "phòng mổ trong ngày",
+    "phone": "01223256645"
+  },
+  {
+    "id": 47,
+    "department": "khoa cấp cứu",
+    "phone": "01223274750"
+  },
+  {
+    "id": 48,
+    "department": "khoa hồi sức chống độc",
+    "phone": "01223216348"
+  },
+  {
+    "id": 49,
+    "department": "khoa hồi sức sơ sinh",
+    "phone": "01223596201"
+  },
+  {
+    "id": 50,
+    "department": "khoa nội",
+    "phone": "01223217118"
+  },
+  {
+    "id": 51,
+    "department": "khoa thận - nội tiết",
+    "phone": "01223257168"
+  },
+  {
+    "id": 52,
+    "department": "khoa thần kinh",
+    "phone": "01223586706"
+  },
+  {
+    "id": 53,
+    "department": "khoa hô hấp",
+    "phone": "01223596055"
+  },
+  {
+    "id": 54,
+    "department": "khoa nội tổng hợp",
+    "phone": "01223217297"
+  },
+  {
+    "id": 55,
+    "department": "khoa tiêu hóa",
+    "phone": "01223217873"
+  },
+  {
+    "id": 56,
+    "department": "khoa sơ sinh",
+    "phone": "01223596066"
+  },
+  {
+    "id": 57,
+    "department": "khoa nhiễm",
+    "phone": "01223217715"
+  },
+  {
+    "id": 58,
+    "department": "khoa tim mạch",
+    "phone": "01223257157"
+  },
+  {
+    "id": 59,
+    "department": "khoa ngoại tổng hợp",
+    "phone": "01223256166"
+  },
+  {
+    "id": 60,
+    "department": "khoa ngoại thần kinh",
+    "phone": "01223217217"
+  },
+  {
+    "id": 61,
+    "department": "khoa niệu",
+    "phone": "01223217667"
+  },
+  {
+    "id": 62,
+    "department": "khoa bỏng chỉnh trực",
+    "phone": "01223217678"
+  },
+  {
+    "id": 63,
+    "department": "khoa tai mũi họng - mắt - răng hàm mặt",
+    "phone": "01223217671"
+  },
+  {
+    "id": 64,
+    "department": "khoa phẫu thuật gây mê",
+    "phone": "01223254668"
+  },
+  {
+    "id": 65,
+    "department": "khoa ung bướu huyết học",
+    "phone": "01223257206"
+  }
+]
