@@ -87,7 +87,7 @@ def extract_ontology_from_goal_dialog(path: str, save_path: str):
             item_list = ['info', 'book'] if 'book' in onto_val.keys() else ['info']
             for item in item_list:
                 for key, val in onto_val[item].items():
-                    idx = f'{onto}-{key}'
+                    idx = f'{onto}-{key}' if item == 'info' else f'{onto}-book {key}'
                     if idx not in ontology_set:
                         ontology_set[idx] = []
                     if val not in ontology_set[idx]:
