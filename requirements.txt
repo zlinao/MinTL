@@ -1,6 +1,6 @@
-torch>=1.8.1
-transformers>=2.8.0
-spacy>=2.2.2
-nltk>=3.4.5
-tqdm>=4.62.3
+torch==1.4.0
+transformers==2.8.0
+spacy==2.2.2
+nltk==3.4.5
+
 sentencepiece
