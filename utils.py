@@ -250,6 +250,7 @@ class MultiWozReader(_ReaderBase):
         train_count = 0
    
         for fn, dial in self.data.items():
+            fn = str(fn).replace('.json', '')
             if 'all' in cfg.exp_domains or self.exp_files.get(fn):
                 if self.dev_files.get(fn):
                     self.dev.append(self._get_encoded_data(fn, dial))
