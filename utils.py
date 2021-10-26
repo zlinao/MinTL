@@ -250,11 +250,11 @@ class MultiWozReader(_ReaderBase):
         train_count = 0
    
         for fn, dial in self.data.items():
-            fn = str(fn).replace('.json', '')
-            if 'all' in cfg.exp_domains or self.exp_files.get(fn):
-                if self.dev_files.get(fn):
+            _fn = str(fn).replace('.json', '')  # dialog name removed '.json'
+            if 'all' in cfg.exp_domains or self.exp_files.get(_fn):
+                if self.dev_files.get(_fn):
                     self.dev.append(self._get_encoded_data(fn, dial))
-                elif self.test_files.get(fn):
+                elif self.test_files.get(_fn):
                     self.test.append(self._get_encoded_data(fn, dial))
                 else:
                     if train_count>round(data_fraction*8438):
