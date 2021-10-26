@@ -104,7 +104,7 @@ class DataPreprocessor(object):
     def __init__(self):
         self.nlp = spacy.load('en_core_web_sm')
         self.db = MultiWozDB(cfg.dbs)
-        data_path = 'data/multi-woz/viwoz_2k8_data.json'
+        data_path = 'data/multi-woz/viwoz_100_data.json'
         archive = zipfile.ZipFile(data_path + '.zip', 'r')
         self.convlab_data = json.loads(archive.open(data_path.split('/')[-1], 'r').read().lower())
         self.delex_sg_valdict_path = 'data/multi-woz-processed/delex_single_valdict.json'
@@ -137,7 +137,7 @@ class DataPreprocessor(object):
                 u[s[3]] = '[value_'+slot+']'
             except:
                 u[5] = '[value_'+slot+']'
-        u_delex = ' '.join([t for t in u if t is not ''])
+        u_delex = ' '.join([t for t in u if t != ''])
         u_delex = u_delex.replace('[value_address] , [value_address] , [value_address]', '[value_address]')
         u_delex = u_delex.replace('[value_address] , [value_address]', '[value_address]')
         u_delex = u_delex.replace('[value_name] [value_name]', '[value_name]')

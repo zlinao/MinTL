@@ -15,8 +15,7 @@
     "postcode",
     "parking",
     "stars",
-    "area",
-    "internet"
+    "area"
   ],
   "attraction": [
     "postcode",

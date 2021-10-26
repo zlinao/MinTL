@@ -34,14 +34,5 @@
   "attraction-offerbook": 1,
   "attraction-nooffer": 1,
   "restaurant-recommend": 1,
-  "train-nooffer": 1,
-  "general-thank": 1,
-  "hospital-offerbooked": 1,
-  "general-offerbooked": 1,
-  "attraction-nobook": 1,
-  "taxi-offerbooked": 1,
-  "train-nobook": 1,
-  "taxi-offerbook": 1,
-  "attraction-offerbooked": 1,
-  "police-request": 1
+  "train-nooffer": 1
 }

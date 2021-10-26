@@ -8,7 +8,7 @@ import tqdm
 
 import numpy as np
 import torch
-from transformers import (AdamW, AutoTokenizer, BartTokenizer, WEIGHTS_NAME, CONFIG_NAME)
+from transformers import (AdamW, T5Tokenizer, BartTokenizer, WEIGHTS_NAME, CONFIG_NAME)
 
 from BART import MiniBART
 from T5 import MiniT5
@@ -26,7 +26,7 @@ class BartTokenizer(BartTokenizer):
 class Model(object):
     def __init__(self, args, test=False):
         if args.back_bone == "t5":
-            self.tokenizer = AutoTokenizer.from_pretrained(args.model_path if test else args.pretrained_checkpoint)
+            self.tokenizer = T5Tokenizer.from_pretrained(args.model_path if test else args.pretrained_checkpoint)
             self.model = MiniT5.from_pretrained(args.model_path if test else args.pretrained_checkpoint)
         elif args.back_bone == "bart":
             self.tokenizer = BartTokenizer.from_pretrained(args.model_path if test else args.pretrained_checkpoint)
