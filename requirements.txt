@@ -1,5 +1,5 @@
-torch==1.4.0
-transformers==2.8.0
+torch
+transformers
 spacy==2.2.2
 nltk==3.4.5
 

@@ -1,10 +1,10 @@
-from transformers import (AdamW, T5Tokenizer, T5ForConditionalGeneration, WEIGHTS_NAME,CONFIG_NAME)
+from transformers import (AdamW, T5Tokenizer, MT5ForConditionalGeneration, WEIGHTS_NAME,CONFIG_NAME)
 from copy import deepcopy
 import torch
 from torch.nn import CrossEntropyLoss
 import time
 
-class MiniT5(T5ForConditionalGeneration):
+class MiniT5(MT5ForConditionalGeneration):
     def __init__(self, config):
         super().__init__(config)
         #make a copy of decoder for dst
