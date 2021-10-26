@@ -47,7 +47,8 @@ class MiniT5(T5ForConditionalGeneration):
         if encoder_outputs is None:
             # Convert encoder inputs in embeddings if needed
             encoder_outputs = self.encoder(
-                input_ids=input_ids, attention_mask=attention_mask, inputs_embeds=inputs_embeds, head_mask=head_mask
+                input_ids=input_ids, attention_mask=attention_mask, inputs_embeds=inputs_embeds, head_mask=head_mask,
+                return_dict=False
             )
 
         hidden_states = encoder_outputs[0]
@@ -64,6 +65,7 @@ class MiniT5(T5ForConditionalGeneration):
             encoder_hidden_states=hidden_states,
             encoder_attention_mask=attention_mask,
             head_mask=head_mask,
+            return_dict=False,
         )
 
         sequence_output = decoder_outputs[0]

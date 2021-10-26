@@ -153,7 +153,6 @@ class _ReaderBase(object):
 class MultiWozReader(_ReaderBase):
     def __init__(self, vocab=None):
         super().__init__()
-        self.nlp = spacy.load('en_core_web_sm')
         self.db = MultiWozDB(cfg.dbs)
         
         self.domain_files = json.loads(open(cfg.domain_file_path, 'r').read())
