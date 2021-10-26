@@ -174,7 +174,7 @@ class Model(object):
         valid_loss, count = 0, 0
         data_iterator = self.reader.get_batches(data)
         result_collection = {}
-        for batch_num, dial_batch in enumerate(data_iterator):
+        for batch_num, dial_batch in tqdm.tqdm(enumerate(data_iterator)):
             py_prev = {'bspn': None}
             for turn_num, turn_batch in enumerate(dial_batch):
                 first_turn = (turn_num == 0)
