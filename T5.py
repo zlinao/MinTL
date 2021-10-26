@@ -1,10 +1,7 @@
-from transformers import (AdamW, T5Tokenizer, MT5ForConditionalGeneration, WEIGHTS_NAME, CONFIG_NAME)
 from copy import deepcopy
-import torch
-from torch.nn import CrossEntropyLoss
-import time
 
-from transformers.modeling_outputs import Seq2SeqLMOutput, BaseModelOutput
+import torch
+from transformers import (MT5ForConditionalGeneration)
 
 
 class MiniT5(MT5ForConditionalGeneration):

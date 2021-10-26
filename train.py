@@ -1,15 +1,20 @@
-import os, random, argparse, time, logging, json, tqdm
-import numpy as np
-from copy import deepcopy
-from collections import OrderedDict
-import torch
+import argparse
+import json
+import logging
+import os
+import random
+import time
+import tqdm
 
-from utils import Vocab, MultiWozReader
+import numpy as np
+import torch
+from transformers import (AdamW, T5Tokenizer, BartTokenizer, WEIGHTS_NAME, CONFIG_NAME)
+
+from BART import MiniBART
+from T5 import MiniT5
 from damd_multiwoz.config import global_config as cfg
 from damd_multiwoz.eval import MultiWozEvaluator
-from transformers import (AdamW, T5Tokenizer, BartTokenizer, WEIGHTS_NAME, CONFIG_NAME, get_linear_schedule_with_warmup)
-from T5 import MiniT5
-from BART import MiniBART
+from utils import Vocab, MultiWozReader
 
 
 class BartTokenizer(BartTokenizer):
@@ -60,71 +65,71 @@ class Model(object):
             sw = time.time()
             data_iterator = self.reader.get_batches('train')
             pbar = tqdm.tqdm(enumerate(data_iterator), desc="Iteration")
-            # for iter_num, dial_batch in pbar:
-            #     py_prev = {'pv_bspn': None}
-            #     for turn_num, turn_batch in enumerate(dial_batch):
-            #         first_turn = (turn_num == 0)
-            #         inputs = self.reader.convert_batch(turn_batch, py_prev, first_turn=first_turn,
-            #                                            dst_start_token=self.model.config.decoder_start_token_id)
-            #         for k in inputs:
-            #             if k != "turn_domain":
-            #                 inputs[k] = inputs[k].to(self.args.device)
-            #
-            #         #     print(k)
-            #         #     print(inputs[k])
-            #
-            #         # batch_size = inputs["input_ids"].shape[0]
-            #         # input_seq_len = inputs["input_ids"].shape[1]
-            #         # dst_seq_len = inputs["state_input"].shape[1]
-            #         # resp_seq_len = inputs["response"].shape[1]
-            #         # print(f"batch_size:{batch_size},seq_len:{input_seq_len}, dst:{dst_seq_len}, resp:{resp_seq_len}")
-            #         outputs = self.model(input_ids=inputs["input_ids"],
-            #                              attention_mask=inputs["masks"],
-            #                              decoder_input_ids=inputs["state_input"],
-            #                              labels=inputs["state_update"]
-            #                              )
-            #         dst_loss = outputs[0]
-            #
-            #         pbar.set_description("Loss ", dst_loss.item())
-            #
-            #         # outputs = self.model(input_ids=inputs["input_ids"],
-            #         #                     attention_mask=inputs["masks"],
-            #         #                     decoder_input_ids=inputs["response_input"],
-            #         #                     labels=inputs["response"]
-            #         #                     )
-            #
-            #         # print(inputs["response_input"])
-            #         # print(inputs["response"])
-            #         outputs = self.model(encoder_outputs=outputs[-1:],  # skip loss and logits
-            #                              attention_mask=inputs["masks"],
-            #                              decoder_input_ids=inputs["response_input"],
-            #                              labels=inputs["response"]
-            #                              )
-            #         resp_loss = outputs[0]
-            #
-            #         py_prev['bspn'] = turn_batch['bspn']
-            #
-            #         total_loss = (dst_loss + resp_loss) / self.args.gradient_accumulation_steps
-            #
-            #         total_loss.backward()
-            #         torch.nn.utils.clip_grad_norm_(self.model.parameters(), self.args.max_norm)
-            #         if step % self.args.gradient_accumulation_steps == 0:
-            #             self.optim.step()
-            #             self.optim.zero_grad()
-            #         step += 1
-            #         log_loss += float(total_loss.item())
-            #         log_dst += float(dst_loss.item())
-            #         log_resp += float(resp_loss.item())
-            #         log_cnt += 1
-            #
-            #     if (iter_num + 1) % cfg.report_interval == 0:
-            #         logging.info(
-            #             'iter:{} [total|bspn|resp] loss: {:.2f} {:.2f} {:.2f} time: {:.1f} turn:{} '.format(
-            #                 iter_num + 1,
-            #                 log_loss / (log_cnt + 1e-8),
-            #                 log_dst / (log_cnt + 1e-8), log_resp / (log_cnt + 1e-8),
-            #                 time.time() - btm,
-            #                 turn_num + 1))
+            for iter_num, dial_batch in pbar:
+                py_prev = {'pv_bspn': None}
+                for turn_num, turn_batch in enumerate(dial_batch):
+                    first_turn = (turn_num == 0)
+                    inputs = self.reader.convert_batch(turn_batch, py_prev, first_turn=first_turn,
+                                                       dst_start_token=self.model.config.decoder_start_token_id)
+                    for k in inputs:
+                        if k != "turn_domain":
+                            inputs[k] = inputs[k].to(self.args.device)
+
+                    #     print(k)
+                    #     print(inputs[k])
+
+                    # batch_size = inputs["input_ids"].shape[0]
+                    # input_seq_len = inputs["input_ids"].shape[1]
+                    # dst_seq_len = inputs["state_input"].shape[1]
+                    # resp_seq_len = inputs["response"].shape[1]
+                    # print(f"batch_size:{batch_size},seq_len:{input_seq_len}, dst:{dst_seq_len}, resp:{resp_seq_len}")
+                    outputs = self.model(input_ids=inputs["input_ids"],
+                                         attention_mask=inputs["masks"],
+                                         decoder_input_ids=inputs["state_input"],
+                                         labels=inputs["state_update"]
+                                         )
+                    dst_loss = outputs[0]
+
+                    pbar.set_description("Loss ", dst_loss.item())
+
+                    # outputs = self.model(input_ids=inputs["input_ids"],
+                    #                     attention_mask=inputs["masks"],
+                    #                     decoder_input_ids=inputs["response_input"],
+                    #                     labels=inputs["response"]
+                    #                     )
+
+                    # print(inputs["response_input"])
+                    # print(inputs["response"])
+                    outputs = self.model(encoder_outputs=outputs[-1:],  # skip loss and logits
+                                         attention_mask=inputs["masks"],
+                                         decoder_input_ids=inputs["response_input"],
+                                         labels=inputs["response"]
+                                         )
+                    resp_loss = outputs[0]
+
+                    py_prev['bspn'] = turn_batch['bspn']
+
+                    total_loss = (dst_loss + resp_loss) / self.args.gradient_accumulation_steps
+
+                    total_loss.backward()
+                    torch.nn.utils.clip_grad_norm_(self.model.parameters(), self.args.max_norm)
+                    if step % self.args.gradient_accumulation_steps == 0:
+                        self.optim.step()
+                        self.optim.zero_grad()
+                    step += 1
+                    log_loss += float(total_loss.item())
+                    log_dst += float(dst_loss.item())
+                    log_resp += float(resp_loss.item())
+                    log_cnt += 1
+
+                if (iter_num + 1) % cfg.report_interval == 0:
+                    logging.info(
+                        'iter:{} [total|bspn|resp] loss: {:.2f} {:.2f} {:.2f} time: {:.1f} turn:{} '.format(
+                            iter_num + 1,
+                            log_loss / (log_cnt + 1e-8),
+                            log_dst / (log_cnt + 1e-8), log_resp / (log_cnt + 1e-8),
+                            time.time() - btm,
+                            turn_num + 1))
             epoch_sup_loss = log_loss / (log_cnt + 1e-8)
             do_test = False
             valid_loss = self.validate(do_test=do_test)
@@ -174,7 +179,7 @@ class Model(object):
         valid_loss, count = 0, 0
         data_iterator = self.reader.get_batches(data)
         result_collection = {}
-        for batch_num, dial_batch in tqdm.tqdm(enumerate(data_iterator)):
+        for batch_num, dial_batch in tqdm.tqdm(enumerate(data_iterator),desc="Evaluate"):
             py_prev = {'bspn': None}
             for turn_num, turn_batch in enumerate(dial_batch):
                 first_turn = (turn_num == 0)
@@ -199,9 +204,7 @@ class Model(object):
                 turn_batch['resp_gen'] = resp_outputs
                 turn_batch['bspn_gen'] = dst_outputs
                 py_prev['bspn'] = dst_outputs
-
             result_collection.update(self.reader.inverse_transpose_batch(dial_batch))
-
         results, _ = self.reader.wrap_result(result_collection)
         bleu, success, match = self.evaluator.validation_metric(results)
         score = 0.5 * (success + match) + bleu
