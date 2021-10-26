@@ -1,1266 +1,1266 @@
 [
   {
     "location": [
-      21.0498295,
-      105.7440643
+      52.208789,
+      0.154883
     ],
-    "address": "19 hoàng diệu , điện bàn , hoàn kiếm",
-    "area": "hoàn kiếm",
+    "address": "pool way , whitehill road , off newmarket road",
+    "area": "east",
     "price": "?",
     "id": "1",
-    "name": "bể bơi quân đội",
+    "name": "abbey pool and astroturf pitch",
     "openhours": "?",
-    "phone": "02422415161",
+    "phone": "01223902088",
     "postcode": "cb58nt",
     "pricerange": "?",
-    "type": "bể bơi"
+    "type": "swimming pool"
   },
   {
     "location": [
-      21.014359,
-      105.8117771
+      52.208699,
+      0.12006
     ],
-    "address": "166 ngõ xã đàn 2 , nam đồng",
-    "area": "ba đình",
+    "address": "park street",
+    "area": "centre",
     "price": "?",
     "id": "2",
-    "name": "cafe phim đống đa",
+    "name": "adc theatre",
     "openhours": "?",
-    "phone": "02473033088",
+    "phone": "01223300085",
     "postcode": "cb58as",
     "pricerange": "?",
-    "type": "nhà hát"
+    "type": "theatre"
   },
   {
     "location": [
-      21.0369023,
-      105.832478
+      52.2078083333333,
+      0.125616666666667
     ],
-    "address": "19c hoàng diệu , điện bàn , ba đình",
-    "area": "ba đình",
-    "price": "miễn phí",
+    "address": "jesus lane",
+    "area": "centre",
+    "price": "free",
     "id": "3",
-    "name": "tượng đài lenin",
-    "openhours": "lăng mở cửa từ 7h30 đến 10h30 từ thứ 2 đến thứ 5 , từ 7h30 đến 11h vào thứ 7 và chủ nhật , lăng đóng cửa vào thứ 6 .",
-    "phone": "02437345427",
+    "name": "all saints church",
+    "openhours": "it opens normally daily from 9 . to 5p . m. , at other times the key can be borrowed from a nearby key holder .",
+    "phone": "01223452587",
     "postcode": "cb58bs",
-    "pricerange": "miễn phí",
-    "type": "công trình kiến trúc"
+    "pricerange": "free",
+    "type": "architecture"
   },
   {
     "location": [
-      21.0381746,
-      105.8309645
+      52.20478,
+      0.11975
     ],
-    "address": "73 , đường vạn bảo , phường kim mã",
-    "area": "ba đình",
-    "price": "150,000 vnđ",
+    "address": "heidelberg gardens , lion yard",
+    "area": "centre",
+    "price": "5 pounds",
     "id": "4",
-    "name": "câu lạc bộ hà nội ultimate",
-    "openhours": "mở cửa từ 10:30p . m đến 03:30",
-    "phone": "08044287",
+    "name": "ballare",
+    "openhours": "it opens from 10:30p . m . to 03:30 on thursday , from 11:00p . m . to 04:00 . on friday , from 10:00p . m . to 03:30 . on saturday , and from 10:00p . m . to 02:30 . on monday",
+    "phone": "01223364222",
     "postcode": "cb23na",
-    "pricerange": "vừa phải",
-    "type": "câu lạc bộ đêm"
+    "pricerange": "moderate",
+    "type": "nightclub"
   },
   {
     "location": [
-      21.0356011,
-      105.8326289
+      52.207409,
+      0.126738
     ],
-    "address": "19 ngọc hà , đội cấn",
-    "area": "ba đình",
-    "price": "miễn phí",
+    "address": "98 king street",
+    "area": "centre",
+    "price": "free",
     "id": "5",
-    "name": "bảo tàng hồ chí minh",
+    "name": "broughton house gallery",
     "openhours": "?",
-    "phone": "02438463757",
+    "phone": "01223314960",
     "postcode": "cb11ln",
-    "pricerange": "miễn phí",
-    "type": "bảo tàng"
+    "pricerange": "free",
+    "type": "museum"
   },
   {
     "location": [
-      21.0160826,
-      105.8140601
+      52.1725982,
+      0.1112224
     ],
-    "address": "97 hoàng cầu , chợ dừa , đống đa",
-    "area": "đống đa",
-    "price": "miễn phí",
+    "address": "14 king 's parade",
+    "area": "south",
+    "price": "free",
     "id": "6",
-    "name": "bảo tàng mỹ thuật việt nam 2",
-    "openhours": "bảo tàng mở cửa sáng từ 08:00 đến 11:30 , chiều từ 13:00 đến 16:00 , hàng tuần ngoại trừ chủ nhật",
-    "phone": "02437332131",
+    "name": "byard art",
+    "openhours": "it opens from 09:30 . to 05:30p . m . from monday to saturday , and from 11:00 . to 04:00p . m . on sunday",
+    "phone": "01223464646",
     "postcode": "cb21sj",
-    "pricerange": "miễn phí",
-    "type": "bảo tàng"
+    "pricerange": "free",
+    "type": "museum"
   },
   {
     "location": [
-      21.0403422,
-      105.7899807
+      52.221949,
+      0.094948
     ],
-    "address": "đ . nguyễn văn huyên , quan hoa",
-    "area": "cầu giấy",
-    "price": "miễn phí",
+    "address": "cafe jello gallery , 13 magdalene street",
+    "area": "west",
+    "price": "free",
     "id": "7",
-    "name": "bảo tàng dân tộc học việt nam",
-    "openhours": "bảo tàng mở cửa hàng ngày từ 08:00 đến 17:30",
-    "phone": "02437562193",
+    "name": "cafe jello gallery",
+    "openhours": "it opens from 10:30 . to 05:30p . m . thursday to saturday",
+    "phone": "01223312112",
     "postcode": "cb30af",
-    "pricerange": "miễn phí",
-    "type": "bảo tàng"
+    "pricerange": "free",
+    "type": "museum"
   },
   {
     "location": [
-      21.0437024,
-      105.8314608
+      52.21247,
+      0.15619
     ],
-    "address": "108 , nguyễn du",
-    "area": "hoàn kiếm",
+    "address": "the plough , green end , fen ditton ,",
+    "area": "east",
     "price": "?",
     "id": "8",
-    "name": "trung tâm công nghệ & thiết kế tàu thuỷ cao tốc",
+    "name": "camboats",
     "openhours": "?",
-    "phone": "0986676689",
+    "phone": "01223902112",
     "postcode": "cb58sx",
     "pricerange": "?",
-    "type": "thuyền cho thuê"
+    "type": "boat"
   },
   {
     "location": [
-      21.0207944,
-      105.79594
+      52.210766,
+      0.114795
     ],
-    "address": "tòa nhà hội nhà báo việt nam , lô e2 , d . đình nghệ , yên hoà",
-    "area": "cầu giấy",
-    "price": "105,000 vnđ",
+    "address": "2 - 3 castle street",
+    "area": "west",
+    "price": "3.50 pounds",
     "id": "9",
-    "name": "bảo tàng báo chí việt nam",
-    "openhours": "bảo tàng mở cửa hàng sáng từ 08:30 đến 12:30 ngoại trừ thứ bảy",
-    "phone": "0986986110",
+    "name": "cambridge and county folk museum",
+    "openhours": "it opens from monday to saturday , 10 . to 5p . m . while on sunday it opens from 2p . m . to 5p . m.",
+    "phone": "01223355159",
     "postcode": "cb30aq",
-    "pricerange": "vừa phải",
-    "type": "bảo tàng"
+    "pricerange": "moderate",
+    "type": "museum"
   },
   {
     "location": [
-      21.0271832,
-      105.8465809
+      52.2034781571435,
+      0.119176917855308
     ],
-    "address": "58 kim mã",
-    "area": "ba đình",
+    "address": "6 saint edward 's passage",
+    "area": "centre",
     "price": "?",
     "id": "10",
-    "name": "nhà hát nghệ thuật đương đại việt nam",
+    "name": "cambridge arts theatre",
     "openhours": "?",
-    "phone": "02438430913",
+    "phone": "01223503333",
     "postcode": "cb23pj",
     "pricerange": "?",
-    "type": "nhà hát"
+    "type": "theatre"
   },
   {
     "location": [
-      21.0221676,
-      105.8482003
+      52.202271,
+      0.14702
     ],
-    "address": "36 lý thường kiệt , hàng bài",
-    "area": "hoàn kiếm",
-    "price": "miễn phí",
+    "address": "5 greens road",
+    "area": "east",
+    "price": "free",
     "id": "11",
-    "name": "bảo tàng phụ nữ việt nam",
+    "name": "cambridge artworks",
     "openhours": "?",
-    "phone": "02438259936",
+    "phone": "01223902168",
     "postcode": "cb13ef",
-    "pricerange": "miễn phí",
-    "type": "bảo tàng"
+    "pricerange": "free",
+    "type": "museum"
   },
   {
     "location": [
-      21.0351051,
-      105.7927321
+      52.198744,
+      0.113364
     ],
-    "address": "đường phan văn trường , dịch vọng hậu",
-    "area": "cầu giấy",
-    "price": "miễn phí",
+    "address": "49 newnham road",
+    "area": "west",
+    "price": "free",
     "id": "12",
-    "name": "bảo tàng binh chủng hoá học",
-    "openhours": "bảo tàng mở cửa từ thứ hai đến thứ sau , sáng từ 08:00 đến 11:00 , chiều từ 13:00 đến 16:00",
+    "name": "cambridge book and print gallery",
+    "openhours": "it opens from 10:00 . to 05:00p . m . from tuesday to saturday",
     "phone": "01223694264",
     "postcode": "cb39ey",
-    "pricerange": "miễn phí",
-    "type": "bảo tàng"
+    "pricerange": "free",
+    "type": "museum"
   },
   {
     "location": [
-      21.0221875,
-      105.8482003
+      52.206084,
+      0.118268
     ],
-    "address": "28a điện biên phủ , điện bàn",
-    "area": "ba đình",
-    "price": "miễn phí",
+    "address": "6 trinity street",
+    "area": "centre",
+    "price": "free",
     "id": "13",
-    "name": "bảo tàng lịch sử quân sự việt nam",
-    "openhours": "bảo tàng mở cửa hàng ngày trong tuần trừ thứ sáu , sáng từ 08:00 đến 11:30 , chiều từ 13:00 đến 16:30",
-    "phone": "02462531367",
+    "name": "cambridge contemporary art",
+    "openhours": "it opens from 11:00 . to 04:00p . m . on sunday , and from 09:00 . to 05:30p . m . from monday to saturday",
+    "phone": "01223324222",
     "postcode": "cb21su",
-    "pricerange": "miễn phí",
-    "type": "bảo tàng"
+    "pricerange": "free",
+    "type": "museum"
   },
   {
     "location": [
-      21.023484,
-      105.8525669
+      52.21247,
+      0.15619
     ],
-    "address": "6 phạm ngũ lão , phan chu trinh",
-    "area": "hoàn kiếm",
-    "price": "200,000 vnđ",
+    "address": "the old pumping station , cheddars lane",
+    "area": "east",
+    "price": "5 pounds",
     "id": "14",
-    "name": "bảo tàng địa chất",
-    "openhours": "bảo tàng mở cửa từ thứ hai đến thứ sáu hàng tuần , từ 08:00 đến 17:00",
-    "phone": "02439331496",
+    "name": "cambridge museum of technology",
+    "openhours": "it opens on sunday from 02:00p . m . to 05:00p . m.",
+    "phone": "01223368650",
     "postcode": "cb58ld",
-    "pricerange": "sang trọng",
-    "type": "bảo tàng"
+    "pricerange": "expensive",
+    "type": "museum"
   },
   {
     "location": [
-      21.0281656,
-      105.8441126
+      52.19525,
+      0.126
     ],
-    "address": "35 trần phú , điện bàn",
-    "area": "ba đình",
-    "price": "150,000 vnđ",
+    "address": "bateman street",
+    "area": "centre",
+    "price": "4 pounds",
     "id": "15",
-    "name": "công viên lê nin - đối diện 35 trần phú",
-    "openhours": "mở cửa từ 10:00 đến 06:00p . m trong tháng 4 đến tháng 9",
+    "name": "cambridge university botanic gardens",
+    "openhours": "it opens from 10:00 . to 06:00p . m . from april to september , from 10:00 . to 05:00p . m . in february march and october , and from 10:00 . to 04:00p . m . from november to january",
     "phone": "01223336265",
     "postcode": "cb21jf",
-    "pricerange": "vừa phải",
-    "type": "công viên"
+    "pricerange": "moderate",
+    "type": "park"
   },
   {
     "location": [
-      21.023588,
-      105.8460008
+      52.204788,
+      0.1214
     ],
-    "address": "66 nguyễn thái học , điện bàn",
-    "area": "ba đình",
-    "price": "miễn phí",
+    "address": "unit su43 , grande arcade , saint andrews street",
+    "area": "centre",
+    "price": "free",
     "id": "16",
-    "name": "bảo tàng mỹ thuật việt nam",
-    "openhours": "bảo tàng mở cửa hàng ngày từ 08:30 đến 17:00",
+    "name": "castle galleries",
+    "openhours": "it opens from 09:00 . to 06:00p . m . every day except wednesday when it opens from 09:00 . to 08:00p . m. , and sunday when it opens from 11:00 . to 05:00p . m.",
     "phone": "01223307402",
     "postcode": "cb23bj",
-    "pricerange": "miễn phí",
-    "type": "bảo tàng"
+    "pricerange": "free",
+    "type": "museum"
   },
   {
     "location": [
-      21.0254303,
-      105.8647548
+      52.186045,
+      0.157515
     ],
-    "address": "số 2 chương dương độ",
-    "area": "hoàn kiếm",
+    "address": "cherry hinton road",
+    "area": "east",
     "price": "?",
     "id": "17",
-    "name": "khu vui chơi kibi - chương dương độ",
+    "name": "cherry hinton hall and grounds",
     "openhours": "?",
-    "phone": "0969809850",
+    "phone": "01223446104",
     "postcode": "cb18dw",
     "pricerange": "?",
-    "type": "khu vui chơi giải trí"
+    "type": "entertainment"
   },
   {
     "location": [
-      21.0255491,
-      105.8647548
+      52.186045,
+      0.157515
     ],
-    "address": "104 phố lý thái tổ , tràng tiền",
-    "area": "hoàn kiếm",
-    "price": "miễn phí",
+    "address": "cherry hinton hall , cherry hinton road",
+    "area": "east",
+    "price": "free",
     "id": "18",
-    "name": "hồ gươm park",
-    "openhours": "từ tháng 5 đến tháng 9",
+    "name": "cherry hinton water play",
+    "openhours": "it opens from may to september",
     "phone": "01223446100",
     "postcode": "cb18dw",
-    "pricerange": "miễn phí",
-    "type": "công viên"
+    "pricerange": "free",
+    "type": "park"
   },
   {
     "location": [
-      21.0261591,
-      105.845679
+      52.20635,
+      0.121727777777778
     ],
-    "address": "10 điện biên phủ , cửa nam",
-    "area": "ba đình",
-    "price": "miễn phí",
+    "address": "saint andrew 's street",
+    "area": "centre",
+    "price": "free",
     "id": "19",
-    "name": "trường cao đẳng dầu khí việt nam - cn văn phòng",
-    "openhours": "",
-    "phone": "0916483910",
+    "name": "christ 's college",
+    "openhours": "it opens normally daily from 9 . to 5p . m . except easter term",
+    "phone": "01223334900",
     "postcode": "cb23bu",
-    "pricerange": "miễn phí",
-    "type": "đại học"
+    "pricerange": "free",
+    "type": "college"
   },
   {
     "location": [
-      21.0298835,
-      105.8046947
+      52.2128888888889,
+      0.103127777777778
     ],
-    "address": "số 10 , đường đ . nguyễn văn huyên , dịch vọng",
-    "area": "cầu giấy",
-    "price": "miễn phí",
+    "address": "storey 's way",
+    "area": "west",
+    "price": "free",
     "id": "20",
-    "name": "trường cao đẳng điện tử - điện lạnh hà nội",
-    "openhours": "trường mở cửa từ thứ hai đến thứ sáu , từ 07:30 đến 17:30",
-    "phone": "02437673896",
+    "name": "churchill college",
+    "openhours": "it opens normally daily from 9 . to 5p . m . except easter term",
+    "phone": "01223336233",
     "postcode": "cb30ds",
-    "pricerange": "miễn phí",
-    "type": "đại học"
+    "pricerange": "free",
+    "type": "college"
   },
   {
     "location": [
-      21.0062674,
-      105.8230623
+      52.1901222222222,
+      0.136991666666667
     ],
-    "address": "tầng 8 tttm vincom , số 2 phạm ngọc thạch , kim liên , đống đa",
-    "area": "đống đa",
+    "address": "cambridge leisure park , clifton way",
+    "area": "south",
     "price": "?",
     "id": "21",
-    "name": "bhd star cinema",
+    "name": "cineworld cinema",
     "openhours": "?",
-    "phone": "02436374079",
+    "phone": "00872208000",
     "postcode": "cb17dy",
     "pricerange": "?",
-    "type": "rạp chiếu phim"
+    "type": "cinema"
   },
   {
     "location": [
-      21.0383396,
-      105.7753212
+      52.2048527777778,
+      0.115422222222222
     ],
-    "address": "số 1 ngõ 58 phố trần bình , mai dịch",
-    "area": "cầu giấy",
-    "price": "75,000 vnđ",
+    "address": "trinity lane",
+    "area": "west",
+    "price": "2.50 pounds",
     "id": "22",
-    "name": "trường cao đẳng du lịch và thương mại",
-    "openhours": "mở cửa hàng ngày từ 9 đến 5p . m",
-    "phone": "0973219219",
+    "name": "clare college",
+    "openhours": "it opens normally daily from 9 . to 5p . m . except easter term",
+    "phone": "01223333200",
     "postcode": "cb21tl",
-    "pricerange": "vừa phải",
-    "type": "đại học"
+    "pricerange": "moderate",
+    "type": "college"
   },
   {
     "location": [
-      21.0296832,
-      105.7906829
+      52.2040527777778,
+      0.104480555555556
     ],
-    "address": "36 xuân thủy , dịch vọng hậu",
-    "area": "cầu giấy",
-    "price": "miễn phí",
+    "address": "herschel road",
+    "area": "west",
+    "price": "free",
     "id": "23",
-    "name": "trường cao đẳng kinh tế công nghệ hà nội ( hateco )",
-    "openhours": "trường mở cửa hàng ngày",
-    "phone": "0822859668",
+    "name": "clare hall",
+    "openhours": "it opens normally daily from 9 . to 5p . m . except easter term",
+    "phone": "01223332360",
     "postcode": "cb39al",
-    "pricerange": "miễn phí",
-    "type": "đại học"
+    "pricerange": "free",
+    "type": "college"
   },
   {
     "location": [
-      21.0477314,
-      105.8380111
+      52.195173,
+      0.131644
     ],
-    "address": "42 m yên phụ , trúc bạch",
-    "area": "ba đình",
-    "price": "150,000 vnđ",
+    "address": "1 station road",
+    "area": "centre",
+    "price": "5 pounds",
     "id": "24",
-    "name": "hero bar",
-    "openhours": "club mở cửa từ 21:00 đến 03:00",
-    "phone": "0989264242",
+    "name": "club salsa",
+    "openhours": "it opens at the university social club from 09:30p . m . to 11:30p . m . on wednesday , and from 10:00p . m . to 01:00 . on friday",
+    "phone": "07782218745",
     "postcode": "cb12jb",
-    "pricerange": "vừa phải",
-    "type": "câu lạc bộ đêm"
+    "pricerange": "moderate",
+    "type": "nightclub"
   },
   {
     "location": [
-      21.0368308,
-      105.7827683
+      52.2028416666667,
+      0.117844444444444
     ],
-    "address": "266 đội cấn , liễu giai",
-    "area": "ba đình",
-    "price": "25,000 vnđ",
+    "address": "king 's parade",
+    "area": "centre",
+    "price": "2 pounds",
     "id": "25",
-    "name": "trường đại học nguyễn trãi",
-    "openhours": "trường mở cửa từ thứ hai đến thứ sáu , từ 08:00 đến 17:00",
-    "phone": "02437547823",
+    "name": "corpus christi",
+    "openhours": "it opens normally daily from 9 . to 5p . m . except easter term",
+    "phone": "01223338000",
     "postcode": "cb21rh",
-    "pricerange": "rẻ",
-    "type": "đại học"
+    "pricerange": "cheap",
+    "type": "college"
   },
   {
     "location": [
-      21.0368308,
-      105.7827683
+      52.2013777777778,
+      0.125194444444444
     ],
-    "address": "50 vạn bảo , ngọc khánh",
-    "area": "ba đình",
-    "price": "miễn phí",
+    "address": "regent street",
+    "area": "centre",
+    "price": "free",
     "id": "26",
-    "name": "trường đại học dân lập đông đô",
-    "openhours": "trường mở cửa từ thứ hai đến thứ sáu , từ 08:00 đến 17:00",
-    "phone": "02437547506",
+    "name": "downing college",
+    "openhours": "it opens daily from 9 . to 5p . m . except during easter term",
+    "phone": "01223334860",
     "postcode": "cb21dq",
-    "pricerange": "miễn phí",
-    "type": "đại học"
+    "pricerange": "free",
+    "type": "college"
   },
   {
     "location": [
-      21.0368308,
-      105.7827683
+      52.203572,
+      0.123778
     ],
-    "address": "số 6 vĩnh phúc , vĩnh phú",
-    "area": "ba đình",
-    "price": "miễn phí",
+    "address": "saint andrew 's street",
+    "area": "centre",
+    "price": "free",
     "id": "27",
-    "name": "trường đại học thủ đô hà nội",
-    "openhours": "trường mở cửa từ thứ hai đến thứ sáu",
+    "name": "emmanuel college",
+    "openhours": "it opens normally daily from 9 . to 5p . m . except easter term",
     "phone": "01223334200",
     "postcode": "cb23ap",
-    "pricerange": "miễn phí",
-    "type": "đại học"
+    "pricerange": "free",
+    "type": "college"
   },
   {
     "location": [
-      21.0278873,
-      105.8515829
+      52.21401,
+      0.14789
     ],
-    "address": "số 36 phố lý thái tổ , lý thái tổ",
-    "area": "hoàn kiếm",
+    "address": "8 mercers row , mercers row industrial estate",
+    "area": "east",
     "price": "?",
     "id": "28",
-    "name": "cung thiếu nhi hà nội",
+    "name": "funky fun house",
     "openhours": "?",
     "phone": "01223304705",
     "postcode": "cb58hy",
     "pricerange": "?",
-    "type": "khu vui chơi giải trí"
+    "type": "entertainment"
   },
   {
     "location": [
-      21.0233457,
-      105.8522266
+      52.183498,
+      0.22186
     ],
-    "address": "19 lê thánh tông , phan chu trinh",
-    "area": "hoàn kiếm",
-    "price": "miễn phí",
+    "address": "fulbourn",
+    "area": "east",
+    "price": "free",
     "id": "29",
-    "name": "bảo tàng sinh học - đại học quốc gia hà nội",
+    "name": "gallery at 12 a high street",
     "openhours": "?",
-    "phone": "0989171907",
+    "phone": "01223295264",
     "postcode": "cb15dh",
-    "pricerange": "miễn phí",
-    "type": "bảo tàng"
+    "pricerange": "free",
+    "type": "museum"
   },
   {
     "location": [
-      21.0233948,
-      105.8390944
+      52.205861,
+      0.117972
     ],
-    "address": "110b ngọc hà , ngọc hồ",
-    "area": "ba đình",
-    "price": "miễn phí",
+    "address": "trinity street",
+    "area": "centre",
+    "price": "free",
     "id": "30",
-    "name": "trường đại học kinh bắc",
-    "openhours": "trường mở cửa từ thứ hai đến thứ bảy , từ 07:00 đến 18:00",
-    "phone": "02437547269",
+    "name": "gonville and caius college",
+    "openhours": "it opens normally daily from 9 . to 5p . m . except easter term",
+    "phone": "01223332400",
     "postcode": "cb21ta",
-    "pricerange": "miễn phí",
-    "type": "đại học"
+    "pricerange": "free",
+    "type": "college"
   },
   {
     "location": [
-      21.0369023,
-      105.832478
+      52.2049472222222,
+      0.118222222222222
     ],
-    "address": "2 hùng vương , điện bàn",
-    "area": "ba đình",
-    "price": "25,000 vnđ",
+    "address": "market square",
+    "area": "centre",
+    "price": "2 pounds",
     "id": "31",
-    "name": "lăng chủ tịch hồ chí minh",
-    "openhours": "mở cửa hàng ngày trong tuần ngoại trừ thứ 6 , từ 07:30 đến 10:30",
-    "phone": "02438455128",
+    "name": "great saint mary 's church",
+    "openhours": "it opens normally daily from 9 . to 5p . m.",
+    "phone": "01223350914",
     "postcode": "cb23pq",
-    "pricerange": "rẻ",
-    "type": "công trình kiến trúc"
+    "pricerange": "cheap",
+    "type": "architecture"
   },
   {
     "location": [
-      21.0369549,
-      105.8352434
+      52.2057694444444,
+      0.120033333333333
     ],
-    "address": "độc lập , điện bàn",
-    "area": "ba đình",
-    "price": "miễn phí",
+    "address": "market street",
+    "area": "centre",
+    "price": "free",
     "id": "32",
-    "name": "tòa nhà quốc hội việt nam",
-    "openhours": "mở cửa từ thứ hai đến thứ bảy , từ 08:00 đến 18:00",
+    "name": "holy trinity church",
+    "openhours": "it opens normally daily from 9 . to 5p . m.",
     "phone": "01223355397",
     "postcode": "cb23nz",
-    "pricerange": "miễn phí",
-    "type": "công trình kiến trúc"
+    "pricerange": "free",
+    "type": "architecture"
   },
   {
     "location": [
-      21.0384087,
-      105.8087431
+      52.200692,
+      0.133253
     ],
-    "address": "521 kim mã",
-    "area": "ba đình",
-    "price": "miễn phí",
+    "address": "wollaston road",
+    "area": "centre",
+    "price": "free",
     "id": "33",
-    "name": "trường đại học rmit",
-    "openhours": "mở cửa từ 9 đến 5p . m",
-    "phone": "02438330708",
+    "name": "hughes hall",
+    "openhours": "it opens normally daily from 9 . to 5p . m . except easter term",
+    "phone": "01223334898",
     "postcode": "cb12ew",
-    "pricerange": "miễn phí",
-    "type": "đại học"
+    "pricerange": "free",
+    "type": "college"
   },
   {
     "location": [
-      21.0404715,
-      105.8054386
+      52.209353,
+      0.125342
     ],
-    "address": "102 tân ấp , phúc xá",
-    "area": "ba đình",
-    "price": "miễn phí",
+    "address": "jesus lane",
+    "area": "centre",
+    "price": "free",
     "id": "34",
-    "name": "trường trung cấp kinh tế hà nội",
-    "openhours": "trường mở cửa từ thứ hai đến thứ sáu hàng tuần , từ 08:30 đến 17:30",
-    "phone": "02437917748",
+    "name": "jesus college",
+    "openhours": "it opens normally daily from 9 . to 5p . m . except easter term",
+    "phone": "01223339485",
     "postcode": "cb58bl",
-    "pricerange": "miễn phí",
-    "type": "đại học"
+    "pricerange": "free",
+    "type": "college"
   },
   {
     "location": [
-      21.0017454,
-      105.7812022
+      52.220328,
+      0.115149
     ],
-    "address": "20 thụy khuê , thuỵ khuê , tây hồ",
-    "area": "tây hồ",
+    "address": "between victoria road and the river",
+    "area": "north",
     "price": "?",
     "id": "35",
-    "name": "bể bơi sense aqua",
+    "name": "jesus green outdoor pool",
     "openhours": "?",
-    "phone": "0932311311",
+    "phone": "01223302579",
     "postcode": "cb43px",
     "pricerange": "?",
-    "type": "bể bơi"
+    "type": "swimming pool"
   },
   {
     "location": [
-      21.0177598,
-      105.812593
+      52.204192,
+      0.119187
     ],
-    "address": "1 láng hạ , chợ dừa",
-    "area": "ba đình",
-    "price": "150,000 vnđ",
+    "address": "1 wheeler street",
+    "area": "centre",
+    "price": "5 pounds",
     "id": "36",
-    "name": "club ngân hà",
-    "openhours": "mở cửa từ 10:00p . m đến 04:00",
-    "phone": "02435146776",
+    "name": "kambar",
+    "openhours": "it opens from 10:00p . m . to 04:00 . depending on whether there is an event on or not",
+    "phone": "01223842725",
     "postcode": "cb23qb",
-    "pricerange": "vừa phải",
-    "type": "câu lạc bộ đêm"
+    "pricerange": "moderate",
+    "type": "nightclub"
   },
   {
     "location": [
-      21.0326505,
-      105.7953839
+      52.212405,
+      0.113075
     ],
-    "address": "lô d26 , khu đô thị mới , cầu giấy",
-    "area": "cầu giấy",
-    "price": "miễn phí",
+    "address": "castle street",
+    "area": "west",
+    "price": "free",
     "id": "37",
-    "name": "bảo tàng viettel - viettel museum",
-    "openhours": "mở cửa từ 11:30 đến 05:00p . m",
+    "name": "kettle 's yard",
+    "openhours": "it opens from 11:30 . to 05:00p . m . tuesday to sunday",
     "phone": "01223748100",
     "postcode": "cb30aq",
-    "pricerange": "miễn phí",
-    "type": "bảo tàng"
+    "pricerange": "free",
+    "type": "museum"
   },
   {
     "location": [
-      21.0365849,
-      105.7814185
+      52.204289,
+      0.117269
     ],
-    "address": "10 nguyễn trường tộ , nguyễn trung trực",
-    "area": "ba đình",
-    "price": "miễn phí",
+    "address": "king 's parade",
+    "area": "centre",
+    "price": "free",
     "id": "38",
-    "name": "trung tâm dạy nghề quận ba đình",
-    "openhours": "trường mở cửa từ thứ hai đến thứ sáu hàng tuần , từ 07:30 đến 16:30",
-    "phone": "02437688977",
+    "name": "king 's college",
+    "openhours": "it opens normally daily from 9 . to 5p . m . except easter term",
+    "phone": "01223331100",
     "postcode": "cb21st",
-    "pricerange": "miễn phí",
-    "type": "đại học"
+    "pricerange": "free",
+    "type": "college"
   },
   {
     "location": [
-      21.0719202,
-      105.8285998
+      52.23171,
+      0.122415
     ],
-    "address": "124 âu cơ , tứ liên , tây hồ , hà nội , việt nam",
-    "area": "tây hồ",
+    "address": "jedburgh court , kings hedges",
+    "area": "north",
     "price": "?",
     "id": "39",
-    "name": "the spot - pool & leisure",
+    "name": "kings hedges learner pool",
     "openhours": "?",
-    "phone": "0975039434",
+    "phone": "01223353248",
     "postcode": "cb42xh",
     "pricerange": "?",
-    "type": "bể bơi"
+    "type": "swimming pool"
   },
   {
     "location": [
-      21.0335039,
-      105.8372977
+      52.2005111111111,
+      0.119883333333333
     ],
-    "address": "19c hoàng diệu , điện bàn",
-    "area": "ba đình",
-    "price": "miễn phí",
+    "address": "little saint mary 's lane",
+    "area": "centre",
+    "price": "free",
     "id": "40",
-    "name": "hoàng thành thăng long",
-    "openhours": "mở cửa hàng ngày từ 08:00 đến 17:00",
-    "phone": "02437345427",
+    "name": "little saint mary 's church",
+    "openhours": "it opens normally daily from 9 . to 5p . m.",
+    "phone": "01223366202",
     "postcode": "cb21qy",
-    "pricerange": "miễn phí",
-    "type": "công trình kiến trúc"
+    "pricerange": "free",
+    "type": "architecture"
   },
   {
     "location": [
-      21.0454524,
-      105.7970431
+      52.222053,
+      0.095086
     ],
-    "address": "216 trần quang khải",
-    "area": "cầu giấy",
-    "price": "miễn phí",
+    "address": "23 high street , fen ditton",
+    "area": "west",
+    "price": "free",
     "id": "41",
-    "name": "bảo tàng lịch sử quốc gia",
-    "openhours": "mở cửa hàng ngày sáng từ 08:30 đến 11:30 , chiều từ 13:30 đến 17:00 trừ thứ 2 đầu tháng",
-    "phone": "02466869034",
+    "name": "lynne strover gallery",
+    "openhours": "it opens from 10:00 . to 05:00p . m . thursday to saturday",
+    "phone": "01223295264",
     "postcode": "cb30aq",
-    "pricerange": "miễn phí",
-    "type": "bảo tàng"
+    "pricerange": "free",
+    "type": "museum"
   },
   {
     "location": [
-      21.0163146,
-      105.7958491
+      52.210403,
+      0.115803
     ],
-    "address": "171 p . trung kính , yên hoà",
-    "area": "cầu giấy",
-    "price": "miễn phí",
+    "address": "magdalene street",
+    "area": "west",
+    "price": "free",
     "id": "42",
-    "name": "trường đại học phương đông",
-    "openhours": "mở cửa từ thứ hai đến thứ sau , từ 07:00 đến 17:30",
-    "phone": "02437848515",
+    "name": "magdalene college",
+    "openhours": "it opens normally daily from 9 . to 5p . m . except easter term",
+    "phone": "01223332138",
     "postcode": "cb30ag",
-    "pricerange": "miễn phí",
-    "type": "đại học"
+    "pricerange": "free",
+    "type": "college"
   },
   {
     "location": [
-      21.0746058,
-      105.810741
+      52.247361,
+      0.156627
     ],
-    "address": "ngã 3 phố nhật chiêu , nhật tân , tây hồ",
-    "area": "tây hồ",
-    "price": "miễn phí",
+    "address": "milton country park , milton",
+    "area": "north",
+    "price": "free",
     "id": "43",
-    "name": "thung lũng hoa hồ tây",
+    "name": "milton country park",
     "openhours": "always",
-    "phone": "0839968968",
+    "phone": "01223420060",
     "postcode": "cb46az",
-    "pricerange": "miễn phí",
-    "type": "công viên"
+    "pricerange": "free",
+    "type": "park"
   },
   {
     "location": [
-      21.0163545,
-      105.7958491
+      52.20571,
+      0.131061
     ],
-    "address": "87 láng hạ , chợ dừa",
-    "area": "ba đình",
+    "address": "anglia ruskin enterprise , east road",
+    "area": "centre",
     "price": "?",
     "id": "44",
-    "name": "nhà hát star galaxy",
+    "name": "mumford theatre",
     "openhours": "?",
-    "phone": "02436646969",
+    "phone": "08451962320",
     "postcode": "cb11pt",
     "pricerange": "?",
-    "type": "nhà hát"
+    "type": "theatre"
   },
   {
     "location": [
-      21.036793,
-      105.8218557
+      52.205261,
+      0.11664
     ],
-    "address": "ba đình",
-    "area": "ba đình",
-    "price": "miễn phí",
+    "address": "university of cambridge , downing street",
+    "area": "centre",
+    "price": "free",
     "id": "45",
-    "name": "phòng họp bộ chính trị",
-    "openhours": "mở cửa hàng ngày trừ thứ sáu sáng từ 08:00 đến 11:00 , chiều từ 13:30 đến 16:30",
-    "phone": "02462730994",
+    "name": "museum of archaelogy and anthropology",
+    "openhours": "it opens from 10:30 . to 04:30p . m . tuesday to saturday",
+    "phone": "01223333516",
     "postcode": "cb23dz",
-    "pricerange": "miễn phí",
-    "type": "bảo tàng"
+    "pricerange": "free",
+    "type": "museum"
   },
   {
     "location": [
-      21.0373528,
-      105.7954412
+      52.20987,
+      0.111565
     ],
-    "address": "d9 , làng quốc tế thăng long",
-    "area": "cầu giấy",
-    "price": "miễn phí",
+    "address": "sidgwick avenue",
+    "area": "west",
+    "price": "free",
     "id": "46",
-    "name": "bảo tàng tố hữu",
-    "openhours": "bảo tàng mở cửa vào thứ bảy hàng tuần từ 09:00 đến 17:00",
-    "phone": "0983801920",
+    "name": "museum of classical archaeology",
+    "openhours": "it opens from 10:00 . to 05:00p . m . monday to friday",
+    "phone": "01223335153",
     "postcode": "cb39da",
-    "pricerange": "miễn phí",
-    "type": "bảo tàng"
+    "pricerange": "free",
+    "type": "museum"
   },
   {
     "location": [
-      21.0186333,
-      105.8242634
+      52.1896573155949,
+      0.137541476208324
     ],
-    "address": "78 ngõ giếng , chợ dừa , đống đa",
-    "area": "đống đa",
+    "address": "unit g6 , cambridge leisure park , clifton road",
+    "area": "south",
     "price": "?",
     "id": "47",
-    "name": "clb bida vtc club",
-    "openhours": "",
-    "phone": "0907418456",
+    "name": "nusha",
+    "openhours": "it opens from 05:00p . m . to 01:30 . on tuesday , friday and saturday , and from 05:00p . m . to midnight on monday , wednesday , thursday and sunday .",
+    "phone": "01223902158",
     "postcode": "cb17dy",
     "pricerange": "?",
-    "type": "khu vui chơi giải trí"
+    "type": "entertainment"
   },
   {
     "location": [
-      21.0345078,
-      105.8263489
+      52.2052638888889,
+      0.116641666666667
     ],
-    "address": "số 2 hùng vương , ngọc hồ",
-    "area": "ba đình",
-    "price": "miễn phí",
+    "address": "trinity lane",
+    "area": "centre",
+    "price": "free",
     "id": "48",
-    "name": "văn phòng chủ tịch nước",
-    "openhours": "mở cửa vào thứ hai đến thứ sáu hàng tuần từ 07:00 đến 16:00",
-    "phone": "08043176",
+    "name": "old schools",
+    "openhours": "it opens normally daily from 08:00 . to 05:45p . m.",
+    "phone": "01223332320",
     "postcode": "cb21tt",
-    "pricerange": "miễn phí",
-    "type": "công trình kiến trúc"
+    "pricerange": "free",
+    "type": "architecture"
   },
   {
     "location": [
-      21.0345277,
-      105.8263489
+      52.201275,
+      0.129935
     ],
-    "address": "ngõ 97 văn cao , liễu giai",
-    "area": "ba đình",
+    "address": "gonville place",
+    "area": "centre",
     "price": "?",
     "id": "49",
-    "name": "bể bơi khăn quàng đỏ",
+    "name": "parkside pools",
     "openhours": "?",
     "phone": "01223446100",
     "postcode": "cb11ly",
     "pricerange": "?",
-    "type": "bể bơi"
+    "type": "swimming pool"
   },
   {
     "location": [
-      21.0345769,
-      105.8132168
+      52.202611,
+      0.120658
     ],
-    "address": "2 and 2c khu ngoại giao đoàn vạn phúc , kim mã , ngọc khánh",
-    "area": "ba đình",
-    "price": "miễn phí",
+    "address": "trumpington street",
+    "area": "centre",
+    "price": "free",
     "id": "50",
-    "name": "trường cao đẳng quốc tế pegasus",
-    "openhours": "mở cửa vào thứ hai đến thứ sáu hàng tuần từ 08:30 đến 17:00",
-    "phone": "02437547461",
+    "name": "pembroke college",
+    "openhours": "any time except may and june",
+    "phone": "01223338100",
     "postcode": "cb21rf",
-    "pricerange": "miễn phí",
-    "type": "đại học"
+    "pricerange": "free",
+    "type": "college"
   },
   {
     "location": [
-      21.0512555,
-      105.804977
+      52.228375,
+      0.0837527777777778
     ],
-    "address": "290 đ . lạc long quân , bưởi",
-    "area": "cầu giấy",
-    "price": "miễn phí",
+    "address": "girton college , huntingdon road",
+    "area": "west",
+    "price": "free",
     "id": "51",
-    "name": "bảo tàng công binh",
-    "openhours": "mở cửa vào thứ hai đến thứ sáu hàng tuần từ 08:00 đến 18:00",
-    "phone": "02437590378",
+    "name": "people 's portraits exhibition at girton college",
+    "openhours": "it opens from 02:00p . m . to 04:00p . m . daily from february to july",
+    "phone": "01223338901",
     "postcode": "cb3ojg",
-    "pricerange": "miễn phí",
-    "type": "bảo tàng"
+    "pricerange": "free",
+    "type": "museum"
   },
   {
     "location": [
-      21.0133423,
-      105.7980247
+      52.2034781571435,
+      0.119176917855308
     ],
-    "address": "463 đội cấn , vĩnh phú",
-    "area": "ba đình",
-    "price": "miễn phí",
+    "address": "10 king s parade",
+    "area": "centre",
+    "price": "free",
     "id": "52",
-    "name": "bảo tàng pháo binh",
-    "openhours": "bảo tàng mở cửa hàng ngày , sáng từ 08:00 đến 11:30 , chiều từ 13:30 đến 17:00",
+    "name": "primavera",
+    "openhours": "it opens from 11:00 . to 04:30p . m . on sunday , from 10:00 . to 05:00p . m . from monday to friday , and from 10:00 . to 05:30p . m . on saturday",
     "phone": "01223357708",
     "postcode": "cb21sj",
-    "pricerange": "miễn phí",
-    "type": "bảo tàng"
+    "pricerange": "free",
+    "type": "museum"
   },
   {
     "location": [
-      21.0319478,
-      105.7876392
+      52.2018,
+      0.114239
     ],
-    "address": "khu văn hóa nghệ thuật , ngõ 76 mai dịch , mai dịch",
-    "area": "cầu giấy",
-    "price": "75,000 vnđ",
+    "address": "silver street",
+    "area": "west",
+    "price": "2.50 pounds",
     "id": "53",
-    "name": "trường đại học sân khấu điện ảnh hà nội",
-    "openhours": "trường mở cửa hàng tuần từ thứ hai đến thứ sáu , từ 08:00 đến 17:00 , đóng cửa vào thứ bảy và chủ nhật",
-    "phone": "02437643397",
+    "name": "queens ' college",
+    "openhours": "monday to sunday 10 . to 04:30p . m.",
+    "phone": "01223335511",
     "postcode": "cb39et",
-    "pricerange": "vừa phải",
-    "type": "đại học"
+    "pricerange": "moderate",
+    "type": "college"
   },
   {
     "location": [
-      21.0118377,
-      105.7916732
+      52.206823,
+      0.131361
     ],
-    "address": "28a điện biên phủ , điện bàn",
-    "area": "ba đình",
-    "price": "miễn phí",
+    "address": "39 fitzroy street",
+    "area": "centre",
+    "price": "free",
     "id": "54",
-    "name": "cột cờ hà nội",
+    "name": "regency gallery",
     "openhours": "?",
-    "phone": "069553215",
+    "phone": "01223365454",
     "postcode": "cb11er",
-    "pricerange": "miễn phí",
-    "type": "bảo tàng"
+    "pricerange": "free",
+    "type": "museum"
   },
   {
     "location": [
-      21.0502407,
-      105.8359742
+      52.229515,
+      0.111645
     ],
-    "address": "1 phố yên hoa , yên phụ , tây hồ",
-    "area": "tây hồ",
+    "address": "cambridge passenger cruisers , jubilee house",
+    "area": "north",
     "price": "?",
     "id": "55",
-    "name": "bay buffet seafood hồ tây",
+    "name": "riverboat georgina",
     "openhours": "?",
-    "phone": "02432669380",
+    "phone": "01223902091",
     "postcode": "cb43ax",
     "pricerange": "?",
-    "type": "thuyền cho thuê"
+    "type": "boat"
   },
   {
     "location": [
-      20.9997787,
-      105.7587143
+      52.20571,
+      0.131061
     ],
-    "address": "hùng vương , điện bàn",
-    "area": "ba đình",
-    "price": "miễn phí",
+    "address": "anglia ruskin university , east road",
+    "area": "centre",
+    "price": "free",
     "id": "56",
-    "name": "quảng trường ba đình",
+    "name": "ruskin gallery",
     "openhours": "?",
-    "phone": "024829137",
+    "phone": "01245493131",
     "postcode": "cb11pt",
-    "pricerange": "miễn phí",
-    "type": "bảo tàng"
+    "pricerange": "free",
+    "type": "museum"
   },
   {
     "location": [
-      21.0242994,
-      105.843628
+      52.20858,
+      0.148702
     ],
-    "address": "67 lý thường kiệt , trần hưng đạo , hoàn kiếm",
-    "area": "hoàn kiếm",
-    "price": "miễn phí",
+    "address": "the belfast yard , coldham 's road",
+    "area": "east",
+    "price": "free",
     "id": "57",
-    "name": "bảo tàng công an hà nội",
+    "name": "saint barnabas press gallery",
     "openhours": "?",
-    "phone": "02439331496",
+    "phone": "01223902116",
     "postcode": "cb13ew",
-    "pricerange": "miễn phí",
-    "type": "bảo tàng"
+    "pricerange": "free",
+    "type": "museum"
   },
   {
     "location": [
-      20.9997036,
-      105.8432315
+      52.202839,
+      0.116394
     ],
-    "address": "207 giải phóng , đồng tâm",
-    "area": "ba đình",
-    "price": "miễn phí",
+    "address": "king 's parade",
+    "area": "centre",
+    "price": "free",
     "id": "58",
-    "name": "trường đại học kinh tế quốc dân",
-    "openhours": "mở của từ thứ hai đến thứ bảy hàng tuần , từ 07:00 đến 21:30",
-    "phone": "02436280280",
+    "name": "saint catharine 's college",
+    "openhours": "it opens normally daily from 9 . to 5p . m . except easter term",
+    "phone": "01223338300",
     "postcode": "cb21rl",
-    "pricerange": "miễn phí",
-    "type": "đại học"
+    "pricerange": "free",
+    "type": "college"
   },
   {
     "location": [
-      21.0070303,
-      105.8409473
+      52.208803,
+      0.117411
     ],
-    "address": "1 đại cồ việt , bách khoa",
-    "area": "ba đình",
-    "price": "70,000 vnđ",
+    "address": "saint john 's street",
+    "area": "centre",
+    "price": "2.50 pounds",
     "id": "59",
-    "name": "trường đại học bách khoa hà nội",
-    "openhours": "mở của mọi ngày trong tuần , từ 07:00 đến 17:00",
-    "phone": "02436231732",
+    "name": "saint john 's college",
+    "openhours": "it opens normally daily from 9 . to 5p . m . except easter term",
+    "phone": "01223338600",
     "postcode": "cb21tp",
-    "pricerange": "vừa phải",
-    "type": "đại học"
+    "pricerange": "moderate",
+    "type": "college"
   },
   {
     "location": [
-      21.0201852,
-      105.8568045
+      52.19806,
+      0.123185
     ],
-    "address": "2 trần hưng đạo , phan chu trinh",
-    "area": "ba đình",
-    "price": "miễn phí",
+    "address": "lensfield road",
+    "area": "centre",
+    "price": "free",
     "id": "60",
-    "name": "bảo tàng biên phòng việt nam",
-    "openhours": "mở của từ thứ hai đến thứ sáu hàng tuần , từ 08:00 đến 17:00",
-    "phone": "069518167",
+    "name": "scott polar museum",
+    "openhours": "it opens from 10:00 . to 04:00p . m . from tuesday to saturday",
+    "phone": "01223336540",
     "postcode": "cb21er",
-    "pricerange": "miễn phí",
-    "type": "bảo tàng"
+    "pricerange": "free",
+    "type": "museum"
   },
   {
     "location": [
-      21.0356182,
-      105.8053297
+      52.200975,
+      0.116298
     ],
-    "address": "hoàng diệu , quán thánh , ba đình",
-    "area": "ba đình",
+    "address": "granta place , mill lane",
+    "area": "centre",
     "price": "?",
     "id": "61",
-    "name": "khu di tích hoàng thành",
+    "name": "scudamores punting co",
     "openhours": "?",
     "phone": "01223359750",
     "postcode": "cb21rs",
     "pricerange": "?",
-    "type": "thuyền cho thuê"
+    "type": "boat"
   },
   {
     "location": [
-      21.0109357,
-      105.8401974
+      52.17674,
+      0.14559
     ],
-    "address": "354a đường lê duẩn , phương liên , đống đa",
-    "area": "đống đa",
-    "price": "miễn phí",
+    "address": "fen causeway , newnham road ,",
+    "area": "south",
+    "price": "free",
     "id": "62",
-    "name": "công viên thống nhất",
-    "openhours": "công viên mở cửa cả ngày",
-    "phone": "02435725720",
+    "name": "sheep 's green and lammas land park fen causeway",
+    "openhours": "it is open from may to sept",
+    "phone": "01223302580",
     "postcode": "cb22ad",
-    "pricerange": "miễn phí",
-    "type": "công viên"
+    "pricerange": "free",
+    "type": "park"
   },
   {
     "location": [
-      21.0356182,
-      105.8053297
+      52.207464,
+      0.121342
     ],
-    "address": "347 , đội cấn",
-    "area": "ba đình",
-    "price": "miễn phí",
+    "address": "sidney street",
+    "area": "centre",
+    "price": "free",
     "id": "63",
-    "name": "trường trung cấp kinh tế kỹ thuật thương mại",
-    "openhours": "mở cửa cả tuần trừ thứ 7 và chủ nhật",
+    "name": "sidney sussex college",
+    "openhours": "it opens daily from 9 . to 5p . m . except during easter term",
     "phone": "01223338800",
     "postcode": "cb23hu",
-    "pricerange": "miễn phí",
-    "type": "đại học"
+    "pricerange": "free",
+    "type": "college"
   },
   {
     "location": [
-      21.0438782,
-      105.7676755
+      52.203878,
+      0.12044
     ],
-    "address": "18 lương ngọc quyến , hàng buồm",
-    "area": "ba đình",
-    "price": "100,000 vnđ",
+    "address": "1 - 6 corn exchange street",
+    "area": "centre",
+    "price": "4 pounds",
     "id": "64",
-    "name": "the opera nightclub",
-    "openhours": "quán bar mở cửa từ thứ hai đến chủ nhật , từ 21h đến 3h sáng",
-    "phone": "0989264242",
+    "name": "soul tree nightclub",
+    "openhours": "it opens from 09:30p . m . to 02:00 . from sunday to tuesday , from 09:00p . m . to 02:00 . on wednesday , and from 09:00p . m . to 02:30 . from thursday to saturday",
+    "phone": "01223477900",
     "postcode": "cb23qf",
-    "pricerange": "rẻ",
-    "type": "câu lạc bộ đêm"
+    "pricerange": "cheap",
+    "type": "nightclub"
   },
   {
     "location": [
-      21.0036102,
-      105.8192334
+      52.18568,
+      0.144638
     ],
-    "address": "319 tây sơn , ngã tư sở , đống đa",
-    "area": "đống đa",
+    "address": "cambridge leisure park , clifton way",
+    "area": "south",
     "price": "?",
     "id": "65",
-    "name": "billiards club tây sơn",
+    "name": "tenpin",
     "openhours": "?",
-    "phone": "0839127888",
+    "phone": "08715501010",
     "postcode": "cb17dy",
     "pricerange": "?",
-    "type": "khu vui chơi giải trí"
+    "type": "entertainment"
   },
   {
     "location": [
-      21.0296628,
-      105.8086661
+      52.20431,
+      0.119215
     ],
-    "address": "523 kim mã , ngọc khánh , ba đình",
-    "area": "ba đình",
+    "address": "wheeler street",
+    "area": "centre",
     "price": "?",
     "id": "66",
-    "name": "rạp ngọc khánh",
+    "name": "the cambridge corn exchange",
     "openhours": "?",
-    "phone": "02437712750",
+    "phone": "01223357851",
     "postcode": "cb23qe",
     "pricerange": "?",
-    "type": "nhà hát"
+    "type": "theatre"
   },
   {
     "location": [
-      21.0296876,
-      105.8021
+      52.211939,
+      0.118661
     ],
-    "address": "306b kim mã , ngọc khánh , ba đình",
-    "area": "ba đình",
+    "address": "251a chesterton road",
+    "area": "centre",
     "price": "?",
     "id": "67",
-    "name": "đền voi phục",
+    "name": "the cambridge punter",
     "openhours": "?",
     "phone": "07807718591",
     "postcode": "cb41as",
     "pricerange": "?",
-    "type": "thuyền cho thuê"
+    "type": "boat"
   },
   {
     "location": [
-      21.039979,
-      105.8507409
+      52.186715,
+      0.17882
     ],
-    "address": "223 hồng hà , phúc tân , hoàn kiếm",
-    "area": "hoàn kiếm",
+    "address": "colville road , cherry hinton",
+    "area": "east",
     "price": "?",
     "id": "68",
-    "name": "trung tâm thể dục thể thao quận hoàn kiếm",
-    "openhours": "trung tâm mở cửa từ 8h sáng đến 6h chiều , tất cả các ngày trong tuần",
-    "phone": "02438287214",
+    "name": "the cherry hinton village centre",
+    "openhours": "it opens from 09:00 . to 08:00p . m . on sunday , and from 09:00 . to 10:00p . m . from monday to saturday",
+    "phone": "01223576412",
     "postcode": "cb19ej",
     "pricerange": "?",
-    "type": "khu phức hợp thể thao"
+    "type": "multiple sports"
   },
   {
     "location": [
-      21.0334795,
-      105.800587
+      52.206144,
+      0.120283
     ],
-    "address": "31 ngõ 12 phố đào tấn , cống vị , ba đình",
-    "area": "ba đình",
-    "price": "150,000 vnđ",
+    "address": "8 market passage",
+    "area": "centre",
+    "price": "5 pounds",
     "id": "69",
-    "name": "g club",
-    "openhours": "quán mở cửa từ 7h tối đến 1h sáng các ngày trong tuần",
-    "phone": "0375276257",
+    "name": "the fez club",
+    "openhours": "it opens on monday from 9p . m . to 2 . it is closed on tuesday . from wednesday to saturday it opens from 9p . m . to 2 . and it is closed on sunday",
+    "phone": "01223519224",
     "postcode": "cb23hx",
-    "pricerange": "vừa phải",
-    "type": "câu lạc bộ đêm"
+    "pricerange": "moderate",
+    "type": "nightclub"
   },
   {
     "location": [
-      21.0354342,
-      105.8172601
+      52.19855,
+      0.121785
     ],
-    "address": "157 đội cấn , ngọc hồ , ba đình",
-    "area": "ba đình",
-    "price": "miễn phí",
+    "address": "trumpington street",
+    "area": "centre",
+    "price": "free",
     "id": "70",
-    "name": "bảo tàng chiến thắng b-52",
-    "openhours": "mở cửa từ 8h sáng đến 4h30 chiều , trừ thứ 2 và thứ 6",
+    "name": "the fitzwilliam museum",
+    "openhours": "from tuesday to saturday it opens from 10 . to 5p . m . while on sunday , monday and bank holidays it opens from 12 to 5p . m.",
     "phone": "01223332900",
     "postcode": "cb21rb",
-    "pricerange": "miễn phí",
-    "type": "bảo tàng"
+    "pricerange": "free",
+    "type": "museum"
   },
   {
     "location": [
-      21.0356836,
-      105.7909954
+      52.190325,
+      0.135755
     ],
-    "address": "30d mai anh tuấn , chợ dừa , đống đa",
-    "area": "đống đa",
+    "address": "clifton way",
+    "area": "south",
     "price": "?",
     "id": "71",
-    "name": "nhà hát kịch công an nhân dân",
+    "name": "the junction",
     "openhours": "?",
-    "phone": "02438314522",
+    "phone": "01223511511",
     "postcode": "cb17gx",
     "pricerange": "?",
-    "type": "nhà hát"
+    "type": "theatre"
   },
   {
     "location": [
-      21.0358366,
-      105.7909953
+      52.204746,
+      0.136515
     ],
-    "address": "77 hào nam , chợ dừa , đống đa",
-    "area": "ba đình",
+    "address": "2 norfolk street",
+    "area": "centre",
     "price": "?",
     "id": "72",
-    "name": "phòng hoà nhạc học viện âm nhạc quốc gia việt nam",
+    "name": "the man on the moon",
     "openhours": "?",
-    "phone": "0918152992",
+    "phone": "01223474144",
     "postcode": "cb12lf",
     "pricerange": "?",
-    "type": "phòng hòa nhạc"
+    "type": "concert hall"
   },
   {
     "location": [
-      21.0361427,
-      105.7909953
+      52.1725982,
+      0.1112224
     ],
-    "address": "6 chùa bộc , quang trung , đống đa",
-    "area": "đống đa",
+    "address": "22 sidney street",
+    "area": "south",
     "price": "?",
     "id": "73",
-    "name": "airport exclusive club",
-    "openhours": "quán mở cửa từ 21h đến 3h sáng , tất cả các ngày trong tuần",
-    "phone": "0963436969",
+    "name": "the place",
+    "openhours": "it opens from 10:30p . m . to 03:30 . on tuesday , from 10:00p . m . to 02:30 . on thursday , from 10:00p . m . to 04:00 . on friday and saturday , and from 10:00p . m . to 02:00 . on sunday",
+    "phone": "01223324600",
     "postcode": "cb23hg",
-    "pricerange": "vừa phải",
-    "type": "câu lạc bộ đêm"
+    "pricerange": "moderate",
+    "type": "nightclub"
   },
   {
     "location": [
-      21.0364488,
-      105.7909952
+      52.207081,
+      0.117622
     ],
-    "address": "103 phúc xá",
-    "area": "ba đình",
-    "price": "100,000 vnđ",
+    "address": "trinity street",
+    "area": "centre",
+    "price": "1 pound",
     "id": "74",
-    "name": "cao đẳng y tế hà nội",
-    "openhours": "nhà hát mở cửa từ 9h sáng tới 5h chiều .",
-    "phone": "02438314522",
+    "name": "trinity college",
+    "openhours": "it opens normally daily from 9 . to 5p . m . except easter term",
+    "phone": "01223338400",
     "postcode": "cb21tq",
-    "pricerange": "rẻ",
-    "type": "đại học"
+    "pricerange": "cheap",
+    "type": "college"
   },
   {
     "location": [
-      21.0366019,
-      105.7908235
+      52.20571,
+      0.131061
     ],
-    "address": "29 liễu giai , ngọc khánh , ba đình",
-    "area": "ba đình",
+    "address": "the grafton centre , east road",
+    "area": "centre",
     "price": "?",
     "id": "75",
-    "name": "cgv vincom metropolis liễu giai",
+    "name": "vue cinema",
     "openhours": "?",
-    "phone": "019006017",
+    "phone": "08712240240",
     "postcode": "cb11ps",
     "pricerange": "?",
-    "type": "rạp chiếu phim"
+    "type": "cinema"
   },
   {
     "location": [
-      21.0274223,
-      105.8332455
+      52.119551,
+      0.181018
     ],
-    "address": "58 quốc tử giám , văn miếu , đống đa",
-    "area": "đống đa",
-    "price": "miễn phí",
+    "address": "wandlebury ring , gog magog hills , babraham",
+    "area": "south",
+    "price": "free",
     "id": "76",
-    "name": "vườn hoa quốc tử giám",
+    "name": "wandlebury country park",
     "openhours": "always",
-    "phone": "0239473927",
+    "phone": "01223243830",
     "postcode": "cb223ae",
-    "pricerange": "miễn phí",
-    "type": "công viên"
+    "pricerange": "free",
+    "type": "park"
   },
   {
     "location": [
-      21.0237068,
-      105.759384
+      52.254,
+      0.016478
     ],
-    "address": "phạm hùng , mỹ đình , cầu giấy",
-    "area": "cầu giấy",
+    "address": "unit 8 , viking way , bar hill",
+    "area": "west",
     "price": "?",
     "id": "77",
-    "name": "cung thiếu nhi cầu giấy",
+    "name": "whale of a time",
     "openhours": "it opens from 09:30 . to 06:00p . m . daily",
-    "phone": "0284739173",
+    "phone": "01954781018",
     "postcode": "cb238el",
     "pricerange": "?",
-    "type": "khu vui chơi giải trí"
+    "type": "entertainment"
   },
   {
     "location": [
-      21.0390345,
-      105.7975479
+      52.203117,
+      0.118928
     ],
-    "address": "nhà a20 - số , 18 hoàng quốc việt , nghĩa đô",
-    "area": "ba đình",
-    "price": "miễn phí",
+    "address": "free school lane",
+    "area": "centre",
+    "price": "free",
     "id": "78",
-    "name": "bảo tàng thiên nhiên việt nam",
-    "openhours": "mở cửa tất cả các ngày trong tuần trừ thứ 2 , từ 8h30 đến 16h30",
+    "name": "whipple museum of the history of science",
+    "openhours": "it opens from 12:30p . m . to 04:30p . m . from monday to friday",
     "phone": "01223330906",
     "postcode": "cb23rh",
-    "pricerange": "miễn phí",
-    "type": "bảo tàng"
+    "pricerange": "free",
+    "type": "museum"
   },
   {
     "location": [
-      21.0391128,
-      105.797462
+      52.2002,
+      0.1385
     ],
-    "address": "23 giang văn minh , kim mã , ba đình",
-    "area": "ba đình",
-    "price": "miễn phí",
+    "address": "gwydir street , no . 5 dale 's brewery",
+    "area": "centre",
+    "price": "free",
     "id": "79",
-    "name": "bảo tàng binh chủng thông tin",
-    "openhours": "mở cửa từ thứ 2 đến thứ 7 , 8h sáng đến 7h tối",
-    "phone": "069588727",
+    "name": "williams art and antiques",
+    "openhours": "it opens from 11:00 . to 06:00p . m . from tuesday to friday , from 11:00 . to 05:00p . m . on saturday and sunday , and it is closed on monday",
+    "phone": "01223311687",
     "postcode": "cb12lj",
-    "pricerange": "miễn phí",
-    "type": "bảo tàng"
+    "pricerange": "free",
+    "type": "museum"
   }
 ]

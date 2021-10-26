@@ -1,1774 +1,1761 @@
 [
-  {
-    "address": "Số 6, Ngõ 71 Láng Hạ, P. Thành Công, Q. Ba Đình",
-    "area": "Ba Đình",
-    "food": "Lẩu",
-    "id": "19210",
-    "introduction": "Hương vị ẩm thực đường phố Hồng Kông ngay giữa lòng Hà Nội",
-    "location": [
-      21.018532,
-      105.816526
-    ],
-    "name": "Yixin",
-    "phone": "01223323737",
-    "postcode": "cb21ab",
-    "pricerange": "rẻ",
-    "type": "nhà hàng"
-  },
-  {
-    "address": "Số 20 Bát Đàn, P. Hàng Bồ, Q. Hoàn Kiếm",
-    "area": "Hoàn Kiếm",
-    "food": "Hải Sản",
-    "id": "30650",
-    "introduction": "Chuyên phục vụ các món hải sản được nhập từ Vân Đồn tươi ngon , sạch sẽ và hấp dẫn , đảm bảo chất lượng với giá phải chăng .",
-    "location": [
-      21.033791,
-      105.847497
-    ],
-    "name": "Ẩm Thực Hoàng",
-    "phone": "01223812660",
-    "postcode": "cb259aq",
-    "pricerange": "rẻ",
-    "signature": "african babooti",
-    "type": "nhà hàng"
-  },
-  {
-    "address": "62, Ngọc Hà",
-    "area": "Ba Đình",
-    "food": "Đặc sản",
-    "id": "19214",
-    "introduction": "- Nguyên liệu sạch có chứng nhận đầy đủ về VS ATTP, dù nằm ở mức giá hơi đắt so với các hàng cơm bình dân khác nhưng quán có đa dạng các món ngon.",
-    "location": [
-      21.029528,
-      105.812953
-    ],
-    "name": "Quán Cơm Phở Bình Dân Hằng",
-    "phone": "01223302330",
-    "postcode": "cb21dp",
-    "pricerange": "sang trọng",
-    "type": "nhà hàng"
-  },
-  {
-    "address": "794 Đường Láng, Q. Đống Đa",
-    "area": "Đống Đa",
-    "food": "Món Việt",
-    "id": "19192",
-    "location": [
-      21.018184,
-      105.802941
-    ],
-    "name": "Hải Sản Biển Đông",
-    "phone": "01223244149",
-    "postcode": "cb17ag",
-    "pricerange": "sang trọng",
-    "type": "nhà hàng",
-    "introduction": "Trước đây là nhà hàng Hải Sản Gió Biển"
-  },
-  {
-    "address": "Số 330 Thái Hà, P. Láng Hạ, Q. Đống Đa",
-    "area": "Đống Đa",
-    "food": "Lẩu",
-    "id": "19196",
-    "introduction": "- Nhà hàng Bếp Thái Koh Yam là sự kế thừa của thương hiệu Koh Samui , mang đến cho thực khách Hà Thành cơ hội khám phá gần 100 món ăn đặc trưng của Thái Lan .",
-    "location": [
-      21.015599,
-      105.816892
-    ],
-    "name": "Bếp Thái Koh Yam",
-    "phone": "01223323737",
-    "postcode": "cb17dy",
-    "pricerange": "vừa phải",
-    "type": "nhà hàng"
-  },
-  {
-    "address": "Ngõ 199 Phố Khương Thượng, Khương Thượng",
-    "area": "Đống Đa",
-    "food": "Đặc sản",
-    "id": "19191",
-    "introduction": "Cơm Hà - quán cơm bình dân ngon không cưỡng lại được",
-    "location": [
-      21.017856,
-      105.812666
-    ],
-    "name": "Cơm Hà",
-    "phone": "01223412299",
-    "postcode": "cb17aa",
-    "pricerange": "sang trọng",
-    "type": "nhà hàng"
-  },
-  {
-    "address": "13 Huỳnh Thúc Kháng, Q. Đống Đa",
-    "area": "Đống Đa",
-    "food": "Món Á",
-    "id": "14731",
-    "introduction": "- Nguyên liệu sạch có chứng nhận đầy đủ về VS ATTP và nguyên liệu nhập khẩu - Các đầu bếp tại đây đều được trải qua quá trình đào tạo với đầu bếp chính người Úc có kinh nghiệm hơn 15 năm trong ngành ẩm thực",
-    "location": [
-      21.017856,
-      105.812666
-    ],
-    "name": "Pepperonis",
-    "phone": "01223413000",
-    "postcode": "cb28pb",
-    "pricerange": "vừa phải",
-    "signature": "slowroast sirloin of beef red onion celeriac and garlic",
-    "type": "nhà hàng"
-  },
-  {
-    "address": "75A Trần Hưng Đạo, Q. Hoàn Kiếm",
-    "area": "Hoàn Kiếm",
-    "food": "Món Việt",
-    "id": "19273",
-    "introduction": "- Nguồn nguyên liệu hải sản tươi sống được nhập và sống tại bể chứa có môi trường y như môi trường biển để đảm bảo tươi ngon tới khi lên bàn ăn- Đầu bếp nhà hàng có hơn 20 năm kinh nghiệm",
-    "location": [
-      21.022125,
-      105.847991
-    ],
-    "name": "Thế Giới Hải Sản",
-    "phone": "01223248882",
-    "postcode": "cb58pa",
-    "pricerange": "sang trọng",
-    "type": "nhà hàng"
-  },
-  {
-    "address": "11 Trần Phú, Điện Bàn",
-    "area": "Ba Đình",
-    "food": "Lẩu",
-    "id": "19240",
-    "location": [
-      21.02184,
-      105.818345
-    ],
-    "name": "Lẩu Hải Sản Hằng Béo",
-    "phone": "01223352607",
-    "postcode": "cb23nj",
-    "pricerange": "sang trọng",
-    "type": "nhà hàng",
-    "introduction": "Lẩu hải sản Hằng Béo số 11B Trần Phú, chuyên lẩu hải sản, lẩu bò , lẩu thái"
-  },
-  {
-    "address": "14 Lý Thường Kiệt, Phan Chu Trinh",
-    "area": "Hoàn Kiếm",
-    "food": "Đặc sản",
-    "id": "19270",
-    "introduction": "Một trong những tiệm cơm vỉa hè ngon nhất ở trung tâm Hà Nội",
-    "location": [
-      21.029434,
-      105.850312
-    ],
-    "name": "Tiệm cơm Vinh Thu",
-    "phone": "01223566388",
-    "postcode": "cb58jj",
-    "pricerange": "vừa phải",
-    "type": "nhà hàng"
-  },
-  {
-    "address": "Số 269 Kim Mã, P. Giảng Võ, Q. Ba Đình",
-    "area": "Ba Đình",
-    "food": "Món Việt",
-    "id": "19212",
-    "introduction": "Nguyên liệu gà tươi Mạnh Hoạch chính gốc Hải Dương , thịt ngọt , thơm ; món ăn chế biến đa dạng , hấp dẫn .",
-    "location": [
-      21.0309462203865,
-      105.821191889242
-    ],
-    "name": "Vua Gà Tươi",
-    "phone": "01223361763",
-    "postcode": "cb21db",
-    "pricerange": "rẻ",
-    "type": "nhà hàng"
-  },
-  {
-    "address": "110/D1 Trần Huy Liệu, Giảng Võ",
-    "area": "Ba Đình",
-    "food": "Món Âu",
-    "id": "19245",
-    "introduction": "EMM’s French Bistro chuyên phục vụ món ăn Pháp, kết hợp cùng những loại rượu vang hảo hạng đến từ các quốc gia sản xuất vang nổi tiếng thế giới: Pháp, Ý, Úc, Chile...",
-    "location": [
-      21.02095,
-      105.817914
-    ],
-    "name": "EMM's French Bistro",
-    "phone": "01223368786",
-    "postcode": "cb23rh",
-    "pricerange": "sang trọng",
-    "type": "nhà hàng"
-  },
-  {
-    "address": "12 Huỳnh Thúc Kháng, P. Thành Công, Q.Ba Đình",
-    "area": "Ba Đình",
-    "food": "Lẩu",
-    "id": "19213",
-    "introduction": "- Chế biến theo đúng phong cách nguồn gốc của món ăn - Hương vị đặc trưng phù hợp với khẩu vị người Việt",
-    "location": [
-      21.018392,
-      105.811615
-    ],
-    "name": "Sentosa",
-    "phone": "01223324033",
-    "postcode": "cb21db",
-    "pricerange": "vừa phải",
-    "type": "nhà hàng"
-  },
-  {
-    "address": "102 Trần Huy Liệu, Giảng Võ",
-    "area": "Ba Đình",
-    "food": "Buffet",
-    "id": "19211",
-    "introduction": "Buffet ăn vặt tại Hà Nội",
-    "location": [
-      21.026849,
-      105.823944
-    ],
-    "name": "Nhà Hàng Buffet Quà Vặt",
-    "phone": "01223337766",
-    "postcode": "cb21ab",
-    "pricerange": "vừa phải",
-    "type": "nhà hàng"
-  },
-  {
-    "address": "Số 75 Ngõ 639 Hoàng Hoa Thám, Vĩnh Phú",
-    "area": "Ba Đình",
-    "food": "Lẩu",
-    "id": "19229",
-    "introduction": "THIENTRANGFOODS - BẾP THIÊN TRANG Cung cấp dịch vụ giao LẨU TẠI NHÀ tại Hà Nội",
-    "location": [
-      21.043915,
-      105.838257
-    ],
-    "name": "Bếp Thiên Trang",
-    "phone": "01223364917",
-    "postcode": "cb21uf",
-    "pricerange": "rẻ",
-    "type": "nhà hàng"
-  },
-  {
-    "address": "Số 5 Nguyên Hồng, P. Thành Công, Q. Ba Đình, Hà Nội",
-    "area": "Ba Đình",
-    "food": "Món Việt",
-    "id": "19242",
-    "introduction": "Nhà hàng chuyên món Việt . Không gian sang trọng , lịch sự , phong cách Hà Nội xưa đẹp nhẹ nhàng .",
-    "location": [
-      21.024195,
-      105.81181
-    ],
-    "name": "Ngói Đỏ Garden",
-    "phone": "01223566188",
-    "postcode": "cb23pp",
-    "pricerange": "vừa phải",
-    "type": "nhà hàng"
-  },
-  {
-    "address": "Số 31I Láng Hạ, P. Thành Công, Q. Ba Đình",
-    "area": "Ba Đình",
-    "food": "Món Á",
-    "id": "3697",
-    "introduction": "Nhà hàng Cơm Gà Hải Nam chuyên các món ngon từ gà tươi . Tất cả nguyên liệu nhà hàng sử dụng đều đảm bảo tươi sạch .",
-    "location": [
-      21.01985,
-      105.81742
-    ],
-    "name": "Cơm gà Hải Nam",
-    "phone": "01223356666",
-    "postcode": "cb21aw",
-    "pricerange": "vừa phải",
-    "signature": "roasted barbary duck breast served with sweet potato wedges and mange tout with a red wine sauce",
-    "type": "nhà hàng"
-  },
-  {
-    "address": "Số 48 Đào Tấn, Q. Ba Đình",
-    "area": "Ba Đình",
-    "food": "Nhật Bản",
-    "id": "19188",
-    "introduction": "- Là một trong những thương hiệu nhà hàng Nhật Bản đầu tiên tại Hà Nội với 20 năm hình thành và phát triển.- Nguồn nguyên liệu đảm bảo , an toàn , đa số được nhập khẩu trực tiếp từ Nhật Bản",
-    "location": [
-      21.032882,
-      105.807946
-    ],
-    "name": "Sushi Hokkaido Sake",
-    "phone": "01223306306",
-    "postcode": "cb12qa",
-    "pricerange": "sang trọng",
-    "type": "nhà hàng"
-  },
-  {
-    "address": "37 Trần Đăng Ninh, Q. Cầu Giấy",
-    "area": "Cầu Giấy",
-    "food": "Đặc sản",
-    "id": "19266",
-    "introduction": "- Nguyên liệu sạch có chứng nhận đầy đủ về VS ATTP và nguyên liệu nhập khẩu - Các đầu bếp tại đây đều được trải qua quá trình đào tạo với đầu bếp chính người Úc có kinh nghiệm hơn 15 năm trong ngành ẩm thực",
-    "location": [
-      21.036051,
-      105.79373
-    ],
-    "name": "Pepperonis",
-    "phone": "01223506055",
-    "postcode": "cb43le",
-    "pricerange": "sang trọng",
-    "type": "nhà hàng"
-  },
-  {
-    "address": "123 K1 Giảng Võ, Q. Ba Đình",
-    "area": "Ba Đình",
-    "food": "Món Á",
-    "id": "10347",
-    "introduction": "- Nguyên liệu sạch có chứng nhận đầy đủ về VS ATTP và nguyên liệu nhập khẩu- Các đầu bếp tại đây đều được trải qua quá trình đào tạo với đầu bếp chính người Úc có kinh nghiệm hơn 15 năm trong ngành ẩm thực",
-    "location": [
-      21.028758,
-      105.826445
-    ],
-    "name": "Pepperonis",
-    "phone": "01223259988",
-    "postcode": "cb21rt",
-    "pricerange": "vừa phải",
-    "type": "nhà hàng"
-  },
-  {
-    "address": "Số 283 Kim Mã, P. Giảng Võ, Q. Ba Đình",
-    "area": "Ba Đình",
-    "food": "Đặc sản",
-    "id": "19180",
-    "introduction": "Pizza Home chuyên pizza và các món ăn mang phong cách Ý .",
-    "location": [
-      21.030597,
-      105.819129
-    ],
-    "name": "Pizza Home",
-    "phone": "01223323639",
-    "postcode": "cb12as",
-    "pricerange": "rẻ",
-    "type": "nhà hàng"
-  },
-  {
-    "address": "184 Hào Nam, Q. Đống Đa ( đối diện ga tàu điện trên không )",
-    "area": "Đống Đa",
-    "food": "Món Pháp",
-    "id": "19194",
-    "introduction": "- Không gian cổ điển mang hơi thở châu Âu , rất phù hợp với những thực khách Việt ưa thích không gian cổ điển phương Tây và những vị khách nước ngoài.- GRILL66 Hào Nam sẽ `` dẫn dắt '' vị giác của bạn đến gần hơn với ẩm thực châu Âu bằng món bít tết mềm vừa phải , nước sốt ngấm đều , thơm mùi lửa và mùi thịt quyện hòa . - Kết hợp cùng bít tết là các loại rượu vang đỏ chất lượng , hảo hạng không những mang lại những trải nghiệm tuyệt vời mà còn tốt cho sức khỏe .",
-    "location": [
-      21.027327,
-      105.82777
-    ],
-    "name": "GRILL66 Steakhouse",
-    "phone": "01223400170",
-    "postcode": "cb17dy",
-    "pricerange": "sang trọng",
-    "type": "nhà hàng"
-  },
-  {
-    "address": "Số 35 Trần Kim Xuyến, P. Yên Hòa, Q. Cầu Giấy",
-    "area": "Cầu Giấy",
-    "food": "Lẩu",
-    "id": "12700",
-    "introduction": "Tất cả các món ăn của nhà hàng FengHuang đều được chế biến từ nguồn nguyên liệu tươi ngon , giàu dưỡng chất , mang đến cho thực khách trải nghiệm ẩm thực khó quên .",
-    "location": [
-      21.03195,
-      105.8024
-    ],
-    "name": "Dimsum & Lẩu Trung Hoa",
-    "phone": "01799521260",
-    "postcode": "cb30ad",
-    "pricerange": "vừa phải",
-    "type": "nhà hàng"
-  },
-  {
-    "address": "TTTM Vincom Center, Tầng 3, 29 Liễu Giai, Q. Ba Đình",
-    "area": "Ba Đình",
-    "food": "Món Việt",
-    "id": "19185",
-    "introduction": "Hệ thống nhà hàng VietStreet với nhiều chi nhánh tại Hà Nội & TP.HCM , là không gian hội tụ của những món ăn mang phong cách đường phố đến từ khắp 3 miền đất nước .",
-    "location": [
-      21.031326,
-      105.815026
-    ],
-    "name": "VietStreet",
-    "phone": "01223367755",
-    "postcode": "cb12bd",
-    "pricerange": "rẻ",
-    "type": "nhà hàng"
-  },
-  {
-    "address": "53 Giang Văn Minh, Kim Mã",
-    "area": "Ba Đình",
-    "food": "Địa Điểm Nhậu",
-    "id": "19221",
-    "location": [
-      21.043915,
-      105.838257
-    ],
-    "name": "Quán Nhậu 53",
-    "phone": "01462432565",
-    "postcode": "cb21nt",
-    "pricerange": "vừa phải",
-    "type": "nhà hàng",
-    "introduction": "MUỐN TÌM QUÁN NHẬU NGON Ở HÀ NỘI THÌ ĐI ĐÂU??? GHÉ NGAY ĐẾN Nhà Hàng 53 Giang Văn Minh"
-  },
-  {
-    "address": "630 La Thành, Giảng Võ",
-    "area": "Ba Đình",
-    "food": "Hải Sản",
-    "id": "19235",
-    "introduction": "Minh Thúy - Hải Sản Tươi Sống - Nhà hàng - Hà Nội tại 52 Giang Văn Minh, ... Quán cũng khá to và rộng rãi, nằm trên đường Giang Văn Minh khá là dễ tìm.",
-    "location": [
-      21.033806,
-      105.805735
-    ],
-    "name": "Nhà Hàng Hải Sản Minh Thúy",
-    "phone": "01223356060",
-    "postcode": "cb23ar",
-    "pricerange": "vừa phải",
-    "type": "nhà hàng"
-  },
-  {
-    "address": "48 Liễu Giai, Q. Ba Đình",
-    "area": "Ba Đình",
-    "food": "Món Á",
-    "id": "19177",
-    "introduction": "Bể chứa hải sản tươi sống cho thực khách lựa chọn",
-    "location": [
-      21.032901,
-      105.813496
-    ],
-    "name": "Hải Sản Phố",
-    "phone": "01223505015",
-    "postcode": "cb11ln",
-    "pricerange": "sang trọng",
-    "type": "nhà hàng"
-  },
-  {
-    "address": "375, Đội Cấn, Phường Liễu Giai",
-    "area": "Ba Đình",
-    "food": "Đặc sản",
-    "id": "19182",
-    "introduction": "Thực đơn của quán rất phong phú với đa dạng các món ăn quen thuộc như trứng rán, rau xào, củ cải kho, cá kho",
-    "location": [
-      21.028758,
-      105.826445
-    ],
-    "name": "Quán Cơm Bình Dân Trung Linh",
-    "phone": "01223329432",
-    "postcode": "cb12az",
-    "pricerange": "sang trọng",
-    "type": "nhà hàng"
-  },
-  {
-    "address": "Số 52 Nguyễn Khang, P. Yên Hòa, Q. Cầu Giấy",
-    "area": "Cầu Giấy",
-    "food": "Đặc sản",
-    "id": "19249",
-    "introduction": "Hải sản tươi ngon , giá cả hợp lý .",
-    "location": [
-      21.021625,
-      105.800049
-    ],
-    "name": "Cô Tô",
-    "phone": "01223366668",
-    "postcode": "cb30ah",
-    "pricerange": "sang trọng",
-    "type": "nhà hàng"
-  },
-  {
-    "address": "Vincom Nguyễn Chí Thanh, L5-16-17",
-    "area": "Ba Đình",
-    "food": "Món Âu",
-    "id": "19227",
-    "introduction": "Nằm trong chuỗi hệ thống Al Fresco ’ s , Al Fresco ’ s Vincom Nguyễn Chí Thanh hấp dẫn thực khách nhờ không gian hiện đại cùng những món ăn hấp dẫn",
-    "location": [
-      21.023263,
-      105.809204
-    ],
-    "name": "Al Fresco ’ s",
-    "phone": "01223309147",
-    "postcode": "cb21su",
-    "pricerange": "sang trọng",
-    "type": "nhà hàng"
-  },
-  {
-    "address": "Số 2A, Ngõ 44 Đỗ Quang, P. Trung Hoà, Q. Cầu Giấy",
-    "area": "Cầu Giấy",
-    "food": "Đặc sản",
-    "id": "19255",
-    "introduction": "Chuyên các món ăn đặc sản từ thịt ngựa .",
-    "location": [
-      21.010216111445,
-      105.801443746485
-    ],
-    "name": "Hồng Thái 3",
-    "phone": "01223302800",
-    "postcode": "cb39ey",
-    "pricerange": "sang trọng",
-    "type": "nhà hàng"
-  },
-  {
-    "address": "Tầng 2, L2-11, Vincom Center Metropolis, 29 Liễu Giai, P. Ngọc Khánh, Q. Ba Đình",
-    "area": "Ba Đình",
-    "food": "Món Âu",
-    "id": "4607",
-    "introduction": "Nằm trong chuỗi hệ thống Al Fresco ’ s , Al Fresco ’ s Vincom Metropolis Liễu Giai thu hút thực khách nhờ không gian hiện đại cùng những món ăn hấp dẫn",
-    "location": [
-      21.031229,
-      105.813816
-    ],
-    "name": "Al Fresco 's",
-    "phone": "01223227330",
-    "postcode": "cb21qa",
-    "pricerange": "vừa phải",
-    "signature": "",
-    "type": "nhà hàng"
-  },
-  {
-    "address": "Số 9 Vũ Phạm Hàm, P. Yên Hòa, Q. Cầu Giấy",
-    "area": "Cầu Giấy",
-    "food": "Đặc sản",
-    "id": "19250",
-    "introduction": "Don Chicken - thương hiệu nổi tiếng đến từ Hàn Quốc chuyên về các món gà , với điểm nổi bật là nguồn liệu tươi sạch , các loại sốt đặc biệt nhập khẩu từ Hàn Quốc .",
-    "location": [
-      21.018488,
-      105.798507
-    ],
-    "name": "Don Chicken",
-    "phone": "01223358399",
-    "postcode": "cb30ah",
-    "pricerange": "sang trọng",
-    "type": "nhà hàng"
-  },
-  {
-    "address": "96 Phố Trấn Vũ, Quán Thánh",
-    "area": "Ba Đình",
-    "food": "Hải Sản",
-    "id": "14742",
-    "introduction": "Phục vụ các món ngon từ hải sản tươi sống, địa chỉ uy tín hơn 20 năm",
-    "location": [
-      21.043915,
-      105.838257
-    ],
-    "name": "Quán Hải Sản Vân Oanh",
-    "phone": "08719429180",
-    "postcode": "cb23dt",
-    "pricerange": "vừa phải",
-    "signature": "coconut and red chilli monkfish",
-    "type": "nhà hàng"
-  },
-  {
-    "address": "28 Đỗ Quang, P. Trung Hòa, Q. Cầu Giấy",
-    "area": "Cầu Giấy",
-    "food": "Món Mỹ",
-    "id": "19248",
-    "introduction": "EMM ’ s French Bistro Đỗ Quang là chi nhánh thứ 2 của chuỗi nhà hàng chuyên phục vụ món ăn Pháp ( nhà hàng đầu tiên tại Trần Huy Liệu - Ba Đình ) , kết hợp cùng những loại rượu vang hảo hạng đến từ các quốc gia sản xuất vang nổi tiếng thế giới : Pháp , Ý , Úc , Chile ...",
-    "location": [
-      21.010952,
-      105.801939
-    ],
-    "name": "EMM ’ s French Bistro",
-    "phone": "01223362456",
-    "postcode": "cb30af",
-    "pricerange": "rẻ",
-    "type": "nhà hàng"
-  },
-  {
-    "address": "Số 75 Nguyễn Công Hoan, P. Ngọc Khánh, Q. Ba Đình",
-    "area": "Ba Đình",
-    "food": "Món miền Nam",
-    "id": "12566",
-    "introduction": "Chuyên ẩm thực & đặc sản vùng miền . Nguyên liệu tươi ngon , hương vị & trình bày hấp dẫn .",
-    "location": [
-      21.0272302935574,
-      105.81339913864
-    ],
-    "name": "Bánh Tráng Giang Mỹ",
-    "phone": "01223464630",
-    "postcode": "cb21uf",
-    "pricerange": "vừa phải",
-    "type": "nhà hàng"
-  },
-  {
-    "address": "Số 2, Ngõ 68 Ngọc Thuỵ, Q . Long biên",
-    "area": "Tây Hồ",
-    "food": "Lẩu",
-    "id": "19259",
-    "introduction": "Quán chuyên món lẩu bò tơ nhúng dấm và các món ăn đồng quê .",
-    "location": [
-      21.0508906377493,
-      105.868113076787
-    ],
-    "name": "Ẩm Thực Đồng Quê",
-    "phone": "01223351707",
-    "postcode": "cb41jy",
-    "pricerange": "rẻ",
-    "type": "nhà hàng"
-  },
-  {
-    "address": "51 - 53 Tô Ngọc Vân, Q. Tây Hồ",
-    "area": "Tây Hồ",
-    "food": "Món miền Trung",
-    "id": "19264",
-    "location": [
-      21.06787,
-      105.821651
-    ],
-    "name": "Phương Nguyên",
-    "phone": "01223351880",
-    "postcode": "cb43ax",
-    "pricerange": "sang trọng",
-    "type": "nhà hàng",
-    "introduction": "- Nguồn nguyên liệu được nhập từ các nhà cung cấp uy tín , có chứng nhận xuất xứ và an toàn thực phẩm - Đầu bếp có nhiều năm kinh nghiệm trong việc chế biến món ăn Việt"
-  },
-  {
-    "address": "37A Hùng Vương, Điện Bàn",
-    "area": "Ba Đình",
-    "food": "Món Việt",
-    "id": "19228",
-    "introduction": "Nhà hàng 37 Hùng Vương mang đến cho quý khách những trải nghiệm ẩm thực đặc sắc, kết hợp giữa truyền thống và hiện đại, tinh hoa bản địa cùng món ăn đặc trưng của nhiều nước trên thế giới.",
-    "location": [
-      21.032901,
-      105.813496
-    ],
-    "name": "Nhà Hàng 37A Hùng Vương",
-    "postcode": "cb21tw",
-    "pricerange": "sang trọng",
-    "type": "nhà hàng"
-  },
-  {
-    "address": "Tầng 1, Tòa nhà C7 Giảng Võ, Phố Trần Huy Liệu, P. Giảng Võ, Q. Ba Đình",
-    "area": "Ba Đình",
-    "food": "Món Trung",
-    "id": "12638",
-    "introduction": "Nhà hàng Hutong - Hot Pot Paradise đặc trưng với 5 vị nước lẩu từ cay nồng đến thanh ngọt cùng 99 món nhúng hảo hạng mang đến trải nghiệm khác biệt về ẩm thực Hồng Kông .",
-    "location": [
-      21.027473,
-      105.822255
-    ],
-    "name": "Hutong",
-    "phone": "01223462354",
-    "postcode": "cb23ar",
-    "pricerange": "sang trọng",
-    "type": "nhà hàng"
-  },
-  {
-    "address": "Số 9, Ngõ 260 Đội Cấn, Liễu Giai",
-    "area": "Ba Đình",
-    "food": "Món Việt",
-    "id": "19186",
-    "introduction": "Hương Việt hiện nay được xem là một trong những địa chỉ nhà hàng phong cách quê hương hiếm hoi nổi tiếng về chất lượng hương vị các món ăn, vệ sinh an toàn thực phẩm.",
-    "location": [
-      21.040066,
-      105.807126
-    ],
-    "name": "Nhà Hàng Hương Việt - asknsakdknj",
-    "phone": "01223350420",
-    "postcode": "cb12lf",
-    "pricerange": "vừa phải",
-    "type": "nhà hàng"
-  },
-  {
-    "address": "Số 106 - B24, Ngõ 41, Phố Đông Tác, Q. Đống Đa",
-    "area": "Đống Đa",
-    "food": "Hàn Quốc",
-    "id": "12238",
-    "introduction": "Wang Wang - Quán thịt nướng Hàn Quốc - Thừa hưởng những nét tinh hoa của ẩm thực xứ Kim Chi",
-    "location": [
-      21.004101,
-      105.833255
-    ],
-    "name": "Wang Wang",
-    "phone": "01223327908",
-    "postcode": "cb17dy",
-    "pricerange": "rẻ",
-    "type": "nhà hàng"
-  },
-  {
-    "address": "71 Nguyễn Chí Thanh, Thành Công",
-    "area": "Ba Đình",
-    "food": "Buffet",
-    "id": "13071",
-    "introduction": "Nhà hàng buffet nướng lẩu hải sản. Ăn không giới hạn tất cả các đồ như: ghẹ, ốc hương, bề bề, tu hài, tôm càng xanh...",
-    "location": [
-      21.03491,
-      105.810379
-    ],
-    "name": "Nhà Hàng Buffet Chef Dzung",
-    "phone": "01223323361",
-    "postcode": "cb21eg",
-    "pricerange": "vừa phải",
-    "signature": "chargrilled rib eye steak with truffle butter mixed salad and fries",
-    "type": "nhà hàng"
-  },
-  {
-    "address": "2 Láng Hạ, Chợ Dừa, Ba Đình",
-    "area": "Ba Đình",
-    "food": "Buffet",
-    "id": "19226",
-    "introduction": "Nhà hàng lẩu YANG với nhiều năm kinh nghiệm phát triển thương hiệu buffet Lẩu",
-    "location": [
-      21.033806,
-      105.805735
-    ],
-    "name": "Lẩu Buffet Yang",
-    "phone": "01223365068",
-    "postcode": "cb21sj",
-    "pricerange": "vừa phải",
-    "type": "nhà hàng"
-  },
-  {
-    "address": "TTTM Vincom, Tầng 5, 54 Nguyễn Chí Thanh, Q. Đống Đa",
-    "area": "Đống Đa",
-    "food": "Món Việt",
-    "id": "19197",
-    "location": [
-      21.023542,
-      105.808892
-    ],
-    "name": "VietStreet",
-    "phone": "01223244277",
-    "postcode": "cb17dy",
-    "pricerange": "rẻ",
-    "type": "nhà hàng",
-    "introduction": "Hệ thống nhà hàng VietStreet với nhiều chi nhánh tại Hà Nội & TP.HCM , là không gian hội tụ của những món ăn mang phong cách đường phố đến từ khắp 3 miền đất nước ."
-  },
-  {
-    "address": "115 Kim Mã",
-    "area": "Ba Đình",
-    "food": "Buffet",
-    "id": "19224",
-    "introduction": "Buffet nướng hải sản tươi sống ăn thỏa thích chỉ từ 139k",
-    "location": [
-      21.02184,
-      105.818345
-    ],
-    "name": "Nhà Hàng Bbq Donzella",
-    "phone": "01223352500",
-    "postcode": "cb21rg",
-    "pricerange": "sang trọng",
-    "type": "nhà hàng"
-  },
-  {
-    "address": "23 Ngọc Khánh",
-    "area": "Ba Đình",
-    "food": "Món Trung Quốc",
-    "id": "19216",
-    "introduction": "Nhà hàng Việt Lai Thuận nơi hội tụ những “ Tinh hoa ẩm thực Trung Hoa ” , tạo sự khác biệt , phong phú, thỏa mãn niềm đam mê ẩm thực của nhiều thực khách .",
-    "location": [
-      21.027473,
-      105.822255
-    ],
-    "name": "Nhà hàng Việt Lai Thuận",
-    "phone": "01223308681",
-    "postcode": "cb21dp",
-    "pricerange": "sang trọng",
-    "type": "nhà hàng"
-  },
-  {
-    "address": "Số 107 C8 ngõ 12 Núi Trúc, Q. Ba Đình",
-    "area": "Ba Đình",
-    "food": "Quán nhậu",
-    "id": "19189",
-    "introduction": "200 loại hải sản được đánh bắt từ nhiều vùng miền như : Trường Sa , Côn Đảo , Vũng Tàu , Nha Trang , Khánh Hòa , Bình Định , Ninh Thuận , …",
-    "location": [
-      21.02809,
-      105.82236
-    ],
-    "name": "La Cà Quán - Núi Trúc",
-    "postcode": "cb13nf",
-    "pricerange": "sang trọng",
-    "type": "nhà hàng"
-  },
-  {
-    "address": "2a Nguyên Hồng, Thành Công",
-    "area": "Ba Đình",
-    "food": "Nướng",
-    "id": "19225",
-    "introduction": "Nầm bò nướng 99k đẫm phô mai",
-    "location": [
-      21.043915,
-      105.838257
-    ],
-    "name": "Bò nầm nướng",
-    "phone": "01223363471",
-    "postcode": "cb21rq",
-    "pricerange": "rẻ",
-    "type": "nhà hàng"
-  },
-  {
-    "address": "Số 65 đường Nguyễn Khang, P. Trung Hòa, Q. Cầu Giấy",
-    "area": "Cầu Giấy",
-    "food": "Lẩu",
-    "id": "19247",
-    "introduction": "Cô chủ nhà hàng Lẩu Pháp là người miền Tây Mức giá rẻ phù hợp với học sinh - sinh viên , người lao động",
-    "location": [
-      21.01689,
-      105.80284
-    ],
-    "name": "Lẩu Pháp ( Cô Hai Lẩu Mắm Cần Thơ )",
-    "phone": "01223315232",
-    "postcode": "cb30af",
-    "pricerange": "rẻ",
-    "type": "nhà hàng"
-  },
-  {
-    "address": "194 Phó Đức Chính, Nguyễn Trung Trực",
-    "area": "Ba Đình",
-    "food": "Nướng",
-    "id": "19175",
-    "introduction": "Chuyên phục vụ các món nướng",
-    "location": [
-      21.040066,
-      105.807126
-    ],
-    "name": "Nhà Hàng Nướng Không Khói",
-    "phone": "01223518111",
-    "postcode": "cb11lh",
-    "pricerange": "vừa phải",
-    "type": "nhà hàng"
-  },
-  {
-    "address": "31, Phủ Tây Hồ",
-    "area": "Tây Hồ",
-    "food": "Đặc sản",
-    "id": "19263",
-    "location": [
-      21.0508906377493,
-      105.868113076787
-    ],
-    "name": "Nhà Hàng Phương Dung",
-    "phone": "01223360966",
-    "postcode": "cb41uy",
-    "pricerange": "vừa phải",
-    "type": "nhà hàng",
-    "introduction": "Bắt đầu hoạt động từ năm 1989, Bánh tôm Phương Dung là một nét đẹp không thể thiếu trong ẩm thực người Tràng An là Mỹ vị nơi Tây Hồ"
-  },
-  {
-    "address": "Tầng M - Khách sạn Candle Hotel, Số 287 - 301 Đội Cấn, Q. Ba Đình",
-    "area": "Ba Đình",
-    "food": "Buffet",
-    "id": "19171",
-    "introduction": "Những món ăn Nhật Bản thơm ngon bổ dưỡng được chế biến với niềm đam mê nghệ thuật ẩm thực , cùng sự tinh tế sáng tạo của đội ngũ đầu bếp kinh nghiệm và đẳng cấp quốc tế . Với sự tham gia của chuyên gia đến từ Nhật Bản , những món này sẽ mang đến nhiều thú vị cho thực khách .",
-    "location": [
-      21.035564,
-      105.817931
-    ],
-    "name": "Sakura",
-    "phone": "01223302010",
-    "postcode": "cb11bg",
-    "pricerange": "vừa phải",
-    "type": "nhà hàng"
-  },
-  {
-    "address": "Số 71 Trung Hoà, Q. Cầu Giấy",
-    "area": "Cầu Giấy",
-    "food": "Buffet",
-    "id": "14810",
-    "introduction": "- Món nướng mang hương vị Đông Bắc - Trung Hoa độc đáo . - Sử dụng than cao cấp Bichotan cho nhiệt lượng cao gấp 3 so với than thông thường & không tự tỏa khói giúp món nướng giữ trọn vị ngon nguyên bản .",
-    "location": [
-      21.015995,
-      105.800175
-    ],
-    "name": "ChiFan",
-    "phone": "01223353110",
-    "postcode": "cb30ad",
-    "pricerange": "vừa phải",
-    "signature": "barnsley chop braised potatoes roast celeriac red cabbage and port sauce",
-    "type": "nhà hàng"
-  },
-  {
-    "address": "6A Hàng Lược, Hàng Mã",
-    "area": "Hoàn Kiếm",
-    "food": "Lẩu",
-    "id": "19275",
-    "introduction": "- Đầu bếp nhà hàng từng có 1 thời gian dài theo học nấu ăn bên Thái , có kinh nghiệm hơn 10 năm làm bếp",
-    "location": [
-      21.020243,
-      105.848038
-    ],
-    "name": "Lạ Quán",
-    "phone": "01223323737",
-    "postcode": "cb58wr",
-    "pricerange": "vừa phải",
-    "type": "nhà hàng"
-  },
-  {
-    "address": "Tầng 1 Số 20 Phố Đào Tấn, P. Cống Vị, Q. Ba Đình",
-    "area": "Ba Đình",
-    "food": "Món Việt",
-    "id": "19219",
-    "location": [
-      21.032583,
-      105.808972
-    ],
-    "name": "An Nam Cháo",
-    "phone": "01842753771",
-    "postcode": "cb21eg",
-    "pricerange": "rẻ",
-    "type": "nhà hàng",
-    "introduction": "An Nam Cháo do ông Nguyễn Ngọc Xuân , doanh nhân người Việt tại Liên bang Nga , gây dựng đang dần dần thay đổi quan điểm này để món cháo thuần Việt trở thành món ăn cho mọi người ."
-  },
-  {
-    "address": "Tầng 6 TTTM LOTTE Center 54 Liễu Giai",
-    "area": "Ba Đình",
-    "food": "Nướng",
-    "id": "19215",
-    "introduction": "GOJUMONG CASUAL is an authentic Korean barbecue restaurant situated on the 6th floor of LOTTE center. Operated since 2014, we’ve been well-known for a wide-range menu of savoury barbecue and cozy atmosphere, which is loved by not only locals but also foreigners. GOJUMONG is definitely the perfect place for enjoying premium cuts of marinated beef or pork to be char-grilled at your table along with a healthy assortment of banchan, bottomless Korean side dishes.",
-    "location": [
-      21.043915,
-      105.838257
-    ],
-    "name": "Gojumong Casual",
-    "phone": "01223307581",
-    "postcode": "cb21dp",
-    "pricerange": "rẻ",
-    "type": "nhà hàng"
-  },
-  {
-    "address": "114B2 Nguyễn Chí Thanh, Q. Ba Đình",
-    "area": "Ba Đình",
-    "food": "Món Âu",
-    "id": "6780",
-    "introduction": "- Nguyên liệu sạch có chứng nhận đầy đủ về VS ATTP và nguyên liệu nhập khẩu- Các đầu bếp tại đây đều được trải qua quá trình đào tạo với đầu bếp chính người Úc có kinh nghiệm hơn 15 năm trong ngành ẩm thực",
-    "location": [
-      21.029528,
-      105.812953
-    ],
-    "name": "Pepperonis",
-    "phone": "01223362054",
-    "postcode": "cb21uw",
-    "pricerange": "vừa phải",
-    "signature": "poached fillets of monkfish in lemongrass with sweet red chilli cream sauce and tiger prawns with leeks and mushrooms served with rice",
-    "type": "nhà hàng"
-  },
-  {
-    "address": "Số 81 Phan Kế Bính kéo dài, P. Cống Vị, Q. Ba Đình",
-    "area": "Ba Đình",
-    "food": "Nhật Bản",
-    "id": "31390",
-    "introduction": "- Không gian riêng tư yên tĩnh , có khu vực ngồi chờ cho khách trước khi vào nhà hàng . - Món Mỳ Ramen được nấu từ nước ninh xương trong vòng 12h là món đặc trưng chỉ có tại Tonchan Ramen .",
-    "location": [
-      21.03491,
-      105.810379
-    ],
-    "name": "Tonchan Ramen",
-    "phone": "01223308871",
-    "postcode": "cb23qf",
-    "pricerange": "vừa phải",
-    "signature": "wasabi spiked hamburger",
-    "type": "nhà hàng"
-  },
-  {
-    "address": "108 K1 Láng Hạ, Q. Ba Đình",
-    "area": "Ba Đình",
-    "food": "Pizza",
-    "id": "19183",
-    "introduction": "Nằm trong chuỗi hệ thống Al Fresco ’ s , Al Fresco ’ s Láng Hạ hấp dẫn thực khách nhờ không gian hiện đại cùng những món ăn hấp dẫn",
-    "location": [
-      21.02095,
-      105.817914
-    ],
-    "name": "Al Fresco ’ s",
-    "phone": "01223367660",
-    "postcode": "cb12bd",
-    "pricerange": "sang trọng",
-    "type": "nhà hàng"
-  },
-  {
-    "address": "Số 299 Giảng Võ, P. Ngọc Khánh, Q. Ba Đình",
-    "area": "Ba Đình",
-    "food": "Lẩu nướng",
-    "id": "19238",
-    "introduction": "Măm Măm BBQ chuyên món nướng phong cách Trung Hoa .",
-    "location": [
-      21.0241543,
-      105.8208429
-    ],
-    "name": "Măm Măm BBQ",
-    "phone": "01223356354",
-    "postcode": "cb23ll",
-    "pricerange": "rẻ",
-    "type": "nhà hàng"
-  },
-  {
-    "address": "Số 16 Trấn Vũ, P. Quán Thánh, Q. Ba Đình",
-    "area": "Ba Đình",
-    "food": "Lẩu",
-    "id": "29652",
-    "introduction": "- Chủ nhà hàng ( bếp trưởng ) người Pháp hơn 20 năm kinh nghiệm nhà hàng khách sạn , từng làm bếp trưởng Metropole 5 năm 2013-2017",
-    "location": [
-      21.043915,
-      105.838257
-    ],
-    "name": "Fabrik",
-    "phone": "01223365599",
-    "postcode": "cb21ab",
-    "pricerange": "rẻ",
-    "signature": "piccante rustica pizza , a spicy sausage salami mascarpone and roquito chilli",
-    "type": "nhà hàng"
-  },
-  {
-    "address": "98 Hàng Trống, Q. Hoàn Kiếm",
-    "area": "Hoàn Kiếm",
-    "food": "Đặc sản",
-    "id": "19272",
-    "introduction": "- Nguyên liệu sạch có chứng nhận đầy đủ về VS ATTP và nguyên liệu nhập khẩu- Các đầu bếp tại đây đều được trải qua quá trình đào tạo với đầu bếp chính người Úc có kinh nghiệm hơn 15 năm trong ngành ẩm thực",
-    "location": [
-      21.029434,
-      105.850312
-    ],
-    "name": "Pepperonis",
-    "phone": "01223577786",
-    "postcode": "cb58pa",
-    "pricerange": "sang trọng",
-    "type": "nhà hàng"
-  },
-  {
-    "address": "10A Phạm Huy Thông, Ngọc Khánh, P.Nguyễn Chí Thanh, Q. Ba Đình, Hà Nội",
-    "area": "Ba Đình",
-    "food": "Hàn Quốc",
-    "id": "12237",
-    "introduction": "- Thu hút đông đảo giới trẻ Hà Thành bằng thực đơn hấp dẫn các món ăn chế biến theo phong cách đường phố Hàn Quốc . - Nổi tiếng nhất là Chảo Seoul khổng lồ 75cm .",
-    "location": [
-      21.028732,
-      105.811052
-    ],
-    "name": "Gà Rán Seoul Soul",
-    "phone": "01223327908",
-    "postcode": "cb23ar",
-    "pricerange": "rẻ",
-    "type": "nhà hàng"
-  },
-  {
-    "address": "133 Trích Sài, Bưởi",
-    "area": "Tây Hồ",
-    "food": "Đặc sản",
-    "id": "19257",
-    "location": [
-      21.0508906377493,
-      105.868113076787
-    ],
-    "name": "Ốc Tửu Quán",
-    "phone": "01733553355",
-    "postcode": "cb41eh",
-    "pricerange": "rẻ",
-    "type": "nhà hàng",
-    "introduction": "Tửu quán - 133 Trích Sài, gắn liền với khu ốc Hồ Tây nổi tiếng, nơi giới trẻ Hà Thành hay lui tới để tận hưởng những món ốc tươi ngon đậm mùi sả ớt."
-  },
-  {
-    "address": "Số 688 Lạc Long Quân, Nhật Tân",
-    "area": "Tây Hồ",
-    "food": "Món Việt",
-    "id": "19260",
-    "introduction": "Phục vụ đồ ăn tại chỗ · Đồ ăn mang đi",
-    "location": [
-      21.06787,
-      105.821651
-    ],
-    "name": "Việt Square Restaurant",
-    "phone": "01223568988",
-    "postcode": "cb41jy",
-    "pricerange": "sang trọng",
-    "type": "nhà hàng"
-  },
-  {
-    "address": "47 Văn Cao, Ngọc Hồ",
-    "area": "Ba Đình",
-    "food": "Món miền Nam",
-    "id": "19237",
-    "introduction": "Quán Ngon Miền Tây - Thực đơn đa dạng vô cùng ấn tượng",
-    "location": [
-      21.031326,
-      105.815026
-    ],
-    "name": "Quán Ngon Miền Tây",
-    "phone": "01223464550",
-    "postcode": "cb23ll",
-    "pricerange": "rẻ",
-    "signature": "seafood paella",
-    "type": "nhà hàng"
-  },
-  {
-    "address": "7 Phố Ngọc Khánh, Giảng Võ",
-    "area": "Ba Đình",
-    "food": "Đặc sản",
-    "id": "19218",
-    "introduction": "Trải qua hơn 30 năm cùng với sự phát triển của đất nước nhà hàng Ngọc Thúy vẫn giữ được hương vị thuần Việt với các món ăn dân dã nhưng được rất nhiều khách quý tin tưởng",
-    "location": [
-      21.0309462203865,
-      105.821191889242
-    ],
-    "name": "Nhà Hàng Ngọc Thúy",
-    "phone": "01223353942",
-    "postcode": "cb21dp",
-    "pricerange": "rẻ",
-    "type": "nhà hàng"
-  },
-  {
-    "address": "447 Lạc Long Quân, Xuân La",
-    "area": "Tây Hồ",
-    "food": "Món Việt",
-    "id": "19265",
-    "introduction": "- Nguồn nguyên liệu được nhập từ các nhà cung cấp uy tín , có chứng nhận xuất xứ và an toàn thực phẩm - Đầu bếp có nhiều năm kinh nghiệm trong việc chế biến món ăn Việt",
-    "location": [
-      21.06787,
-      105.821651
-    ],
-    "name": "Mường Khương Quán",
-    "phone": "01223350688",
-    "postcode": "cb43hl",
-    "pricerange": "vừa phải",
-    "type": "nhà hàng"
-  },
-  {
-    "address": "Số 37A Trần Kim Xuyến, P. Yên Hoà, Q. Cầu Giấy",
-    "area": "Cầu Giấy",
-    "food": "Đặc sản",
-    "id": "19267",
-    "location": [
-      21.0190412497552,
-      105.79390969929
-    ],
-    "name": "Chim To Dần Bình An",
-    "phone": "01223727410",
-    "postcode": "cb43lf",
-    "pricerange": "vừa phải",
-    "type": "nhà hàng",
-    "introduction": "- Chuyên các món về chim , đa dạng về chủng loại , nguyên liệu tươi theo mùa . - Không gian rộng 2 mặt tiền , thoáng mát , chỗ đỗ xe thoải mái ."
-  },
-  {
-    "address": "116 D4 Giảng Võ, Q. Ba Đình",
-    "area": "Ba Đình",
-    "food": "Đặc sản",
-    "id": "19220",
-    "introduction": "",
-    "location": [
-      21.026396,
-      105.821624
-    ],
-    "name": "Botanica",
-    "phone": "01223354679",
-    "postcode": "cb21la",
-    "pricerange": "sang trọng",
-    "type": "nhà hàng"
-  },
-  {
-    "address": "275 Đội Cấn, Ngọc Hồ",
-    "area": "Ba Đình",
-    "food": "Lẩu nướng",
-    "id": "19268",
-    "location": [
-      21.040066,
-      105.807126
-    ],
-    "name": "Nhà hàng lẩu nướng Hàn Quốc",
-    "phone": "01223362525",
-    "postcode": "cb58aq",
-    "pricerange": "sang trọng",
-    "type": "nhà hàng",
-    "introduction": "Nhà hàng lẩu nướng Triều Tiên"
-  },
-  {
-    "address": "Số 575 Kim Mã, P. Ngọc Khánh, Q. Ba Đình",
-    "area": "Ba Đình",
-    "food": "Món Việt",
-    "id": "19173",
-    "introduction": "- Hệ thống nhà hàng Việt lớn nhất Thế giới với 7 thành viên , Top 500 Nhà hàng Tốt nhất châu Á - Nhà hàng chỉ sử dụng những đồ ăn , thức uống có nguồn gốc tại Việt Nam và duy trì thông số kỹ thuật nghiêm ngặt đối với tất cả các sản phẩm trong phòng bếp , đáp ứng các tiêu chuẩn cao nhất về chất lượng và an toàn",
-    "location": [
-      21.029461,
-      105.809204
-    ],
-    "name": "Highway4",
-    "phone": "01223301761",
-    "postcode": "cb11dg",
-    "pricerange": "vừa phải",
-    "type": "nhà hàng"
-  },
-  {
-    "address": "1 Kim Mã, Ngọc Khánh",
-    "area": "Ba Đình",
-    "food": "Món Nhật-Hàn",
-    "id": "19223",
-    "introduction": "Tự hào là bản đồ Việt Nam được tạo ra bởi người Việt Nam",
-    "location": [
-      21.02184,
-      105.818345
-    ],
-    "name": "Nhà Hàng Nhật Bản Hải Ngư",
-    "phone": "01223362433",
-    "postcode": "cb21qy",
-    "pricerange": "sang trọng",
-    "type": "nhà hàng"
-  },
-  {
-    "address": "206D, Đội Cấn, Phường Đội Cấn",
-    "area": "Ba Đình",
-    "food": "Đặc sản",
-    "id": "15275",
-    "introduction": "Chuyên phục vụ cơm bình dân, cơm văn phòng",
-    "location": [
-      21.028732,
-      105.811052
-    ],
-    "name": "Quán Cơm Bình Dân 206D",
-    "phone": "01223360409",
-    "postcode": "cb21rq",
-    "pricerange": "rẻ",
-    "type": "nhà hàng"
-  },
-  {
-    "address": "Số 122 - K1, Giảng Võ, Q. Ba Đình",
-    "area": "Ba Đình",
-    "food": "Lẩu",
-    "id": "19269",
-    "introduction": "- Bếp Thái Koh Yam là sự kết thừa của thương hiệu Koh Samui mang đến cho thực khách Hà Thành cơ hội khám phá gần 100 món ăn mang đặc trưng Thái . - Không gian theo phong cách Thái Lan hiện đại , nguồn nguyên liệu tươi được nhập hàng ngày .",
-    "location": [
-      21.026849,
-      105.823944
-    ],
-    "name": "Bếp Thái Koh Yam",
-    "phone": "01223324033",
-    "postcode": "cb58ba",
-    "pricerange": "vừa phải",
-    "type": "nhà hàng"
-  },
-  {
-    "address": "Số 132 Trung Hòa, Quận Cầu Giấy, Hà Nội",
-    "area": "Cầu Giấy",
-    "food": "Món miền Bắc",
-    "id": "19256",
-    "introduction": "Thực đơn hơn 200 món ăn đặc sắc , được xây dựng bởi Bếp trưởng Chef Thái với gần 20 năm kinh nghiệm đứng bếp và tổng điều hành ở các nhà hàng , khu nghỉ dưỡng lớn",
-    "location": [
-      21.017096,
-      105.799358
-    ],
-    "name": "Bếp Quán",
-    "phone": "01223323178",
-    "postcode": "cb39ey",
-    "pricerange": "sang trọng",
-    "type": "nhà hàng"
-  },
-  {
-    "address": "62 Xuân Diệu, Q. Tây Hồ",
-    "area": "Tây Hồ",
-    "id": "19262",
-    "introduction": "Al Fresco 's 62 Xuân Diệu là chi nhánh thuộc chuỗi nhà hàng Al Fresco ’ s đến từ đất nước Australia xinh đẹp có tên tuổi quen thuộc với mọi người dân Việt Nam .",
-    "location": [
-      21.061935,
-      105.830761
-    ],
-    "name": "Al Fresco ’ s",
-    "phone": "01223363270",
-    "postcode": "cb41uy",
-    "pricerange": "sang trọng",
-    "food": "Món Âu",
-    "type": "nhà hàng"
-  },
-  {
-    "address": "481 Lạc Long Quân, P. Xuân La, Q. Tây Hồ",
-    "area": "Tây Hồ",
-    "food": "Nướng",
-    "id": "19261",
-    "introduction": "- Nhà hàng chuyên các món hải sản tươi sống - nướng - lẩu tổng hợp . Món ăn được chế biến từ các loại thịt bò , thịt lợn , hải sản tươi sống… bởi những đầu bếp chuyên nghiệp có nhiều năm kinh nghiệm phục vụ tại các nhà hàng lớn.- Bàn cạnh cửa sổ có view nhìn ra Hồ Tây .",
-    "location": [
-      21.061006,
-      105.809219
-    ],
-    "name": "OHCHA",
-    "phone": "01223356555",
-    "postcode": "cb41nl",
-    "pricerange": "sang trọng",
-    "type": "nhà hàng"
-  },
-  {
-    "address": "Số 77 Hào Nam, P. Ô Chợ Dừa, Q. Đống Đa",
-    "area": "Đống Đa",
-    "food": "Món Việt",
-    "id": "19246",
-    "introduction": "Không gian Indochine độc đáo cùng món ăn từ Chả cá Lăng chuẩn vị truyền thống Hà Nội .",
-    "location": [
-      21.0232798204888,
-      105.826530015689
-    ],
-    "name": "Chả Cá Hàng Sơn",
-    "phone": "01223354755",
-    "postcode": "cb28nx",
-    "pricerange": "sang trọng",
-    "type": "nhà hàng"
-  },
-  {
-    "address": "26 Hoàng Cầu mới ( FPT Thái Hà rẽ phải 50m ), Q. Đống Đa",
-    "area": "Đống Đa",
-    "food": "Lẩu",
-    "id": "19195",
-    "introduction": "- Không gian thiết kế theo phong cách Loius Hoàng Gia",
-    "location": [
-      21.014183,
-      105.818792
-    ],
-    "name": "Hoàng Gia",
-    "phone": "01223412430",
-    "postcode": "cb17dy",
-    "pricerange": "sang trọng",
-    "type": "nhà hàng"
-  },
-  {
-    "address": "167 Hoàng Ngân, Trung Hoà",
-    "area": "Cầu Giấy",
-    "food": "Buffet",
-    "id": "7492",
-    "introduction": "Nhà hàng tự chọn rộng rãi, bình dị này phục vụ sushi, hải sản, đồ nướng và các món ăn đặc trưng kiểu Âu.",
-    "location": [
-      21.03195,
-      105.8024
-    ],
-    "name": "Nhà hàng Bay Buffet",
-    "phone": "01223277977",
-    "postcode": "cb30lx",
-    "pricerange": "sang trọng",
-    "signature": "panfried fillet of brill tempura of langoustine crushed garden peas shellfish basil nage",
-    "type": "nhà hàng"
-  },
-  {
-    "address": "Số 21 Phùng Hưng ( ngắn ), P. Hàng Mã, Q. Hoàn Kiếm",
-    "area": "Cầu Giấy",
-    "food": "Đặc sản",
-    "id": "19254",
-    "introduction": "- Nhà hàng Quả Trám chuyên các món ăn đặc sản vùng cao như : gà đồi Tiên Yên - Quảng Ninh , bò H ’ Mông , Lợn đen Phú Thọ , Cá sông Đà , Hải sản Cô Tô ... đặc biệt các món ăn từ đặc sản quả trám tự nhiên . Nguyên liệu sạch được nhà hàng tuyển chọn tại chính các vùng quê đặc sản.- Nhà hàng nằm trong khu phố cổ Hà Nội , sở hữu một không gian gần gũi , mang đậm dấu ấn Việt .",
-    "location": [
-      21.03868,
-      105.84658
-    ],
-    "name": "Quả Trám",
-    "phone": "01223461661",
-    "postcode": "cb39ey",
-    "pricerange": "sang trọng",
-    "type": "nhà hàng"
-  },
-  {
-    "address": "106 Trần Thái Tông, Q. Cầu Giấy",
-    "area": "Cầu Giấy",
-    "food": "Món Âu",
-    "id": "19252",
-    "introduction": "Al Fresco 's 106 Trần Thái Tông là chi nhánh thuộc chuỗi nhà hàng đến từ đất nước Australia xinh đẹp có tên tuổi quen thuộc với mọi người dân Việt Nam .",
-    "location": [
-      21.035588,
-      105.78922
-    ],
-    "name": "Al Fresco ’ s",
-    "phone": "01223355166",
-    "postcode": "cb30dq",
-    "pricerange": "sang trọng",
-    "type": "nhà hàng"
-  },
-  {
-    "address": "Số 65 Hàm Long, P. Hàng Bài, Q. Hoàn Kiếm",
-    "area": "Hoàn Kiếm",
-    "food": "Buffet",
-    "id": "19271",
-    "introduction": "Chef Mama chuyên các món nướng và lẩu thượng hạng . Nguyên liệu tươi ngon , cao cấp được tuyển chọn khắt khe .",
-    "location": [
-      21.0203079054205,
-      105.850353632903
-    ],
-    "name": "Chef Mama",
-    "phone": "01223241387",
-    "postcode": "cb58pa",
-    "pricerange": "sang trọng",
-    "type": "nhà hàng"
-  },
-  {
-    "address": "Số 38 Đặng Thai Mai, Q. Tây Hồ",
-    "area": "Tây Hồ",
-    "food": "Món Việt",
-    "id": "19258",
-    "introduction": "Không gian giản dị và chân thành của nhà hàng Sen Đầm Trị sẽ giúp thực khách tìm lại sự thư thái và nhẹ nhõm trong tâm hồn",
-    "location": [
-      21.0586227213894,
-      105.821541764807
-    ],
-    "name": "Sen Đầm Trị",
-    "phone": "01223366552",
-    "postcode": "cb41ep",
-    "pricerange": "sang trọng",
-    "type": "nhà hàng"
-  },
-  {
-    "address": "269 Kim Mã, Khu tập thể Giảng Võ",
-    "area": "Ba Đình",
-    "food": "Món Á",
-    "id": "7236",
-    "introduction": "Lẩu 88 - Lẩu Các Loại - Quán ăn - Món Việt",
-    "location": [
-      21.043915,
-      105.838257
-    ],
-    "name": "Lẩu 88",
-    "phone": "01223307030",
-    "postcode": "cb58aq",
-    "pricerange": "rẻ",
-    "signature": "lobster mac and cheese",
-    "type": "nhà hàng"
-  },
-  {
-    "address": "Số 346 Đường Bưởi, P. Vĩnh Phúc, Q. Ba Đình",
-    "area": "Ba Đình",
-    "food": "Lẩu",
-    "id": "19176",
-    "introduction": "- Hệ thống nhà hàng Lẩu Dê Nhất Ly ra đời từ năm 1994 , chuyên lẩu nướng không khói và các món ngon từ thịt dê.- Nguyên liệu dê ré tươi , ngon , sạch , thịt săn chắc , được nhập từ các tỉnh miền núi phía Bắc Việt Nam .",
-    "location": [
-      21.040066,
-      105.807126
-    ],
-    "name": "Lẩu Dê Nhất Ly",
-    "phone": "01223355711",
-    "postcode": "cb11ln",
-    "pricerange": "sang trọng",
-    "type": "nhà hàng"
-  },
-  {
-    "address": "69 Phó Đức Chính, Q. Ba Đình",
-    "area": "Ba Đình",
-    "food": "Quán nhậu",
-    "id": "19232",
-    "introduction": "- Nguồn nguyên liệu của nhà hàng được nhập từ các nhà cung cấp uy tín tại Hà Nội - Đội ngũ đầu bếp chuyên nghiệp và có kinh nghiệm lâu năm với các món nhậu , lẩu",
-    "location": [
-      21.048178,
-      105.841864
-    ],
-    "name": "Lẩu Đức Trọc",
-    "phone": "01223362372",
-    "postcode": "cb21uj",
-    "pricerange": "vừa phải",
-    "type": "nhà hàng"
-  },
-  {
-    "address": "Số 102C5 Trần Huy Liệu, Q. Ba Đình",
-    "area": "Ba Đình",
-    "food": "Đặc sản",
-    "id": "19187",
-    "location": [
-      21.0279955415118,
-      105.822214369689
-    ],
-    "name": "Let ’ s Sushi",
-    "phone": "01223355012",
-    "postcode": "cb12lf",
-    "pricerange": "sang trọng",
-    "type": "nhà hàng",
-    "introduction": "Nguyên liệu tươi ngon , thực đơn món Nhật phong phú ."
-  },
-  {
-    "address": "63 Phạm Hồng Thái, Trúc Bạch",
-    "area": "Ba Đình",
-    "food": "Món Việt",
-    "id": "19174",
-    "introduction": "Món ăn Việt - phong vị dân dã quê hương",
-    "location": [
-      21.025359,
-      105.82171
-    ],
-    "name": "Nhà hàng Món Việt",
-    "phone": "01223357187",
-    "postcode": "cb11hr",
-    "pricerange": "sang trọng",
-    "type": "nhà hàng"
-  },
-  {
-    "address": "Số 152 Ngọc Khánh, P. Giảng Võ, Q. Ba Đình",
-    "area": "Ba Đình",
-    "food": "Nhật Bản",
-    "id": "12482",
-    "introduction": "- Nguyên liệu Cá hồi nhập khẩu tươi ngon và đa dạng . Các món ăn Nhật Bản chuẩn vị , giá hợp lý . - Không gian nhà hàng hiện đại , ấm cúng và đậm dấu ấn xứ Phù Tang .",
-    "location": [
-      21.02565,
-      105.8182
-    ],
-    "name": "G8 Osake House - 152 Ngọc Khánh",
-    "postcode": "cb23ju",
-    "pricerange": "sang trọng",
-    "type": "nhà hàng"
-  },
-  {
-    "address": "Số 21 Ngũ Xã, P. Trúc Bạch, Q. Ba Đình",
-    "area": "Ba Đình",
-    "food": "Đặc sản",
-    "id": "19231",
-    "introduction": "Hải sản tươi ngon , giá hợp lý .",
-    "location": [
-      21.046313,
-      105.841702
-    ],
-    "name": "Vua Hải Sản Đường Phố",
-    "phone": "01223324351",
-    "postcode": "cb21ug",
-    "pricerange": "sang trọng",
-    "type": "nhà hàng"
-  },
-  {
-    "address": "Số 273 Tô Hiệu, P. Dịch Vọng, Q. Cầu Giấy",
-    "area": "Cầu Giấy",
-    "food": "Buffet",
-    "id": "19251",
-    "introduction": "- Nhà hàng đầu tiên tại Hà Nội hoạt động theo mô hình kết hợp Lẩu Hơi - Lẩu Nướng . - Thực đơn phong phú , thực phẩm an toàn tuyển chọn từ các nhà cung cấp uy tín .",
-    "location": [
-      21.041565,
-      105.791437
-    ],
-    "name": "Safodi",
-    "phone": "01223276182",
-    "postcode": "cb30df",
-    "pricerange": "sang trọng",
-    "type": "nhà hàng"
-  },
-  {
-    "address": "Số 11, Ngõ 290 Kim Mã, P. Kim Mã, Q. Ba Đình",
-    "area": "Ba Đình",
-    "food": "Đặc sản",
-    "id": "19184",
-    "introduction": "- Lẩu Dê Khô Thu Béo - Kim Mã là chi nhánh thứ 3 của chuỗi nhà hàng chuyên về dê.- Dê tuyển chọn và nhập từ Ninh Bình . Món ăn nổi tiếng nhất là Lẩu dê khô .",
-    "location": [
-      21.0316651205505,
-      105.82247678048
-    ],
-    "name": "Lẩu Dê Khô Thu Béo",
-    "phone": "01223351027",
-    "postcode": "cb12bd",
-    "pricerange": "sang trọng",
-    "type": "nhà hàng"
-  },
-  {
-    "address": "Tầng 1, Tòa nhà Hanoi Tower, Số 49, Phố Hai Bà Trưng, Q. Hoàn Kiếm",
-    "area": "Hoàn Kiếm",
-    "food": "Nhật Bản",
-    "id": "19190",
-    "location": [
-      21.025732,
-      105.846123
-    ],
-    "name": "Tamaya Japanese Restaurant",
-    "phone": "01223247877",
-    "postcode": "cb13nl",
-    "pricerange": "sang trọng",
-    "type": "nhà hàng",
-    "introduction": "Thông điệp chính của nhà hàng Tamaya Japanese Restaurant là Origninal Japanese Taste - Trải nhiệm hương vị 200 món ăn thuần Nhật cùng bếp trưởng Kudou Takahisa"
-  },
-  {
-    "address": "34A Quang Trung, Q. Hoàn Kiếm",
-    "area": "Hoàn Kiếm",
-    "food": "Đặc sản",
-    "id": "19274",
-    "introduction": "- Đầu bếp nhà hàng từng có 1 thời gian dài theo học nấu ăn bên Thái , có kinh nghiệm hơn 10 năm làm bếp",
-    "location": [
-      21.020243,
-      105.848038
-    ],
-    "name": "Bếp Thái Koh Yam",
-    "phone": "01223244955",
-    "postcode": "cb58rg",
-    "pricerange": "vừa phải",
-    "type": "nhà hàng"
-  },
-  {
-    "address": "63 Phạm Hồng Thái, Trúc Bạch",
-    "area": "Ba Đình",
-    "food": "Món Việt",
-    "id": "19172",
-    "location": [
-      21.040066,
-      105.807126
-    ],
-    "name": "Nhà Hàng Cơm Việt",
-    "phone": "01223355909",
-    "postcode": "cb11dg",
-    "pricerange": "sang trọng",
-    "type": "nhà hàng",
-    "introduction": "Ăn tại chỗ · Nhận hàng ở lề đường · Giao hàng"
-  },
-  {
-    "address": "Số 26, Ngõ 254, Đường Bưởi, Ba Đình",
-    "area": "Ba Đình",
-    "food": "Quán nhậu",
-    "id": "19178",
-    "introduction": "Không gian và thực đơn đa dạng , hấp dẫn , mang đậm chất núi rừng Tây Bắc với giá hợp lý",
-    "location": [
-      21.036253,
-      105.80765
-    ],
-    "name": "Độc Quán",
-    "phone": "01223500005",
-    "postcode": "cb11ln",
-    "pricerange": "vừa phải",
-    "type": "nhà hàng"
-  },
-  {
-    "address": "6A Láng Hạ, Q. Ba Đình",
-    "area": "Ba Đình",
-    "food": "Món Thái",
-    "id": "19209",
-    "introduction": "- Đầu bếp với 15 năm kinh nghiệm- Sự hòa quyện của nhiều hương vị : chua , cay , mặn , ngọt , đắng cùng nước sốt độc quyền của nhà hàng .",
-    "location": [
-      21.02184,
-      105.818345
-    ],
-    "name": "Thai Pattaya",
-    "phone": "01223312598",
-    "postcode": "cb21ab",
-    "pricerange": "sang trọng",
-    "type": "nhà hàng"
-  },
-  {
-    "address": "21 Phố Vạn Phúc, Kim Mã",
-    "area": "Ba Đình",
-    "food": "Lẩu",
-    "id": "19239",
-    "introduction": "Lẩu Gạch - Trọn vị cua, tròn vị lẩu Lẩu cua đồng nguyên chất 100%, không phụ gia, không độn",
-    "location": [
-      21.033806,
-      105.805735
-    ],
-    "name": "Nhà hàng Lẩu Gạch",
-    "phone": "01223350106",
-    "postcode": "cb23nj",
-    "pricerange": "sang trọng",
-    "type": "nhà hàng"
-  },
-  {
-    "address": "Tầng 4, khách sạn Grand Vista Hanoi, 146 Giảng Võ, P. Giảng Võ, Q. Ba Đình",
-    "area": "Ba Đình",
-    "food": "Buffet",
-    "id": "6941",
-    "introduction": "Nhà hàng Déli mang tới cho thực khách những trải nghiệm đẳng cấp cùng nhiều nền ẩm thực đặc sắc khác nhau trên thế giới .",
-    "location": [
-      21.025359,
-      105.82171
-    ],
-    "name": "Déli",
-    "phone": "01223359506",
-    "postcode": "cb21sj",
-    "pricerange": "sang trọng",
-    "signature": "lamb barnsley chop potato and garlic bake greens and gravy",
-    "type": "nhà hàng"
-  },
-  {
-    "address": "83 Nguyễn Thái Học, Văn Miếu",
-    "area": "Ba Đình",
-    "food": "Nướng",
-    "id": "19181",
-    "introduction": "Quán vỉa hè, phục vụ nhanh. Nầm bò nướng ngon, giòn và thơm.",
-    "location": [
-      21.02184,
-      105.818345
-    ],
-    "name": "Quán Cao",
-    "phone": "01223311911",
-    "postcode": "cb12as",
-    "pricerange": "sang trọng",
-    "type": "nhà hàng"
-  },
-  {
-    "address": "Số 4A Ngõ 67 Lý Thường Kiệt, P. Trần Hưng Đạo, Q. Hoàn Kiếm",
-    "area": "Hoàn Kiếm",
-    "food": "Đặc sản",
-    "id": "19198",
-    "location": [
-      21.024295,
-      105.845834
-    ],
-    "name": "Chay Vị Lai",
-    "phone": "01223249955",
-    "postcode": "cb19hx",
-    "pricerange": "sang trọng",
-    "type": "nhà hàng",
-    "introduction": "- Nguyên liệu từ thực vật sạch tuyển chọn từ nguồn cung uy tín cả trong nước và nhập khẩu . - Nhà hàng sở hữu một không gian thanh tịnh , thoáng đãng và gần gũi với thiên nhiên ."
-  },
-  {
-    "address": "109 Đào Tấn, Q.Ba Đình",
-    "area": "Ba Đình",
-    "food": "Lẩu nướng",
-    "id": "19217",
-    "introduction": "- King BBQ thuộc sở hữu của Tập đoàn RedSun ITI - Một trong những tập đoàn ẩm thực lớn mạnh bậc nhất Việt Nam , sở hữu nhiều thương hiệu ẩm thực nổi tiếng khác như : ThaiExpress , Hotpot Story , Seoul Garden , Sushi Kei , Buk Buk , Capricciosa , Khao Lao , Tasaki BBQ , Dolpan Sam- Công thức độc quyền của “ nước sốt King ” - được chính Bếp trưởng Park Sung Min , một trong những đầu bếp nổi tiếng nhất Hàn Quốc , với kinh nghiệm hơn 40 năm trong ngành ẩm thực , trực tiếp nghiên cứu và chế biến .",
-    "location": [
-      21.033806,
-      105.805735
-    ],
-    "name": "King BBQ",
-    "phone": "01223307581",
-    "postcode": "cb21dp",
-    "pricerange": "sang trọng",
-    "type": "nhà hàng"
-  },
-  {
-    "address": "Số 67 Phan Kế Bính, Cống Vị",
-    "area": "Ba Đình",
-    "food": "Buffet",
-    "id": "508",
-    "introduction": "Với 2 set buffet 199k và 279k, menu của Làu là sự kết hợp hài hoà của các món Dimsum nóng hổi, Thịt nướng tẩm ướp đậm đà và Hải sản tươi ngon, giàu dinh dưỡng.",
-    "location": [
-      21.02565,
-      105.8182
-    ],
-    "name": "Làu Buffet",
-    "phone": "01223369299",
-    "postcode": "cb41ha",
-    "pricerange": "sang trọng",
-    "signature": "seared scallops with truffle apple and celeriac",
-    "type": "nhà hàng"
-  },
-  {
-    "address": "F3-C01, Tầng 3, TTTM Lotte Center, 54 Liễu Giai, Q. Ba Đình",
-    "area": "Ba Đình",
-    "food": "Món miền Trung",
-    "id": "19230",
-    "introduction": "Phố Ngon 37 thuộc tập đoàn Golden Gate - tập đoàn sở hữu những thương hiệu hàng đầu về lĩnh vực ẩm thực - nhà hàng như SumoBBQ , Gogi House , Kichi Kichi , Isushi , Ashima , Hutong , Cowboy Jack ’ s , Daruma , K-pub , Vuvuzela , Shogun , Manwah .",
-    "location": [
-      21.032178,
-      105.812426
-    ],
-    "name": "Phố Ngon 37",
-    "phone": "01223311053",
-    "postcode": "cb21uf",
-    "pricerange": "sang trọng",
-    "type": "nhà hàng"
-  },
-  {
-    "address": "Số 52 Đào Tấn, Q. Ba Đình",
-    "area": "Ba Đình",
-    "food": "Lẩu",
-    "id": "19234",
-    "introduction": "Nổi tiếng với những món lẩu nấm thơm ngon , bổ dưỡng , kết hợp cùng gần 20 loại nấm thiên nhiên quý hiếm từ Mỹ , Hàn , Nhật ...",
-    "location": [
-      21.032837059389,
-      105.807896103764
-    ],
-    "name": "Nấm Tràng An",
-    "phone": "01223448620",
-    "postcode": "cb21uj",
-    "pricerange": "sang trọng",
-    "type": "nhà hàng"
-  },
-  {
-    "address": "Số 12 Phạm Huy Thông, Q. Ba Đình",
-    "area": "Ba Đình",
-    "food": "Món Việt",
-    "id": "19222",
-    "introduction": "Nhà hàng Sơn Thủy Restaurant chuyên về các món ăn hải sản và đặc sản núi rừng .",
-    "location": [
-      21.028412,
-      105.810744
-    ],
-    "name": "Sơn Thủy Restaurant",
-    "phone": "01223358899",
-    "postcode": "cb21nw",
-    "pricerange": "sang trọng",
-    "type": "nhà hàng"
-  },
-  {
-    "address": "67 Trần Phú, Kim Mã",
-    "area": "Ba Đình",
-    "food": "Món miền Bắc",
-    "id": "19236",
-    "introduction": "Quán ăn đặc sản miền Bắc",
-    "location": [
-      21.032178,
-      105.812426
-    ],
-    "name": "Đặc sản miền Bắc",
-    "phone": "01223354382",
-    "postcode": "cb23jx",
-    "pricerange": "sang trọng",
-    "type": "nhà hàng"
-  }
+    {
+        "address": "Regent Street City Centre",
+        "area": "centre",
+        "food": "italian",
+        "id": "19210",
+        "introduction": "Pizza hut is a large chain with restaurants nationwide offering convenience pizzas pasta and salads to eat in or take away",
+        "location": [
+            52.20103,
+            0.126023
+        ],
+        "name": "pizza hut city centre",
+        "phone": "01223323737",
+        "postcode": "cb21ab",
+        "pricerange": "cheap",
+        "type": "restaurant"
+    },
+    {
+        "address": "Finders Corner Newmarket Road",
+        "area": "east",
+        "food": "international",
+        "id": "30650",
+        "introduction": "",
+        "location": [
+            52.21768,
+            0.224907
+        ],
+        "name": "the missing sock",
+        "phone": "01223812660",
+        "postcode": "cb259aq",
+        "pricerange": "cheap",
+        "signature": "african babooti",
+        "type": "restaurant"
+    },
+    {
+        "address": "106 Regent Street City Centre",
+        "area": "centre",
+        "food": "indian",
+        "id": "19214",
+        "introduction": "curry garden serves traditional indian and bangladeshi cuisine cooked with fresh produce delivered every day",
+        "location": [
+            52.200187,
+            0.126407
+        ],
+        "name": "curry garden",
+        "phone": "01223302330",
+        "postcode": "cb21dp",
+        "pricerange": "expensive",
+        "type": "restaurant"
+    },
+    {
+        "address": "82 Cherry Hinton Road Cherry Hinton",
+        "area": "south",
+        "food": "chinese",
+        "id": "19192",
+        "location": [
+            52.188528,
+            0.140627
+        ],
+        "name": "the good luck chinese food takeaway",
+        "phone": "01223244149",
+        "postcode": "cb17ag",
+        "pricerange": "expensive",
+        "type": "restaurant"
+    },
+    {
+        "address": "G4 Cambridge Leisure Park Clifton Way Cherry Hinton",
+        "area": "south",
+        "food": "italian",
+        "id": "19196",
+        "introduction": "pizza hut is a large chain with restaurants nationwide offering convenience pizzas pasta and salads to eat in or take away",
+        "location": [
+            52.190176,
+            0.13699
+        ],
+        "name": "pizza hut cherry hinton",
+        "phone": "01223323737",
+        "postcode": "cb17dy",
+        "pricerange": "moderate",
+        "type": "restaurant"
+    },
+    {
+        "address": "64 Cherry Hinton Road Cherry Hinton",
+        "area": "south",
+        "food": "indian",
+        "id": "19191",
+        "introduction": "taj tandoori serves a variety of indian dishes to eat in or take away catering for private parties of up to 50 guests is available upon request",
+        "location": [
+            52.188747,
+            0.138941
+        ],
+        "name": "taj tandoori",
+        "phone": "01223412299",
+        "postcode": "cb17aa",
+        "pricerange": "expensive",
+        "type": "restaurant"
+    },
+    {
+        "address": "152 - 154 Hills Road",
+        "area": "south",
+        "food": "modern european",
+        "id": "14731",
+        "introduction": "",
+        "location": [
+            52.18889,
+            0.13589
+        ],
+        "name": "restaurant alimentum",
+        "phone": "01223413000",
+        "postcode": "cb28pb",
+        "pricerange": "moderate",
+        "signature": "slowroast sirloin of beef red onion celeriac and garlic",
+        "type": "restaurant"
+    },
+    {
+        "address": "529 Newmarket Road Fen Ditton",
+        "area": "east",
+        "food": "chinese",
+        "id": "19273",
+        "introduction": "yu garden serves authentic chinese cuisine",
+        "location": [
+            52.212992,
+            0.157569
+        ],
+        "name": "yu garden",
+        "phone": "01223248882",
+        "postcode": "cb58pa",
+        "pricerange": "expensive",
+        "type": "restaurant"
+    },
+    {
+        "address": "Market Hill City Centre",
+        "area": "centre",
+        "food": "italian",
+        "id": "19240",
+        "location": [
+            52.205442,
+            0.119706
+        ],
+        "name": "stazione restaurant and coffee bar",
+        "phone": "01223352607",
+        "postcode": "cb23nj",
+        "pricerange": "expensive",
+        "type": "restaurant"
+    },
+    {
+        "address": "451 Newmarket Road Fen Ditton",
+        "area": "east",
+        "food": "indian",
+        "id": "19270",
+        "introduction": "curry prince is a neighbourhood indian restaurant serving authentic cuisine",
+        "location": [
+            52.213072,
+            0.149771
+        ],
+        "name": "curry prince",
+        "phone": "01223566388",
+        "postcode": "cb58jj",
+        "pricerange": "moderate",
+        "type": "restaurant"
+    },
+    {
+        "address": "Regent Street City Centre",
+        "area": "centre",
+        "food": "chinese",
+        "id": "19212",
+        "introduction": "charlie chan serves a variety of popular chinese dishes at their restaurant",
+        "location": [
+            52.201743,
+            0.124843
+        ],
+        "name": "charlie chan",
+        "phone": "01223361763",
+        "postcode": "cb21db",
+        "pricerange": "cheap",
+        "type": "restaurant"
+    },
+    {
+        "address": "Free School Lane City Centre",
+        "area": "centre",
+        "food": "european",
+        "id": "19245",
+        "introduction": "eraina serves a variety of drinks and european dishes with influences from france spain italy and greece catering for vegetarians is also provided",
+        "location": [
+            52.203708,
+            0.119082
+        ],
+        "name": "eraina",
+        "phone": "01223368786",
+        "postcode": "cb23rh",
+        "pricerange": "expensive",
+        "type": "restaurant"
+    },
+    {
+        "address": "Regent Street City Centre",
+        "area": "centre",
+        "food": "italian",
+        "id": "19213",
+        "introduction": "the simple menu and kitchen concept at pizza express has retained its freshly made ideal and you can still watch your pizza being prepared for you",
+        "location": [
+            52.201743,
+            0.124843
+        ],
+        "name": "pizza express",
+        "phone": "01223324033",
+        "postcode": "cb21db",
+        "pricerange": "moderate",
+        "type": "restaurant"
+    },
+    {
+        "address": "De Vere University Arms Regent Street City Centre",
+        "area": "centre",
+        "food": "british",
+        "id": "19211",
+        "introduction": "adjoining the de vere university arms restaurant one seven is located at the forefront of regent street, and provides a birds eye view to take in the hustle and bustle of the busy city. Enjoy beautifully created food which is always complemented by a fine selection of wines in a truly relaxing and contemporary atmosphere",
+        "location": [
+            52.20103,
+            0.126023
+        ],
+        "name": "restaurant one seven",
+        "phone": "01223337766",
+        "postcode": "cb21ab",
+        "pricerange": "moderate",
+        "type": "restaurant"
+    },
+    {
+        "address": "12 Bridge Street City Centre",
+        "area": "centre",
+        "food": "italian",
+        "id": "19229",
+        "introduction": "ask is a leading name in the uk casual dining market with over 100 restaurants across the uk. ask is the perfect place to relax and enjoy mouthwatering risottos an extended range of hearty al forno dishes and all your favourite pastas pizzas and salads",
+        "location": [
+            52.209028,
+            0.118296
+        ],
+        "name": "ask restaurant",
+        "phone": "01223364917",
+        "postcode": "cb21uf",
+        "pricerange": "cheap",
+        "type": "restaurant"
+    },
+    {
+        "address": "11 Peas Hill City Centre",
+        "area": "centre",
+        "food": "chinese",
+        "id": "19242",
+        "introduction": "jinling noodle bar serves a wide range of chinese and shanghai dishes reflecting many different flavours and ingredients",
+        "location": [
+            52.204453,
+            0.118693
+        ],
+        "name": "jinling noodle bar",
+        "phone": "01223566188",
+        "postcode": "cb23pp",
+        "pricerange": "moderate",
+        "type": "restaurant"
+    },
+    {
+        "address": "83 Regent Street",
+        "area": "centre",
+        "food": "modern european",
+        "id": "3697",
+        "introduction": "de luca cucina bar in the heart of cambridge is a stylish spot to enjoy food, wine, cocktails and coffee all in a vibrant atmosphere. The cocktail bar at the front is perfect for coffee and light meals in the day and cocktails in the evening. An open kitchen provides real excitement with head chef darren kiegher and his team preparing simply delicious italian food using locally sourced ingredients.",
+        "location": [
+            52.2002,
+            0.1268
+        ],
+        "name": "de luca cucina and bar",
+        "phone": "01223356666",
+        "postcode": "cb21aw",
+        "pricerange": "moderate",
+        "signature": "roasted barbary duck breast served with sweet potato wedges and mange tout with a red wine sauce",
+        "type": "restaurant"
+    },
+    {
+        "address": "2 Sturton Street City Centre",
+        "area": "centre",
+        "food": "gastropub",
+        "id": "19188",
+        "introduction": "the backstreet bistro is a gastropub with a separate bar area serving a couple of good real ales and a dining room serving modern european food. There is a decked area to sit out in during the summer months",
+        "location": [
+            52.202449,
+            0.141062
+        ],
+        "name": "backstreet bistro",
+        "phone": "01223306306",
+        "postcode": "cb12qa",
+        "pricerange": "expensive",
+        "type": "restaurant"
+    },
+    {
+        "address": "68 Histon Road Chesterton",
+        "area": "west",
+        "food": "indian",
+        "id": "19266",
+        "introduction": "tandoori palace serve a variety of indian and bangladeshi dishes and can cater for private parties of up to 110 guests upon request",
+        "location": [
+            52.215486,
+            0.111167
+        ],
+        "name": "tandoori palace",
+        "phone": "01223506055",
+        "postcode": "cb43le",
+        "pricerange": "expensive",
+        "type": "restaurant"
+    },
+    {
+        "address": "Doubletree by Hilton Cambridge Granta Place Mill Lane",
+        "area": "centre",
+        "food": "modern european",
+        "id": "10347",
+        "introduction": "",
+        "location": [
+            52.20025,
+            0.11659
+        ],
+        "name": "riverside brasserie",
+        "phone": "01223259988",
+        "postcode": "cb21rt",
+        "pricerange": "moderate",
+        "type": "restaurant"
+    },
+    {
+        "address": "74 Mill Road City Centre",
+        "area": "centre",
+        "food": "indian",
+        "id": "19180",
+        "introduction": "kohinoor serves a variety of indian and vegetarian dishes at their restaurant a takeaway and delivery service is also available",
+        "location": [
+            52.200422,
+            0.135784
+        ],
+        "name": "kohinoor",
+        "phone": "01223323639",
+        "postcode": "cb12as",
+        "pricerange": "cheap",
+        "type": "restaurant"
+    },
+    {
+        "address": "2G Cambridge Leisure Park Cherry Hinton Road Cherry Hinton",
+        "area": "south",
+        "food": "mexican",
+        "id": "19194",
+        "introduction": "chiquito is a chain of inexpensive tex mex restaurants predominantly aimed at tourists. They serve a variety of mexican and north of the border food as well as a range of cocktails",
+        "location": [
+            52.190176,
+            0.13699
+        ],
+        "name": "chiquito restaurant bar",
+        "phone": "01223400170",
+        "postcode": "cb17dy",
+        "pricerange": "expensive",
+        "type": "restaurant"
+    },
+    {
+        "address": "21 - 24 Northampton Road",
+        "area": "west",
+        "food": "italian",
+        "id": "12700",
+        "introduction": "",
+        "location": [
+            52.21032,
+            0.11367
+        ],
+        "name": "prezzo",
+        "phone": "01799521260",
+        "postcode": "cb30ad",
+        "pricerange": "moderate",
+        "type": "restaurant"
+    },
+    {
+        "address": "88 Mill Road City Centre",
+        "area": "centre",
+        "food": "chinese",
+        "id": "19185",
+        "introduction": "rice house serve a variety of popular chinese dishes at their restaurant",
+        "location": [
+            52.199332,
+            0.138395
+        ],
+        "name": "rice house",
+        "phone": "01223367755",
+        "postcode": "cb12bd",
+        "pricerange": "cheap",
+        "type": "restaurant"
+    },
+    {
+        "address": "59 Hills Road City Centre",
+        "area": "centre",
+        "food": "lebanese",
+        "id": "19221",
+        "location": [
+            52.195416,
+            0.13114
+        ],
+        "name": "ali baba",
+        "phone": "01462432565",
+        "postcode": "cb21nt",
+        "pricerange": "moderate",
+        "type": "restaurant"
+    },
+    {
+        "address": "35 Saint Andrews Street City Centre",
+        "area": "centre",
+        "food": "international",
+        "id": "19235",
+        "introduction": "the varsity restaurant serves a variety of international and vegetarian dishes and can cater for private parties of up to 40 guests upon request",
+        "location": [
+            52.202793,
+            0.123488
+        ],
+        "name": "the varsity restaurant",
+        "phone": "01223356060",
+        "postcode": "cb23ar",
+        "pricerange": "moderate",
+        "type": "restaurant"
+    },
+    {
+        "address": "40270 King Street City Centre",
+        "area": "centre",
+        "food": "modern european",
+        "id": "19177",
+        "introduction": "darrys cookhouse and wine shop is an award winning drinking and dining restaurant and bar in the centre of cambridge",
+        "location": [
+            52.207312,
+            0.124201
+        ],
+        "name": "darrys cookhouse and wine shop",
+        "phone": "01223505015",
+        "postcode": "cb11ln",
+        "pricerange": "expensive",
+        "type": "restaurant"
+    },
+    {
+        "address": "Mill Road City Centre",
+        "area": "centre",
+        "food": "indian",
+        "id": "19182",
+        "introduction": "the golden curry serves a variety of authentic indian dishes at their fully licensed restaurant",
+        "location": [
+            52.199289,
+            0.13974
+        ],
+        "name": "the golden curry",
+        "phone": "01223329432",
+        "postcode": "cb12az",
+        "pricerange": "expensive",
+        "type": "restaurant"
+    },
+    {
+        "address": "71 Castle Street City Centre",
+        "area": "west",
+        "food": "indian",
+        "id": "19249",
+        "introduction": "cocum specialises in south indian cuisine using spices meat and vegetables from the kerala region there is also a take away option",
+        "location": [
+            52.212444,
+            0.112823
+        ],
+        "name": "cocum",
+        "phone": "01223366668",
+        "postcode": "cb30ah",
+        "pricerange": "expensive",
+        "type": "restaurant"
+    },
+    {
+        "address": "St. Michael's Church Trinity Street City Centre",
+        "area": "centre",
+        "food": "european",
+        "id": "19227",
+        "introduction": "digby trout is a chain of restaurants that are located in many of london's premier tourist attractions. they serve modern european cuisine and are open for lunch and dinner. situated in st michaels church, michaelhouse cafe serves coffee sandwiches and lunch from a regularly changing menu",
+        "location": [
+            52.20608,
+            0.118215
+        ],
+        "name": "michaelhouse cafe",
+        "phone": "01223309147",
+        "postcode": "cb21su",
+        "pricerange": "expensive",
+        "type": "restaurant"
+    },
+    {
+        "address": "37 Newnham Road Newnham",
+        "area": "west",
+        "food": "indian",
+        "id": "19255",
+        "introduction": "the rice boat serves an authentic kind of indian cuisine that originates from the villages of kerala where the spice trade originated",
+        "location": [
+            52.199012,
+            0.113196
+        ],
+        "name": "rice boat",
+        "phone": "01223302800",
+        "postcode": "cb39ey",
+        "pricerange": "expensive",
+        "type": "restaurant"
+    },
+    {
+        "address": "15 - 19 Trumpington Street",
+        "area": "centre",
+        "food": "european",
+        "id": "4607",
+        "introduction": "",
+        "location": [
+            52.19934,
+            0.12146
+        ],
+        "name": "hotel du vin and bistro",
+        "phone": "01223227330",
+        "postcode": "cb21qa",
+        "pricerange": "moderate",
+        "signature": "",
+        "type": "restaurant"
+    },
+    {
+        "address": "41518 Castle Street City Centre",
+        "area": "west",
+        "food": "indian",
+        "id": "19250",
+        "introduction": "maharajah tandoori restaurant serve a variety of indian and tandoori dishes at their restaurant catering for private parties of up to 40 guests is available upon request",
+        "location": [
+            52.212444,
+            0.112823
+        ],
+        "name": "maharajah tandoori restaurant",
+        "phone": "01223358399",
+        "postcode": "cb30ah",
+        "pricerange": "expensive",
+        "type": "restaurant"
+    },
+    {
+        "address": "Crowne Plaza Hotel 20 Downing Street",
+        "area": "centre",
+        "food": "international",
+        "id": "14742",
+        "introduction": "",
+        "location": [
+            52.20342,
+            0.12171
+        ],
+        "name": "bloomsbury restaurant",
+        "phone": "08719429180",
+        "postcode": "cb23dt",
+        "pricerange": "moderate",
+        "signature": "coconut and red chilli monkfish",
+        "type": "restaurant"
+    },
+    {
+        "address": "17 Magdalene Street City Centre",
+        "area": "west",
+        "food": "vietnamese",
+        "id": "19248",
+        "introduction": "thanh binh serve a variety of vietnamese dishes as well as selling an assortment of tea and coffees",
+        "location": [
+            52.210226,
+            0.115646
+        ],
+        "name": "thanh binh",
+        "phone": "01223362456",
+        "postcode": "cb30af",
+        "pricerange": "cheap",
+        "type": "restaurant"
+    },
+    {
+        "address": "14 -16 Bridge Street",
+        "area": "centre",
+        "food": "spanish",
+        "id": "12566",
+        "introduction": "la tasca is a spanish tapas restaurant and bar offering over 30 tapas dishes",
+        "location": [
+            52.20903,
+            0.1183
+        ],
+        "name": "la tasca",
+        "phone": "01223464630",
+        "postcode": "cb21uf",
+        "pricerange": "moderate",
+        "type": "restaurant"
+    },
+    {
+        "address": "20 Milton Road Chesterton",
+        "area": "north",
+        "food": "italian",
+        "id": "19259",
+        "introduction": "da Vinci pizzeria serve an extensive range of pizza and italian dishes as well as some vegetarian options a takeaway and delivery service is also available",
+        "location": [
+            52.215311,
+            0.12593
+        ],
+        "name": "da vinci pizzeria",
+        "phone": "01223351707",
+        "postcode": "cb41jy",
+        "pricerange": "cheap",
+        "type": "restaurant"
+    },
+    {
+        "address": "22 Chesterton Road Chesterton",
+        "area": "north",
+        "food": "french",
+        "id": "19264",
+        "location": [
+            52.213742,
+            0.1242
+        ],
+        "name": "restaurant two two",
+        "phone": "01223351880",
+        "postcode": "cb43ax",
+        "pricerange": "expensive",
+        "type": "restaurant"
+    },
+    {
+        "address": "12 St. Johns Street City Centre",
+        "area": "centre",
+        "food": "chinese",
+        "id": "19228",
+        "introduction": "ugly duckling serves a variety of chinese dishes to eat in or take away they also offer 10 percent discount on takeaway orders",
+        "location": [
+            52.208055,
+            0.118397
+        ],
+        "name": "ugly duckling",
+        "postcode": "cb21tw",
+        "pricerange": "expensive",
+        "type": "restaurant"
+    },
+    {
+        "address": "36 Saint Andrews Street",
+        "area": "centre",
+        "food": "japanese",
+        "id": "12638",
+        "introduction": "",
+        "location": [
+            52.203,
+            0.12375
+        ],
+        "name": "wagamama",
+        "phone": "01223462354",
+        "postcode": "cb23ar",
+        "pricerange": "expensive",
+        "type": "restaurant"
+    },
+    {
+        "address": "12 Norfolk Street City Centre",
+        "area": "centre",
+        "food": "chinese",
+        "id": "19186",
+        "introduction": "lan hong house serves great value home cooked authentic chinese food with over two five dishes available from the buffet",
+        "location": [
+            52.204609,
+            0.137976
+        ],
+        "name": "lan hong house",
+        "phone": "01223350420",
+        "postcode": "cb12lf",
+        "pricerange": "moderate",
+        "type": "restaurant"
+    },
+    {
+        "address": "Cambridge Leisure Park Clifton Way",
+        "area": "south",
+        "food": "portuguese",
+        "id": "12238",
+        "introduction": "It's Nandos",
+        "location": [
+            52.19017,
+            0.13699
+        ],
+        "name": "nandos",
+        "phone": "01223327908",
+        "postcode": "cb17dy",
+        "pricerange": "cheap",
+        "type": "restaurant"
+    },
+    {
+        "address": "6 Lensfield Road",
+        "area": "centre",
+        "food": "british",
+        "id": "13071",
+        "introduction": "",
+        "location": [
+            52.1987,
+            0.12578
+        ],
+        "name": "the oak bistro",
+        "phone": "01223323361",
+        "postcode": "cb21eg",
+        "pricerange": "moderate",
+        "signature": "chargrilled rib eye steak with truffle butter mixed salad and fries",
+        "type": "restaurant"
+    },
+    {
+        "address": "4 Kings Parade City Centre",
+        "area": "centre",
+        "food": "british",
+        "id": "19226",
+        "introduction": "the copper kettle serve a variety of english dishes at their restaurant including full english breakfasts lunches, roast dinners and baked potatoes. a takeaway menu is also provided",
+        "location": [
+            52.204387,
+            0.117841
+        ],
+        "name": "the copper kettle",
+        "phone": "01223365068",
+        "postcode": "cb21sj",
+        "pricerange": "moderate",
+        "type": "restaurant"
+    },
+    {
+        "address": "Cambridge Leisure Park Clifton Way Cherry Hinton",
+        "area": "south",
+        "food": "chinese",
+        "id": "19197",
+        "location": [
+            52.190176,
+            0.13699
+        ],
+        "name": "the lucky star",
+        "phone": "01223244277",
+        "postcode": "cb17dy",
+        "pricerange": "cheap",
+        "type": "restaurant"
+    },
+    {
+        "address": "51 Trumpington Street City Centre",
+        "area": "centre",
+        "food": "british",
+        "id": "19224",
+        "introduction": "fitzbillies restaurant serves a variety of bistro style lunches, anglo-european a la carte evening meals, as well as teas coffees and cakes throughout the day. catering for private parties is available upon request",
+        "location": [
+            52.202598,
+            0.118342
+        ],
+        "name": "fitzbillies restaurant",
+        "phone": "01223352500",
+        "postcode": "cb21rg",
+        "pricerange": "expensive",
+        "type": "restaurant"
+    },
+    {
+        "address": "108 Regent Street City Centre",
+        "area": "centre",
+        "food": "korean",
+        "id": "19216",
+        "introduction": "little seoul offer a variety of korean cuisine for lunch and dinner",
+        "location": [
+            52.200187,
+            0.126407
+        ],
+        "name": "little seoul",
+        "phone": "01223308681",
+        "postcode": "cb21dp",
+        "pricerange": "expensive",
+        "type": "restaurant"
+    },
+    {
+        "address": "196 Mill Road City Centre",
+        "area": "centre",
+        "food": "turkish",
+        "id": "19189",
+        "introduction": "meze is a restaurant and bar that serves tasty and fresh turkish cuisine set in an informal relaxed atmosphere the bar area also serves a wide range of beers wines and spirits",
+        "location": [
+            52.197349,
+            0.145075
+        ],
+        "name": "meze bar",
+        "postcode": "cb13nf",
+        "pricerange": "expensive",
+        "type": "restaurant"
+    },
+    {
+        "address": "40210 Millers Yard City Centre",
+        "area": "centre",
+        "food": "asian oriental",
+        "id": "19225",
+        "introduction": "dojo noodle bar serves a variety of japanese chinese vietnamese korean and malaysian dishes to eat in or take away sister restaurant to touzai",
+        "location": [
+            52.201423,
+            0.116661
+        ],
+        "name": "dojo noodle bar",
+        "phone": "01223363471",
+        "postcode": "cb21rq",
+        "pricerange": "cheap",
+        "type": "restaurant"
+    },
+    {
+        "address": "15 Magdalene Street City Centre",
+        "area": "west",
+        "food": "italian",
+        "id": "19247",
+        "introduction": "la margherita serve a variety of italian and vegetarian dishes at their restaurant",
+        "location": [
+            52.210226,
+            0.115646
+        ],
+        "name": "la margherita",
+        "phone": "01223315232",
+        "postcode": "cb30af",
+        "pricerange": "cheap",
+        "type": "restaurant"
+    },
+    {
+        "address": "40428 King Street City Centre",
+        "area": "centre",
+        "food": "asian oriental",
+        "id": "19175",
+        "introduction": "yippee noodle bar serves a variety of oriental and vegetarian dishes at their restaurant they also have a bar area and offer a take away service",
+        "location": [
+            52.207446,
+            0.122788
+        ],
+        "name": "yippee noodle bar",
+        "phone": "01223518111",
+        "postcode": "cb11lh",
+        "pricerange": "moderate",
+        "type": "restaurant"
+    },
+    {
+        "address": "7 Milton Road Chesterton",
+        "area": "north",
+        "food": "indian",
+        "id": "19263",
+        "location": [
+            52.215157,
+            0.125015
+        ],
+        "name": "the nirala",
+        "phone": "01223360966",
+        "postcode": "cb41uy",
+        "pricerange": "moderate",
+        "type": "restaurant"
+    },
+    {
+        "address": "183 East Road City Centre",
+        "area": "centre",
+        "food": "british",
+        "id": "19171",
+        "introduction": "cotto is a restaurant cafe and bakery all rolled in to one. The restaurant upstairs is open for dinner from wednesday to saturday consisting of one menu of between three to five dishes tailored to the day the cafe and bakery offer cakes and other delicacies",
+        "location": [
+            52.204703,
+            0.133238
+        ],
+        "name": "cotto",
+        "phone": "01223302010",
+        "postcode": "cb11bg",
+        "pricerange": "moderate",
+        "type": "restaurant"
+    },
+    {
+        "address": "21 - 24 Northampton Street",
+        "area": "west",
+        "food": "british",
+        "id": "14810",
+        "introduction": "",
+        "location": [
+            52.21031,
+            0.11381
+        ],
+        "name": "saint johns chop house",
+        "phone": "01223353110",
+        "postcode": "cb30ad",
+        "pricerange": "moderate",
+        "signature": "barnsley chop braised potatoes roast celeriac red cabbage and port sauce",
+        "type": "restaurant"
+    },
+    {
+        "address": "Cambridge Retail Park Newmarket Road Fen Ditton",
+        "area": "east",
+        "food": "italian",
+        "id": "19275",
+        "introduction": "pizza hut is a large chain with restaurants nationwide offering convenience pizzas pasta and salads to eat in or take away",
+        "location": [
+            52.209742,
+            0.146975
+        ],
+        "name": "pizza hut fen ditton",
+        "phone": "01223323737",
+        "postcode": "cb58wr",
+        "pricerange": "moderate",
+        "type": "restaurant"
+    },
+    {
+        "address": "12 Lensfield Road City Centre",
+        "area": "centre",
+        "food": "chinese",
+        "id": "19219",
+        "location": [
+            52.198696,
+            0.12578
+        ],
+        "name": "golden house",
+        "phone": "01842753771",
+        "postcode": "cb21eg",
+        "pricerange": "cheap",
+        "type": "restaurant"
+    },
+    {
+        "address": "86 Regent Street City Centre",
+        "area": "centre",
+        "food": "asian oriental",
+        "id": "19215",
+        "introduction": "j restaurant offers a wide variety of sushi noodles and dim sum to eat in or takeaway a home delivery service is also available",
+        "location": [
+            52.200187,
+            0.126407
+        ],
+        "name": "j restaurant",
+        "phone": "01223307581",
+        "postcode": "cb21dp",
+        "pricerange": "cheap",
+        "type": "restaurant"
+    },
+    {
+        "address": "33 Bridge Street",
+        "area": "centre",
+        "food": "european",
+        "id": "6780",
+        "introduction": "",
+        "location": [
+            52.20951,
+            0.11669
+        ],
+        "name": "galleria",
+        "phone": "01223362054",
+        "postcode": "cb21uw",
+        "pricerange": "moderate",
+        "signature": "poached fillets of monkfish in lemongrass with sweet red chilli cream sauce and tiger prawns with leeks and mushrooms served with rice",
+        "type": "restaurant"
+    },
+    {
+        "address": "Corn Exchange Street",
+        "area": "centre",
+        "food": "gastropub",
+        "id": "31390",
+        "introduction": "",
+        "location": [
+            52.204424,
+            0.12046
+        ],
+        "name": "the cow pizza kitchen and bar",
+        "phone": "01223308871",
+        "postcode": "cb23qf",
+        "pricerange": "moderate",
+        "signature": "wasabi spiked hamburger",
+        "type": "restaurant"
+    },
+    {
+        "address": "100 Mill Road City Centre",
+        "area": "centre",
+        "food": "african",
+        "id": "19183",
+        "introduction": "bedouin serves algerian cuisine",
+        "location": [
+            52.199332,
+            0.138395
+        ],
+        "name": "bedouin",
+        "phone": "01223367660",
+        "postcode": "cb12bd",
+        "pricerange": "expensive",
+        "type": "restaurant"
+    },
+    {
+        "address": "2 Rose Crescent City Centre",
+        "area": "centre",
+        "food": "mediterranean",
+        "id": "19238",
+        "introduction": "the gardenia serves a variety of authentic greek and mediterranean dishes at their restaurant catering for private parties of up to two five guests is available upon request",
+        "location": [
+            52.206098,
+            0.118713
+        ],
+        "name": "the gardenia",
+        "phone": "01223356354",
+        "postcode": "cb23ll",
+        "pricerange": "cheap",
+        "type": "restaurant"
+    },
+    {
+        "address": "47-53 Regent Street",
+        "area": "centre",
+        "food": "italian",
+        "id": "29652",
+        "introduction": "",
+        "location": [
+            52.201116,
+            0.125712
+        ],
+        "name": "zizzi cambridge",
+        "phone": "01223365599",
+        "postcode": "cb21ab",
+        "pricerange": "cheap",
+        "signature": "piccante rustica pizza, a spicy sausage salami mascarpone and roquito chilli",
+        "type": "restaurant"
+    },
+    {
+        "address": "Newmarket Road Fen Ditton",
+        "area": "east",
+        "food": "indian",
+        "id": "19272",
+        "introduction": "pipasha restaurant serves a variety of indian dishes to eat in or take away a delivery service is also available",
+        "location": [
+            52.212992,
+            0.157569
+        ],
+        "name": "pipasha restaurant",
+        "phone": "01223577786",
+        "postcode": "cb58pa",
+        "pricerange": "expensive",
+        "type": "restaurant"
+    },
+    {
+        "address": "33-34 Saint Andrews Street",
+        "area": "centre",
+        "food": "portuguese",
+        "id": "12237",
+        "introduction": "",
+        "location": [
+            52.203,
+            0.12375
+        ],
+        "name": "nandos city centre",
+        "phone": "01223327908",
+        "postcode": "cb23ar",
+        "pricerange": "cheap",
+        "type": "restaurant"
+    },
+    {
+        "address": "Victoria Avenue Chesterton",
+        "area": "north",
+        "food": "indian",
+        "id": "19257",
+        "location": [
+            52.213853,
+            0.125509
+        ],
+        "name": "royal spice",
+        "phone": "01733553355",
+        "postcode": "cb41eh",
+        "pricerange": "cheap",
+        "type": "restaurant"
+    },
+    {
+        "address": "Milton Road Chesterton",
+        "area": "north",
+        "food": "chinese",
+        "id": "19260",
+        "introduction": "A unique treat for all lovers of Chinese cuisine. From the Spice Islands to the food streets of Beijing and the finest ocean catch.",
+        "location": [
+            52.215311,
+            0.12593
+        ],
+        "name": "hakka",
+        "phone": "01223568988",
+        "postcode": "cb41jy",
+        "pricerange": "expensive",
+        "type": "restaurant"
+    },
+    {
+        "address": "4 - 6 Rose Crescent",
+        "area": "centre",
+        "food": "spanish",
+        "id": "19237",
+        "introduction": "",
+        "location": [
+            52.206098,
+            0.118713
+        ],
+        "name": "la raza",
+        "phone": "01223464550",
+        "postcode": "cb23ll",
+        "pricerange": "cheap",
+        "signature": "seafood paella",
+        "type": "restaurant"
+    },
+    {
+        "address": "72 Regent Street City Centre",
+        "area": "centre",
+        "food": "indian",
+        "id": "19218",
+        "introduction": "the gandhi serves a variety of indian and bangladeshi dishes at their restaurant to eat in or take away. Catering for private parties of up to 140 guests is available upon request",
+        "location": [
+            52.200187,
+            0.126407
+        ],
+        "name": "the gandhi",
+        "phone": "01223353942",
+        "postcode": "cb21dp",
+        "pricerange": "cheap",
+        "type": "restaurant"
+    },
+    {
+        "address": "191 Histon Road Chesterton",
+        "area": "north",
+        "food": "chinese",
+        "id": "19265",
+        "introduction": "the golden wok serves a variety of traditional chinese meals including sweet and sour dishes as well as rice and noodles",
+        "location": [
+            52.220757,
+            0.111564
+        ],
+        "name": "golden wok",
+        "phone": "01223350688",
+        "postcode": "cb43hl",
+        "pricerange": "moderate",
+        "type": "restaurant"
+    },
+    {
+        "address": "205 Victoria Road Chesterton",
+        "area": "west",
+        "food": "indian",
+        "id": "19267",
+        "location": [
+            52.215077,
+            0.112421
+        ],
+        "name": "meghna",
+        "phone": "01223727410",
+        "postcode": "cb43lf",
+        "pricerange": "moderate",
+        "type": "restaurant"
+    },
+    {
+        "address": "Hills Road City Centre",
+        "area": "centre",
+        "food": "indian",
+        "id": "19220",
+        "introduction": "the saffron brasserie serve a variety of dishes from their contemporary indian and bangladeshi menu. Catering for private parties of up to 100 guests is available upon request",
+        "location": [
+            52.196862,
+            0.129248
+        ],
+        "name": "saffron brasserie",
+        "phone": "01223354679",
+        "postcode": "cb21la",
+        "pricerange": "expensive",
+        "type": "restaurant"
+    },
+    {
+        "address": "Thompsons Lane Fen Ditton",
+        "area": "centre",
+        "food": "mediterranean",
+        "id": "19268",
+        "location": [
+            52.210013,
+            0.118007
+        ],
+        "name": "la mimosa",
+        "phone": "01223362525",
+        "postcode": "cb58aq",
+        "pricerange": "expensive",
+        "type": "restaurant"
+    },
+    {
+        "address": "39 Burleigh Street City Centre",
+        "area": "centre",
+        "food": "chinese",
+        "id": "19173",
+        "introduction": "shanghai family restaurant comprises a french cafe on the lower level and a chinese restaurant upstairs",
+        "location": [
+            52.206111,
+            0.132969
+        ],
+        "name": "shanghai family restaurant",
+        "phone": "01223301761",
+        "postcode": "cb11dg",
+        "pricerange": "moderate",
+        "type": "restaurant"
+    },
+    {
+        "address": "The Little Rose 37 Trumpington Street",
+        "area": "centre",
+        "food": "seafood",
+        "id": "19223",
+        "introduction": "using the freshest seafood from the loch of the same name, loch fyne restaurants serve a variety of shellfish and smoked fish all of which are complimented by an extensive wine list. Non-seafood dishes are also available",
+        "location": [
+            52.200693,
+            0.119744
+        ],
+        "name": "loch fyne",
+        "phone": "01223362433",
+        "postcode": "cb21qy",
+        "pricerange": "expensive",
+        "type": "restaurant"
+    },
+    {
+        "address": "3 - 5 Millers Yard Mill Lane",
+        "area": "centre",
+        "food": "indian",
+        "id": "15275",
+        "introduction": "",
+        "location": [
+            52.20143,
+            0.11664
+        ],
+        "name": "mahal of cambridge",
+        "phone": "01223360409",
+        "postcode": "cb21rq",
+        "pricerange": "cheap",
+        "signature": "chicken tikka masala",
+        "type": "restaurant"
+    },
+    {
+        "address": "Jesus Lane Fen Ditton",
+        "area": "centre",
+        "food": "italian",
+        "id": "19269",
+        "introduction": "the simple menu and kitchen concept at pizza express has retained its freshly made ideal, and you can still watch your pizza being prepared for you. This branch has live jazz music",
+        "location": [
+            52.208252,
+            0.119957
+        ],
+        "name": "pizza express Fen Ditton",
+        "phone": "01223324033",
+        "postcode": "cb58ba",
+        "pricerange": "moderate",
+        "type": "restaurant"
+    },
+    {
+        "address": "35 Newnham Road Newnham",
+        "area": "west",
+        "food": "thai",
+        "id": "19256",
+        "introduction": "sala thong serves a variety of thai dishes at their restaurant catering for private parties of up to 40 guests is available upon request",
+        "location": [
+            52.199012,
+            0.113196
+        ],
+        "name": "sala thong",
+        "phone": "01223323178",
+        "postcode": "cb39ey",
+        "pricerange": "expensive",
+        "type": "restaurant"
+    },
+    {
+        "address": "Cambridge City Football Club Milton Road Chesterton",
+        "area": "north",
+        "id": "19262",
+        "introduction": "located in cambridge city football club, city stop restaurant serve a variety of english and italian dishes as well as offering a selection of vegetarian options catering for corporate events and private parties of up to 100 guests is available upon request.",
+        "location": [
+            52.215157,
+            0.125015
+        ],
+        "name": "city stop restaurant",
+        "phone": "01223363270",
+        "postcode": "cb41uy",
+        "pricerange": "expensive",
+        "food": "european",
+        "type": "restaurant"
+    },
+    {
+        "address": "169 High Street Chesterton Chesterton",
+        "area": "north",
+        "food": "asian oriental",
+        "id": "19261",
+        "introduction": "saigon city serve vietnamese chinese and thai cuisine to eat in or take away",
+        "location": [
+            52.218164,
+            0.143209
+        ],
+        "name": "saigon city",
+        "phone": "01223356555",
+        "postcode": "cb41nl",
+        "pricerange": "expensive",
+        "type": "restaurant"
+    },
+    {
+        "address": "10 Homerton Street City Centre",
+        "area": "south",
+        "food": "chinese",
+        "id": "19246",
+        "introduction": "peking resturant cook from fresh ingredients. they specialise in sichuan and hunan dishes",
+        "location": [
+            52.189484,
+            0.135465
+        ],
+        "name": "peking restaurant",
+        "phone": "01223354755",
+        "postcode": "cb28nx",
+        "pricerange": "expensive",
+        "type": "restaurant"
+    },
+    {
+        "address": "Cambridge Leisure Park Clifton Way Cherry Hinton",
+        "area": "south",
+        "food": "italian",
+        "id": "19195",
+        "introduction": "frankie and bennys has a traditional 1950s new york feel to it with its original family photographs, traditional wooden furniture and period music. They serve a wide range of authentic american and italian dishes.",
+        "location": [
+            52.190176,
+            0.13699
+        ],
+        "name": "frankie and bennys",
+        "phone": "01223412430",
+        "postcode": "cb17dy",
+        "pricerange": "expensive",
+        "type": "restaurant"
+    },
+    {
+        "address": "Hotel Felix Whitehouse Lane Huntingdon Road",
+        "area": "west",
+        "food": "british",
+        "id": "7492",
+        "introduction": "Critically acclaimed food in luxurious and stylish surroundings, overlooking the hotels lush gardens.",
+        "location": [
+            52.22414,
+            0.09194
+        ],
+        "name": "graffiti",
+        "phone": "01223277977",
+        "postcode": "cb30lx",
+        "pricerange": "expensive",
+        "signature": "panfried fillet of brill tempura of langoustine crushed garden peas shellfish basil nage",
+        "type": "restaurant"
+    },
+    {
+        "address": "31 Newnham Road Newnham",
+        "area": "west",
+        "food": "indian",
+        "id": "19254",
+        "introduction": "indian house serve a variety of indian dishes to eat in or take away they also have a selection of english dishes on their menu",
+        "location": [
+            52.199012,
+            0.113196
+        ],
+        "name": "india house",
+        "phone": "01223461661",
+        "postcode": "cb39ey",
+        "pricerange": "expensive",
+        "type": "restaurant"
+    },
+    {
+        "address": "Cambridge Lodge Hotel 139 Huntingdon Road City Centre",
+        "area": "west",
+        "food": "european",
+        "id": "19252",
+        "introduction": "located in the cambridge lodge hotel, this restaurant serves a variety of european and vegetarian dishes and can cater for private parties of up to 20 guests upon request.",
+        "location": [
+            52.217736,
+            0.102505
+        ],
+        "name": "cambridge lodge restaurant",
+        "phone": "01223355166",
+        "postcode": "cb30dq",
+        "pricerange": "expensive",
+        "type": "restaurant"
+    },
+    {
+        "address": "Grafton Hotel 619 Newmarket Road Fen Ditton",
+        "area": "east",
+        "food": "british",
+        "id": "19271",
+        "introduction": "located in the grafton hotel this restaurant serves a variety of english and vegetarian dishes from their a la carte and carvery menu. They also have a bar area",
+        "location": [
+            52.212992,
+            0.157569
+        ],
+        "name": "grafton hotel restaurant",
+        "phone": "01223241387",
+        "postcode": "cb58pa",
+        "pricerange": "expensive",
+        "type": "restaurant"
+    },
+    {
+        "address": "66 Chesterton Road Chesterton",
+        "area": "north",
+        "food": "chinese",
+        "id": "19258",
+        "introduction": "the hotpot serves a variety of chinese dishes at their restaurant and can cater for private parties of up to five five guests upon request",
+        "location": [
+            52.214531,
+            0.127298
+        ],
+        "name": "the hotpot",
+        "phone": "01223366552",
+        "postcode": "cb41ep",
+        "pricerange": "expensive",
+        "type": "restaurant"
+    },
+    {
+        "address": "Quayside Off Bridge Street",
+        "area": "centre",
+        "food": "modern european",
+        "id": "7236",
+        "introduction": "",
+        "location": [
+            52.20984,
+            0.11793
+        ],
+        "name": "the river bar steakhouse and grill",
+        "phone": "01223307030",
+        "postcode": "cb58aq",
+        "pricerange": "cheap",
+        "signature": "lobster mac and cheese",
+        "type": "restaurant"
+    },
+    {
+        "address": "54 King Street City Centre",
+        "area": "centre",
+        "food": "italian",
+        "id": "19176",
+        "introduction": "clowns cafe serve a variety of drinks as well as italian dishes such as pasta ciabatta and salads",
+        "location": [
+            52.207312,
+            0.124201
+        ],
+        "name": "clowns cafe",
+        "phone": "01223355711",
+        "postcode": "cb11ln",
+        "pricerange": "expensive",
+        "type": "restaurant"
+    },
+    {
+        "address": "30 Bridge Street City Centre",
+        "area": "centre",
+        "food": "turkish",
+        "id": "19232",
+        "introduction": "anatolia is a basement restaurant that serves a variety of turkish and vegetarian dishes and cater for private parties of up to 80 guests upon request",
+        "location": [
+            52.209632,
+            0.117213
+        ],
+        "name": "anatolia",
+        "phone": "01223362372",
+        "postcode": "cb21uj",
+        "pricerange": "moderate",
+        "type": "restaurant"
+    },
+    {
+        "address": "8 Norfolk Street City Centre",
+        "area": "centre",
+        "food": "indian",
+        "id": "19187",
+        "location": [
+            52.204609,
+            0.137976
+        ],
+        "name": "panahar",
+        "phone": "01223355012",
+        "postcode": "cb12lf",
+        "pricerange": "expensive",
+        "type": "restaurant"
+    },
+    {
+        "address": "Napier Street City Centre",
+        "area": "centre",
+        "food": "chinese",
+        "id": "19174",
+        "introduction": "tang chinese is a buffet restaurant and bar serving a variety of dishes for lunch and dinner there is also a takeaway menu available",
+        "location": [
+            52.207702,
+            0.133982
+        ],
+        "name": "tang chinese",
+        "phone": "01223357187",
+        "postcode": "cb11hr",
+        "pricerange": "expensive",
+        "type": "restaurant"
+    },
+    {
+        "address": "34 - 35 Green Street",
+        "area": "centre",
+        "food": "gastropub",
+        "id": "12482",
+        "introduction": "slug lettuce is a premium high street bar that serves a wide range of restaurant quality food to suit all occasions and appetites.",
+        "location": [
+            52.20683,
+            0.1192
+        ],
+        "name": "the slug and lettuce",
+        "postcode": "cb23ju",
+        "pricerange": "expensive",
+        "type": "restaurant"
+    },
+    {
+        "address": "5 Jordans Yard Bridge Street City Centre",
+        "area": "centre",
+        "food": "indian",
+        "id": "19231",
+        "introduction": "curry king serve a variety of indian dishes to eat in or take away catering for private parties of up to 40 guests is available upon request",
+        "location": [
+            52.209003,
+            0.118661
+        ],
+        "name": "curry king",
+        "phone": "01223324351",
+        "postcode": "cb21ug",
+        "pricerange": "expensive",
+        "type": "restaurant"
+    },
+    {
+        "address": "Huntingdon Road City Centre",
+        "area": "west",
+        "food": "british",
+        "id": "19251",
+        "introduction": "",
+        "location": [
+            52.214201,
+            0.108588
+        ],
+        "name": "travellers rest",
+        "phone": "01223276182",
+        "postcode": "cb30df",
+        "pricerange": "expensive",
+        "type": "restaurant"
+    },
+    {
+        "address": "106 Mill Road City Centre",
+        "area": "centre",
+        "food": "indian",
+        "id": "19184",
+        "introduction": "curry queen is the most popular indian restaurant in cambridge serving good indian cuisine including all the usual dishes",
+        "location": [
+            52.199332,
+            0.138395
+        ],
+        "name": "curry queen",
+        "phone": "01223351027",
+        "postcode": "cb12bd",
+        "pricerange": "expensive",
+        "type": "restaurant"
+    },
+    {
+        "address": "290 Mill Road City Centre",
+        "area": "east",
+        "food": "gastropub",
+        "id": "19190",
+        "location": [
+            52.196967,
+            0.149286
+        ],
+        "name": "royal standard",
+        "phone": "01223247877",
+        "postcode": "cb13nl",
+        "pricerange": "expensive",
+        "type": "restaurant"
+    },
+    {
+        "address": "7 Barnwell Road Fen Ditton",
+        "area": "east",
+        "food": "indian",
+        "id": "19274",
+        "introduction": "rajmahal serves traditional indian cuisine accomapnied by a broad wine list with beers and spirits also available",
+        "location": [
+            52.211144,
+            0.163247
+        ],
+        "name": "rajmahal",
+        "phone": "01223244955",
+        "postcode": "cb58rg",
+        "pricerange": "moderate",
+        "type": "restaurant"
+    },
+    {
+        "address": "21 Burleigh Street City Centre",
+        "area": "centre",
+        "food": "chinese",
+        "id": "19172",
+        "location": [
+            52.206111,
+            0.132969
+        ],
+        "name": "hk fusion",
+        "phone": "01223355909",
+        "postcode": "cb11dg",
+        "pricerange": "expensive",
+        "type": "restaurant"
+    },
+    {
+        "address": "King Street City Centre",
+        "area": "centre",
+        "food": "turkish",
+        "id": "19178",
+        "introduction": "efes restaurant serve a variety of turkish dishes including kebabs in truly authentic surroundings.",
+        "location": [
+            52.207312,
+            0.124201
+        ],
+        "name": "efes restaurant",
+        "phone": "01223500005",
+        "postcode": "cb11ln",
+        "pricerange": "moderate",
+        "type": "restaurant"
+    },
+    {
+        "address": "Regent Street City Centre",
+        "area": "centre",
+        "food": "north american",
+        "id": "19209",
+        "introduction": "gourmet burger kitchen has a trendy interior and, although a bit more expensive than the average high street burger joint, the delicious burgers and other dishes are huge and freshly prepared with large side orders to match. Catering for vegetarians is provided",
+        "location": [
+            52.20103,
+            0.126023
+        ],
+        "name": "gourmet burger kitchen",
+        "phone": "01223312598",
+        "postcode": "cb21ab",
+        "pricerange": "expensive",
+        "type": "restaurant"
+    },
+    {
+        "address": "12 Market Hill City Centre",
+        "area": "centre",
+        "food": "italian",
+        "id": "19239",
+        "introduction": "don pasquale pizzeria serves an extensive range of pizzas and italian dishes including pasta as well as a selection of beverages. Catering for private parties of up to 80 guests is available upon request",
+        "location": [
+            52.205442,
+            0.119706
+        ],
+        "name": "don pasquale pizzeria",
+        "phone": "01223350106",
+        "postcode": "cb23nj",
+        "pricerange": "expensive",
+        "type": "restaurant"
+    },
+    {
+        "address": "1 Kings Parade",
+        "area": "centre",
+        "food": "british",
+        "id": "6941",
+        "introduction": "",
+        "location": [
+            52.20439,
+            0.11784
+        ],
+        "name": "the cambridge chop house",
+        "phone": "01223359506",
+        "postcode": "cb21sj",
+        "pricerange": "expensive",
+        "signature": "lamb barnsley chop potato and garlic bake greens and gravy",
+        "type": "restaurant"
+    },
+    {
+        "address": "52 Mill Road City Centre",
+        "area": "centre",
+        "food": "asian oriental",
+        "id": "19181",
+        "introduction": "kymmoy is a noodle bar serving a wide variety of chinese thai cuisine for lunch and dinner",
+        "location": [
+            52.200422,
+            0.135784
+        ],
+        "name": "kymmoy",
+        "phone": "01223311911",
+        "postcode": "cb12as",
+        "pricerange": "expensive",
+        "type": "restaurant"
+    },
+    {
+        "address": "43 High Street Cherry Hinton Cherry Hinton",
+        "area": "east",
+        "food": "indian",
+        "id": "19198",
+        "location": [
+            52.186739,
+            0.173048
+        ],
+        "name": "sitar tandoori",
+        "phone": "01223249955",
+        "postcode": "cb19hx",
+        "pricerange": "expensive",
+        "type": "restaurant"
+    },
+    {
+        "address": "84 Regent Street City Centre",
+        "area": "centre",
+        "food": "mediterranean",
+        "id": "19217",
+        "introduction": "shiraz serves traditional mediterranean cuisine accompanied by an extensive wine list with beers and spirits also available",
+        "location": [
+            52.200187,
+            0.126407
+        ],
+        "name": "shiraz restaurant",
+        "phone": "01223307581",
+        "postcode": "cb21dp",
+        "pricerange": "expensive",
+        "type": "restaurant"
+    },
+    {
+        "address": "Midsummer Common",
+        "area": "centre",
+        "food": "british",
+        "id": "508",
+        "introduction": "",
+        "location": [
+            52.21251,
+            0.12774
+        ],
+        "name": "midsummer house restaurant",
+        "phone": "01223369299",
+        "postcode": "cb41ha",
+        "pricerange": "expensive",
+        "signature": "seared scallops with truffle apple and celeriac",
+        "type": "restaurant"
+    },
+    {
+        "address": "Bridge Street City Centre",
+        "area": "centre",
+        "food": "french",
+        "id": "19230",
+        "introduction": "cote is a modern french bistro offering some of the classic and simple favourites of french cuisine",
+        "location": [
+            52.209028,
+            0.118296
+        ],
+        "name": "cote",
+        "phone": "01223311053",
+        "postcode": "cb21uf",
+        "pricerange": "expensive",
+        "type": "restaurant"
+    },
+    {
+        "address": "32 Bridge Street City Centre",
+        "area": "centre",
+        "food": "italian",
+        "id": "19234",
+        "introduction": "caffe uno is a chain of cafe style restaurants that offer a wide selection of meals and snacks to suit any time of the day including an extensive breakfast menu and choice of hot or cold drinks",
+        "location": [
+            52.209632,
+            0.117213
+        ],
+        "name": "caffe uno",
+        "phone": "01223448620",
+        "postcode": "cb21uj",
+        "pricerange": "expensive",
+        "type": "restaurant"
+    },
+    {
+        "address": "17 Hills Road City Centre",
+        "area": "centre",
+        "food": "chinese",
+        "id": "19222",
+        "introduction": "sesame restaurant and bar offers a wide variety of traditional chinese cuisine for lunch or dinner with wifi access and a television screen in the basement",
+        "location": [
+            52.197154,
+            0.129511
+        ],
+        "name": "sesame restaurant and bar",
+        "phone": "01223358899",
+        "postcode": "cb21nw",
+        "pricerange": "expensive",
+        "type": "restaurant"
+    },
+    {
+        "address": "24 Green Street City Centre",
+        "area": "centre",
+        "food": "thai",
+        "id": "19236",
+        "introduction": "bangkok city serve a variety of authentic dishes to eat in or take away",
+        "location": [
+            52.206504,
+            0.119157
+        ],
+        "name": "bangkok city",
+        "phone": "01223354382",
+        "postcode": "cb23jx",
+        "pricerange": "expensive",
+        "type": "restaurant"
+    }
 ]

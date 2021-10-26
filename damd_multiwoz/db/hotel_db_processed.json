@@ -1,749 +1,749 @@
 [
   {
     "location": [
-      105.8497019,
-      21.040512
+      52.1963733,
+      0.1987426
     ],
     "price": {
       "double": "70",
       "family": "90",
       "single": "50"
     },
-    "address": "hàng đậu 1 , quận hoàn kiếm",
-    "area": "hoàn kiếm",
+    "address": "124 tenison road",
+    "area": "east",
     "internet": "yes",
     "parking": "no",
     "id": "0",
-    "name": "homy stay",
+    "name": "a and b guest house",
     "phone": "01223315702",
     "postcode": "cb12dp",
-    "pricerange": "vừa phải",
+    "pricerange": "moderate",
     "stars": "4",
     "takesbookings": "yes",
-    "type": ""
+    "type": "guest house"
   },
   {
     "location": [
-      105.8293743,
-      21.0629248
+      52.2157138888889,
+      0.133519444444444
     ],
     "price": {
       "double": "75",
       "family": "105",
       "single": "50"
     },
-    "address": "xuân diệu , tây hồ 114 , quận tây hồ",
-    "area": "tây hồ",
+    "address": "154 chesterton road",
+    "area": "north",
     "internet": "yes",
     "parking": "yes",
     "id": "1",
-    "name": "tài tâm",
+    "name": "acorn guest house",
     "phone": "01223353888",
     "postcode": "cb41da",
-    "pricerange": "vừa phải",
+    "pricerange": "moderate",
     "stars": "4",
     "takesbookings": "yes",
-    "type": ""
+    "type": "guest house"
   },
   {
     "location": [
-      105.8471274,
-      21.042426
+      52.1986444444444,
+      0.138133333333333
     ],
     "price": {
       "double": "50",
       "single": "40"
     },
-    "address": "12 hàng than , quận ba đình",
-    "area": "ba đình",
+    "address": "56 saint barnabas road",
+    "area": "centre",
     "internet": "yes",
     "parking": "yes",
     "id": "2",
-    "name": "lotus homestay hanoi",
+    "name": "alexander bed and breakfast",
     "phone": "01223525725",
     "postcode": "cb12de",
-    "pricerange": "rẻ",
+    "pricerange": "cheap",
     "stars": "4",
     "takesbookings": "yes",
-    "type": ""
+    "type": "guest house"
   },
   {
     "location": [
-      105.847794945507,
-      21.023978614734
+      52.1963733,
+      0.1987426
     ],
     "price": {
       "double": "60",
       "family": "90",
       "single": "35"
     },
-    "address": "76 thợ nhuộm 3 , quận hoàn kiếm",
-    "area": "hoàn kiếm",
+    "address": "517a coldham lane",
+    "area": "east",
     "internet": "yes",
     "parking": "yes",
     "id": "3",
-    "name": "ahomy hoàn kiếm",
+    "name": "allenbell",
     "phone": "01223210353",
     "postcode": "cb13js",
-    "pricerange": "rẻ",
+    "pricerange": "cheap",
     "stars": "4",
     "n": "yes",
-    "type": ""
+    "type": "guest house"
   },
   {
     "location": [
-      105.8363223,
-      21.0542804
+      52.2173388888889,
+      0.127638888888889
     ],
     "price": {
       "double": "80",
       "single": "45"
     },
-    "address": "141 phố yên phụ , quận tây hồ",
-    "area": "tây hồ",
+    "address": "63 milton road",
+    "area": "north",
     "internet": "no",
     "parking": "no",
     "id": "4",
-    "name": "rad apartment",
+    "name": "alpha - milton guest house",
     "phone": "01223311625",
     "postcode": "cb41xa",
-    "pricerange": "vừa phải",
+    "pricerange": "moderate",
     "stars": "3",
     "takesbookings": "yes",
-    "type": ""
+    "type": "guest house"
   },
   {
     "location": [
-      105.820130109787,
-      21.0671507879327
+      52.2309912,
+      0.1295545
     ],
     "price": {
       "double": "75",
       "family": "100",
       "single": "50"
     },
-    "address": "96 to ngoc van street , quang an , quận tây hồ",
-    "area": "tây hồ",
+    "address": "82 arbury road",
+    "area": "north",
     "internet": "yes",
     "parking": "yes",
     "id": "5",
-    "name": "diamond westlake suites   and   sedona suites",
+    "name": "arbury lodge guest house",
     "phone": "01223364319",
     "postcode": "cb42je",
-    "pricerange": "vừa phải",
+    "pricerange": "moderate",
     "stars": "4",
     "takesbookings": "yes",
-    "type": ""
+    "type": "guest house"
   },
   {
     "location": [
-      105.8099698,
-      21.051664
+      52.2309912,
+      0.1295545
     ],
     "price": {
       "double": "70",
       "single": "40"
     },
-    "address": "8 võng thị , quận tây hồ",
-    "area": "tây hồ",
+    "address": "52 gilbert road",
+    "area": "north",
     "internet": "yes",
     "parking": "yes",
     "id": "6",
-    "name": "22housing apartment 8 vong thi",
+    "name": "archway house",
     "phone": "01223575314",
     "postcode": "cb43pe",
-    "pricerange": "vừa phải",
+    "pricerange": "moderate",
     "stars": "4",
     "takesbookings": "yes",
-    "type": ""
+    "type": "guest house"
   },
   {
     "location": [
-      105.831915736198,
-      21.0589910137589
+      52.2309912,
+      0.1295545
     ],
     "price": {
       "double": "75",
       "family": "85"
     },
-    "address": "5 tu hoa street , tay ho district , quận tây hồ",
-    "area": "tây hồ",
+    "address": "74 chesterton road",
+    "area": "north",
     "internet": "yes",
     "parking": "yes",
     "id": "7",
-    "name": "intercontinental hanoi westlake",
+    "name": "ashley hotel",
     "phone": "01223350059",
     "postcode": "cb41er",
-    "pricerange": "vừa phải",
+    "pricerange": "moderate",
     "stars": "2",
     "takesbookings": "yes",
     "type": "hotel"
   },
   {
     "location": [
-      105.846457,
-      21.029861
+      52.2176534,
+      0.1747439
     ],
     "price": {
       "double": "60",
       "family": "90",
       "single": "40"
     },
-    "address": "99 hàng bông 99 hang bong , hàng bông , hoàn kiếm , hanoi , vietnam , quận hoàn kiếm",
-    "area": "hoàn kiếm",
+    "address": "710 newmarket road",
+    "area": "east",
     "internet": "yes",
     "parking": "yes",
     "id": "8",
-    "name": "mayhouse",
+    "name": "autumn house",
     "phone": "01223575122",
     "postcode": "cb58rs",
-    "pricerange": "rẻ",
+    "pricerange": "cheap",
     "stars": "4",
     "takesbookings": "yes",
-    "type": ""
+    "type": "guest house"
   },
   {
     "location": [
-      105.808950662613,
-      21.0609333809579
+      52.2309912,
+      0.1295545
     ],
     "price": {
       "double": "65",
       "single": "45"
     },
-    "address": "491 - 493 lac long quan street , quận tây hồ",
-    "area": "tây hồ",
+    "address": "62 gilbert road",
+    "area": "north",
     "internet": "yes",
     "parking": "no",
     "id": "9",
-    "name": "sunset westlake hanoi",
+    "name": "avalon",
     "phone": "01223353071",
     "postcode": "cb43pd",
-    "pricerange": "vừa phải",
+    "pricerange": "moderate",
     "stars": "4",
     "takesbookings": "yes",
-    "type": ""
+    "type": "guest house"
   },
   {
     "location": [
-      105.8395344,
-      21.0242033
+      52.1815361111111,
+      0.150375
     ],
     "price": {
       "double": "75",
       "family": "95",
       "single": "65"
     },
-    "address": "28 tran quy cap , van mieu , dong da district , hanoi , quận đống đa",
-    "area": "đống đa",
+    "address": "5 mowbray road",
+    "area": "south",
     "internet": "yes",
     "parking": "yes",
     "id": "10",
-    "name": "a25 28 trần quý cáp",
+    "name": "aylesbray lodge guest house",
     "phone": "01223240089",
     "postcode": "cb17sr",
-    "pricerange": "vừa phải",
+    "pricerange": "moderate",
     "stars": "4",
     "takesbookings": "yes",
-    "type": ""
+    "type": "guest house"
   },
   {
     "location": [
-      105.838458,
-      21.028475
+      52.1725982,
+      0.1112224
     ],
     "price": {
       "double": "75",
       "family": "90",
       "single": "50"
     },
-    "address": "phố nguyễn khuyến 104b , quận đống đa",
-    "area": "đống đa",
+    "address": "151 hills road",
+    "area": "south",
     "internet": "yes",
     "parking": "yes",
     "id": "11",
-    "name": "mix boutique",
+    "name": "bridge guest house",
     "phone": "01223247942",
     "postcode": "cb28rj",
-    "pricerange": "vừa phải",
+    "pricerange": "moderate",
     "stars": "3",
     "takesbookings": "yes",
-    "type": ""
+    "type": "guest house"
   },
   {
     "location": [
-      105.843891157117,
-      21.02815319899
+      52.1935027777778,
+      0.155355555555556
     ],
     "price": {
       "double": "75",
       "family": "100",
       "single": "45"
     },
-    "address": "236 hàng bông , quận hoàn kiếm",
-    "area": "hoàn kiếm",
+    "address": "138 perne road",
+    "area": "east",
     "internet": "yes",
     "parking": "yes",
     "id": "12",
-    "name": "columbus",
+    "name": "carolina bed and breakfast",
     "phone": "01223247015",
     "postcode": "cb13nx",
-    "pricerange": "vừa phải",
+    "pricerange": "moderate",
     "stars": "4",
     "takesbookings": "yes",
-    "type": ""
+    "type": "guest house"
   },
   {
     "location": [
-      105.827352,
-      21.065066
+      52.227589,
+      0.112288
     ],
     "price": {
       "single": "40"
     },
-    "address": "59 xuân diệu , quận tây hồ",
-    "area": "tây hồ",
+    "address": "328a histon road",
+    "area": "north",
     "internet": "yes",
     "parking": "yes",
     "id": "13",
-    "name": "highrise by westlake , luxury suites managed by cohost club",
+    "name": "city centre north bed and breakfast",
     "phone": "01223312843",
     "postcode": "cb43ht",
-    "pricerange": "rẻ",
+    "pricerange": "cheap",
     "stars": "0",
     "takesbookings": "yes",
-    "type": ""
+    "type": "guest house"
   },
   {
     "location": [
-      105.815746374428,
-      21.0321228599459
+      52.194866,
+      0.134223
     ],
     "price": {
       "double": "67",
       "family": "77",
       "single": "47"
     },
-    "address": "304 kim mã vinhomes metropolis - m3 3201 , quận ba đình",
-    "area": "ba đình",
+    "address": "sleeperz hotel , station road",
+    "area": "centre",
     "internet": "yes",
     "parking": "no",
     "id": "14",
-    "name": "vinhomes metropolis luxury apartment 2 br",
+    "name": "cityroomz",
     "phone": "01223304050",
     "postcode": "cb12tz",
-    "pricerange": "vừa phải",
+    "pricerange": "moderate",
     "stars": "0",
     "takesbookings": "yes",
     "type": "hotel"
   },
   {
     "location": [
-      105.813218057156,
-      21.0378110584198
+      52.20439812598512,
+      0.13059139251708984
     ],
     "price": {
       "double": "60",
       "family": "62",
       "single": "40"
     },
-    "address": "26b ngo 379 and 8 doi can , quận ba đình",
-    "area": "ba đình",
+    "address": "41 warkworth street",
+    "area": "centre",
     "internet": "yes",
     "parking": "yes",
     "id": "15",
-    "name": "new asean a25",
+    "name": "el shaddai",
     "phone": "01223327978",
     "postcode": "cb11eg",
-    "pricerange": "rẻ",
+    "pricerange": "cheap",
     "stars": "0",
     "takesbookings": "yes",
-    "type": ""
+    "type": "guest house"
   },
   {
     "location": [
-      105.8471272,
-      21.0220055
+      52.1956472222222,
+      0.167444444444444
     ],
     "price": {
       "double": "90",
       "family": "90",
       "single": "90"
     },
-    "address": "11 ngõ xóm hà hồi , quận hoàn kiếm",
-    "area": "hoàn kiếm",
+    "address": "15 - 17 norman way , coldhams business park",
+    "area": "east",
     "internet": "yes",
     "parking": "yes",
     "id": "16",
-    "name": "may",
+    "name": "express by holiday inn cambridge",
     "phone": "01223866800",
     "postcode": "cb13lh",
-    "pricerange": "sang trọng",
+    "pricerange": "expensive",
     "stars": "2",
     "takesbookings": "yes",
     "type": "hotel"
   },
   {
     "location": [
-      105.787145,
-      21.041037
+      52.226235,
+      0.091796
     ],
     "price": {
       "double": "50",
       "single": "50"
     },
-    "address": "số 10 , ngách 53   and   21 , ngõ 53 , phố trần quốc hoàn , phường dịch vọng hậu , quận cầu giấy , thành phố hà nội , cau giay",
-    "area": "cầu giấy",
+    "address": "144 thornton road",
+    "area": "west",
     "internet": "yes",
     "parking": "yes",
     "id": "17",
-    "name": "oyo 1046 saigon palace",
+    "name": "finches bed and breakfast",
     "phone": "01223276653",
     "postcode": "cb30nd",
-    "pricerange": "rẻ",
+    "pricerange": "cheap",
     "stars": "4",
     "takesbookings": "yes",
-    "type": ""
+    "type": "guest house"
   },
   {
     "location": [
-      105.8152529,
-      21.0317609
+      52.201275,
+      0.129935
     ],
     "price": {
       "double": "95",
       "family": "119",
       "single": "79"
     },
-    "address": "29 liễu giai , phường ngọc khánh , quận ba đình , hà nội , việt nam căn 01 tòa m2 , quận ba đình",
-    "area": "ba đình",
+    "address": "gonville place",
+    "area": "centre",
     "internet": "yes",
     "parking": "yes",
     "id": "18",
-    "name": "c & c - vinhomes metropolis",
+    "name": "gonville hotel",
     "phone": "01223366611",
     "postcode": "cb11ly",
-    "pricerange": "sang trọng",
+    "pricerange": "expensive",
     "stars": "3",
     "takesbookings": "yes",
     "type": "hotel"
   },
   {
     "location": [
-      105.8273025,
-      21.0612634
+      52.2309912,
+      0.1295545
     ],
     "price": {
       "double": "73",
       "family": "85",
       "single": "50"
     },
-    "address": "50 ngõ 31 - xuân diệu , quận tây hồ",
-    "area": "tây hồ",
+    "address": "156 chesterton road",
+    "area": "north",
     "internet": "yes",
     "parking": "yes",
     "id": "19",
-    "name": "[ happinest ] center west lake apartment",
+    "name": "hamilton lodge",
     "phone": "01223365664",
     "postcode": "cb41da",
-    "pricerange": "vừa phải",
+    "pricerange": "moderate",
     "stars": "3",
     "takesbookings": "yes",
-    "type": ""
+    "type": "guest house"
   },
   {
     "location": [
-      105.801247100525,
-      21.0128774068893
+      52.2283801,
+      0.0782873
     ],
     "price": {
       "double": "75",
       "family": "110",
       "single": "59"
     },
-    "address": "số 8 ngõ 48 trần duy hưng quận cầu giấy , cau giay",
-    "area": "cầu giấy",
+    "address": "96 barton road",
+    "area": "west",
     "internet": "yes",
     "parking": "yes",
     "id": "20",
-    "name": "le grand hanoi",
+    "name": "hobsons house",
     "phone": "01223304906",
     "postcode": "cb39lh",
-    "pricerange": "vừa phải",
+    "pricerange": "moderate",
     "stars": "3",
     "takesbookings": "yes",
-    "type": ""
+    "type": "guest house"
   },
   {
     "location": [
-      105.828553,
-      21.065981
+      52.2309912,
+      0.1295545
     ],
     "price": {
       "double": "75",
       "family": "105",
       "single": "50"
     },
-    "address": "228 âu cơ no 230a , quận tây hồ",
-    "area": "tây hồ",
+    "address": "78 - 80 milton road",
+    "area": "north",
     "internet": "yes",
     "parking": "yes",
     "id": "21",
-    "name": "pegasy apartment westlake",
+    "name": "home from home",
     "phone": "01223323555",
     "postcode": "cb41la",
-    "pricerange": "vừa phải",
+    "pricerange": "moderate",
     "stars": "4",
     "takesbookings": "yes",
-    "type": ""
+    "type": "guest house"
   },
   {
     "location": [
-      105.787636,
-      21.033134
+      52.3386166666667,
+      -0.210897222222222
     ],
     "price": {
       "double": "145",
       "family": "145",
       "single": "125"
     },
-    "address": "số 02 and 25 dịch vọng hậu , p dịch vọng , q . cầu giấy , hà nội , cau giay",
-    "area": "cầu giấy",
+    "address": "kingfisher way , hinchinbrook business park , huntingdon",
+    "area": "west",
     "internet": "yes",
     "parking": "yes",
     "id": "22",
-    "name": "a25 66 trần thái tông",
+    "name": "huntingdon marriott hotel",
     "phone": "01480446000",
     "postcode": "pe296fl",
-    "pricerange": "sang trọng",
+    "pricerange": "expensive",
     "stars": "4",
     "takesbookings": "yes",
     "type": "hotel"
   },
   {
     "location": [
-      105.825638,
-      21.062578
+      52.2157138888889,
+      0.133519444444444
     ],
     "price": {
       "double": "75",
       "family": "130",
       "single": "50"
     },
-    "address": "no 17 , lane 35 dang thai mai street , quang an ward , tay ho district , quận tây hồ",
-    "area": "tây hồ",
+    "address": "172 chesterton road",
+    "area": "north",
     "internet": "yes",
     "parking": "yes",
     "id": "23",
-    "name": "oakwood residence hanoi",
+    "name": "kirkwood house",
     "phone": "01223306283",
     "postcode": "cb41da",
-    "pricerange": "vừa phải",
+    "pricerange": "moderate",
     "stars": "4",
     "takesbookings": "yes",
-    "type": ""
+    "type": "guest house"
   },
   {
     "location": [
-      105.850174,
-      21.031378
+      52.2176534,
+      0.1747439
     ],
     "price": {
       "double": "60",
       "family": "90",
       "single": "40"
     },
-    "address": "34 hàng hành - hoàn kiếm - hà nội , quận hoàn kiếm",
-    "area": "hoàn kiếm",
+    "address": "732 - 734 newmarket road",
+    "area": "east",
     "internet": "yes",
     "parking": "yes",
     "id": "24",
-    "name": "win guest house",
+    "name": "leverton house",
     "phone": "01223292094",
     "postcode": "cb58rs",
-    "pricerange": "rẻ",
+    "pricerange": "cheap",
     "stars": "4",
     "takesbookings": "yes",
-    "type": ""
+    "type": "guest house"
   },
   {
     "location": [
-      105.810249,
-      21.052533
+      52.2309912,
+      0.1295545
     ],
     "price": {
       "double": "75",
       "single": "40"
     },
-    "address": "no 9 , alley 27 , vong thi street , quận tây hồ",
-    "area": "tây hồ",
+    "address": "78 - 80 milton road",
+    "area": "north",
     "internet": "yes",
     "parking": "yes",
     "id": "25",
-    "name": "lily homestay võng thị",
+    "name": "limehouse",
     "phone": "01223300552",
     "postcode": "cb42je",
-    "pricerange": "vừa phải",
+    "pricerange": "moderate",
     "stars": "4",
     "takesbookings": "yes",
-    "type": ""
+    "type": "guest house"
   },
   {
     "location": [
-      105.825288948032,
-      21.065298472026
+      52.2309912,
+      0.1295545
     ],
     "price": {
       "double": "65",
       "family": "70",
       "single": "50"
     },
-    "address": "no . 2b , 25 lane , tay ho street hanoi home 3 apartment , quận tây hồ",
-    "area": "tây hồ",
+    "address": "365 milton road",
+    "area": "north",
     "internet": "yes",
     "parking": "yes",
     "id": "26",
-    "name": "hanoi home 3",
+    "name": "lovell lodge",
     "phone": "01223425478",
     "postcode": "cb41sr",
-    "pricerange": "vừa phải",
+    "pricerange": "moderate",
     "stars": "2",
     "takesbookings": "yes",
     "type": "hotel"
   },
   {
     "location": [
-      105.8384442,
-      21.0120021
+      52.1725982,
+      0.1112224
     ],
     "price": {
       "single": "25"
     },
-    "address": "1b , group 49 , alley 198 , xa dan street , phuong lien ward , dong da district , quận đống đa",
-    "area": "đống đa",
+    "address": "53 roseford road",
+    "area": "south",
     "internet": "yes",
     "parking": "yes",
     "id": "27",
-    "name": "chez tram homestay",
+    "name": "rosa 's bed and breakfast",
     "phone": "01223512596",
     "postcode": "cb22 ha",
-    "pricerange": "rẻ",
+    "pricerange": "cheap",
     "stars": "4",
     "takesbookings": "yes",
-    "type": ""
+    "type": "guest house"
   },
   {
     "location": [
-      105.799028562921,
-      21.031823922815
+      52.2213805555556,
+      -0.0680333333333333
     ],
     "price": {
       "double": "60",
       "single": "60"
     },
-    "address": "139 đường cầu giấy ctm complex building , cau giay",
-    "area": "cầu giấy",
+    "address": "back lane , cambourne",
+    "area": "west",
     "internet": "yes",
     "parking": "yes",
     "id": "28",
-    "name": "căn hộ cầu giấy canvas",
+    "name": "the cambridge belfry",
     "phone": "01954714600",
     "postcode": "cb236bw",
-    "pricerange": "rẻ",
+    "pricerange": "cheap",
     "stars": "4",
     "takesbookings": "yes",
     "type": "hotel"
   },
   {
     "location": [
-      105.8218673,
-      21.0162826
+      52.1725982,
+      0.1112224
     ],
     "price": {
       "double": "90",
       "family": "125",
       "single": "65"
     },
-    "address": "28 hoàng cầu , quận đống đa",
-    "area": "đống đa",
+    "address": "53 - 57 lensfield road",
+    "area": "south",
     "internet": "yes",
     "parking": "yes",
     "id": "29",
-    "name": "corona hanoi house",
+    "name": "the lensfield hotel",
     "phone": "01223355017",
     "postcode": "cb21en",
-    "pricerange": "sang trọng",
+    "pricerange": "expensive",
     "stars": "3",
     "takesbookings": "yes",
     "type": "hotel"
   },
   {
     "location": [
-      105.8140835,
-      21.0320552
+      52.19942,
+      0.12722
     ],
     "price": {
       "double": "124",
       "family": "144",
       "single": "104"
     },
-    "address": "29 liễu giai , quận ba đình",
-    "area": "ba đình",
+    "address": "regent street",
+    "area": "centre",
     "internet": "yes",
     "parking": "yes",
     "id": "30",
-    "name": "vinhome metropolis 1br modern apartment",
+    "name": "university arms hotel",
     "phone": "01223351241",
     "postcode": "cb21ad",
-    "pricerange": "sang trọng",
+    "pricerange": "expensive",
     "stars": "4",
     "takesbookings": "yes",
     "type": "hotel"
   },
   {
     "location": [
-      105.845979,
-      21.027963
+      52.1963733,
+      0.1987426
     ],
     "price": {
       "double": "75",
       "family": "95",
       "single": "55"
     },
-    "address": "50 quán sứ 11000 , quận hoàn kiếm",
-    "area": "hoàn kiếm",
+    "address": "warkworth terrace",
+    "area": "east",
     "internet": "yes",
     "parking": "yes",
     "id": "31",
-    "name": "lotushomestay hanoi",
+    "name": "warkworth house",
     "phone": "01223363682",
     "postcode": "cb11ee",
-    "pricerange": "vừa phải",
+    "pricerange": "moderate",
     "stars": "4",
     "takesbookings": "yes",
-    "type": ""
+    "type": "guest house"
   },
   {
     "location": [
-      105.8125067,
-      21.0527194
+      52.2309912,
+      0.1295545
     ],
     "price": {
       "double": "60",
       "family": "85",
       "single": "49"
     },
-    "address": "185 trích sài , quận tây hồ",
-    "area": "tây hồ",
+    "address": "152 chesterton road",
+    "area": "north",
     "internet": "yes",
     "parking": "yes",
     "id": "32",
-    "name": "moon west lake",
+    "name": "worth house",
     "phone": "01223316074",
     "postcode": "cb41da",
-    "pricerange": "rẻ",
+    "pricerange": "cheap",
     "stars": "4",
     "takesbookings": "yes",
-    "type": ""
+    "type": "guest house"
   }
 ]

@@ -1,1774 +1,1761 @@
 [
   {
     "location": [
-      21.018532,
-      105.816526
+      52.20103,
+      0.126023
     ],
-    "address": "số 6 , ngõ 71 láng hạ , p . thành công , q . ba đình",
-    "area": "",
-    "food": "lẩu",
+    "address": "regent street city centre",
+    "area": "centre",
+    "food": "italian",
     "id": "19210",
-    "introduction": "hương vị ẩm thực đường phố hồng kông ngay giữa lòng hà nội",
-    "name": "yixin",
+    "introduction": "pizza hut is a large chain with restaurants nationwide offering convenience pizzas pasta and salads to eat in or take away",
+    "name": "pizza hut city centre",
     "phone": "01223323737",
     "postcode": "cb21ab",
-    "pricerange": "rẻ",
-    "type": "nhà hàng"
+    "pricerange": "cheap",
+    "type": "restaurant"
   },
   {
     "location": [
-      21.033791,
-      105.847497
+      52.21768,
+      0.224907
     ],
-    "address": "số 20 bát đàn , p . hàng bồ , q . hoàn kiếm",
-    "area": "",
-    "food": "hải sản",
+    "address": "finders corner newmarket road",
+    "area": "east",
+    "food": "international",
     "id": "30650",
-    "introduction": "chuyên phục vụ các món hải sản được nhập từ vân đồn tươi ngon , sạch sẽ và hấp dẫn , đảm bảo chất lượng với giá phải chăng .",
-    "name": "ẩm thực hoàng",
+    "introduction": "",
+    "name": "the missing sock",
     "phone": "01223812660",
     "postcode": "cb259aq",
-    "pricerange": "rẻ",
+    "pricerange": "cheap",
     "signature": "african babooti",
-    "type": "nhà hàng"
+    "type": "restaurant"
   },
   {
     "location": [
-      21.029528,
-      105.812953
+      52.200187,
+      0.126407
     ],
-    "address": "62 , ngọc hà",
-    "area": "",
-    "food": "đặc sản",
+    "address": "106 regent street city centre",
+    "area": "centre",
+    "food": "indian",
     "id": "19214",
-    "introduction": "- nguyên liệu sạch có chứng nhận đầy đủ về vs attp , dù nằm ở mức giá hơi đắt so với các hàng cơm bình dân khác nhưng quán có đa dạng các món ngon .",
-    "name": "quán cơm phở bình dân hằng",
+    "introduction": "curry garden serves traditional indian and bangladeshi cuisine cooked with fresh produce delivered every day",
+    "name": "curry garden",
     "phone": "01223302330",
     "postcode": "cb21dp",
-    "pricerange": "sang trọng",
-    "type": "nhà hàng"
+    "pricerange": "expensive",
+    "type": "restaurant"
   },
   {
     "location": [
-      21.018184,
-      105.802941
+      52.188528,
+      0.140627
     ],
-    "address": "794 đường láng , q . đống đa",
-    "area": "",
-    "food": "món việt",
+    "address": "82 cherry hinton road cherry hinton",
+    "area": "south",
+    "food": "chinese",
     "id": "19192",
-    "name": "hải sản biển đông",
+    "name": "the good luck chinese food takeaway",
     "phone": "01223244149",
     "postcode": "cb17ag",
-    "pricerange": "sang trọng",
-    "type": "nhà hàng",
-    "introduction": "trước đây là nhà hàng hải sản gió biển"
+    "pricerange": "expensive",
+    "type": "restaurant"
   },
   {
     "location": [
-      21.015599,
-      105.816892
+      52.190176,
+      0.13699
     ],
-    "address": "số 330 thái hà , p . láng hạ , q . đống đa",
-    "area": "",
-    "food": "lẩu",
+    "address": "g4 cambridge leisure park clifton way cherry hinton",
+    "area": "south",
+    "food": "italian",
     "id": "19196",
-    "introduction": "- nhà hàng bếp thái koh yam là sự kế thừa của thương hiệu koh samui , mang đến cho thực khách hà thành cơ hội khám phá gần 100 món ăn đặc trưng của thái lan .",
-    "name": "bếp thái koh yam",
+    "introduction": "pizza hut is a large chain with restaurants nationwide offering convenience pizzas pasta and salads to eat in or take away",
+    "name": "pizza hut cherry hinton",
     "phone": "01223323737",
     "postcode": "cb17dy",
-    "pricerange": "vừa phải",
-    "type": "nhà hàng"
+    "pricerange": "moderate",
+    "type": "restaurant"
   },
   {
     "location": [
-      21.017856,
-      105.812666
+      52.188747,
+      0.138941
     ],
-    "address": "ngõ 199 phố khương thượng , khương thượng",
-    "area": "",
-    "food": "đặc sản",
+    "address": "64 cherry hinton road cherry hinton",
+    "area": "south",
+    "food": "indian",
     "id": "19191",
-    "introduction": "cơm hà - quán cơm bình dân ngon không cưỡng lại được",
-    "name": "cơm hà",
+    "introduction": "taj tandoori serves a variety of indian dishes to eat in or take away catering for private parties of up to 50 guests is available upon request",
+    "name": "taj tandoori",
     "phone": "01223412299",
     "postcode": "cb17aa",
-    "pricerange": "sang trọng",
-    "type": "nhà hàng"
+    "pricerange": "expensive",
+    "type": "restaurant"
   },
   {
     "location": [
-      21.017856,
-      105.812666
+      52.18889,
+      0.13589
     ],
-    "address": "13 huỳnh thúc kháng , q . đống đa",
-    "area": "",
-    "food": "món á",
+    "address": "152 - 154 hills road",
+    "area": "south",
+    "food": "modern european",
     "id": "14731",
-    "introduction": "- nguyên liệu sạch có chứng nhận đầy đủ về vs attp và nguyên liệu nhập khẩu - các đầu bếp tại đây đều được trải qua quá trình đào tạo với đầu bếp chính người úc có kinh nghiệm hơn 15 năm trong ngành ẩm thực",
-    "name": "pepperonis",
+    "introduction": "",
+    "name": "restaurant alimentum",
     "phone": "01223413000",
     "postcode": "cb28pb",
-    "pricerange": "vừa phải",
+    "pricerange": "moderate",
     "signature": "slowroast sirloin of beef red onion celeriac and garlic",
-    "type": "nhà hàng"
+    "type": "restaurant"
   },
   {
     "location": [
-      21.022125,
-      105.847991
+      52.212992,
+      0.157569
     ],
-    "address": "75a trần hưng đạo , q . hoàn kiếm",
-    "area": "",
-    "food": "món việt",
+    "address": "529 newmarket road fen ditton",
+    "area": "east",
+    "food": "chinese",
     "id": "19273",
-    "introduction": "- nguồn nguyên liệu hải sản tươi sống được nhập và sống tại bể chứa có môi trường y như môi trường biển để đảm bảo tươi ngon tới khi lên bàn ăn- đầu bếp nhà hàng có hơn 20 năm kinh nghiệm",
-    "name": "thế giới hải sản",
+    "introduction": "yu garden serves authentic chinese cuisine",
+    "name": "yu garden",
     "phone": "01223248882",
     "postcode": "cb58pa",
-    "pricerange": "sang trọng",
-    "type": "nhà hàng"
+    "pricerange": "expensive",
+    "type": "restaurant"
   },
   {
     "location": [
-      21.02184,
-      105.818345
+      52.205442,
+      0.119706
     ],
-    "address": "11 trần phú , điện bàn",
-    "area": "",
-    "food": "lẩu",
+    "address": "market hill city centre",
+    "area": "centre",
+    "food": "italian",
     "id": "19240",
-    "name": "lẩu hải sản hằng béo",
+    "name": "stazione restaurant and coffee bar",
     "phone": "01223352607",
     "postcode": "cb23nj",
-    "pricerange": "sang trọng",
-    "type": "nhà hàng",
-    "introduction": "lẩu hải sản hằng béo số 11b trần phú , chuyên lẩu hải sản , lẩu bò , lẩu thái"
+    "pricerange": "expensive",
+    "type": "restaurant"
   },
   {
     "location": [
-      21.029434,
-      105.850312
+      52.213072,
+      0.149771
     ],
-    "address": "14 lý thường kiệt , phan chu trinh",
-    "area": "",
-    "food": "đặc sản",
+    "address": "451 newmarket road fen ditton",
+    "area": "east",
+    "food": "indian",
     "id": "19270",
-    "introduction": "một trong những tiệm cơm vỉa hè ngon nhất ở trung tâm hà nội",
-    "name": "tiệm cơm vinh thu",
+    "introduction": "curry prince is a neighbourhood indian restaurant serving authentic cuisine",
+    "name": "curry prince",
     "phone": "01223566388",
     "postcode": "cb58jj",
-    "pricerange": "vừa phải",
-    "type": "nhà hàng"
+    "pricerange": "moderate",
+    "type": "restaurant"
   },
   {
     "location": [
-      21.0309462203865,
-      105.821191889242
+      52.201743,
+      0.124843
     ],
-    "address": "số 269 kim mã , p . giảng võ , q . ba đình",
-    "area": "",
-    "food": "món việt",
+    "address": "regent street city centre",
+    "area": "centre",
+    "food": "chinese",
     "id": "19212",
-    "introduction": "nguyên liệu gà tươi mạnh hoạch chính gốc hải dương , thịt ngọt , thơm , món ăn chế biến đa dạng , hấp dẫn .",
-    "name": "vua gà tươi",
+    "introduction": "charlie chan serves a variety of popular chinese dishes at their restaurant",
+    "name": "charlie chan",
     "phone": "01223361763",
     "postcode": "cb21db",
-    "pricerange": "rẻ",
-    "type": "nhà hàng"
+    "pricerange": "cheap",
+    "type": "restaurant"
   },
   {
     "location": [
-      21.02095,
-      105.817914
+      52.203708,
+      0.119082
     ],
-    "address": "110 and d1 trần huy liệu , giảng võ",
-    "area": "",
-    "food": "món âu",
+    "address": "free school lane city centre",
+    "area": "centre",
+    "food": "european",
     "id": "19245",
-    "introduction": "emm 's french bistro chuyên phục vụ món ăn pháp , kết hợp cùng những loại rượu vang hảo hạng đến từ các quốc gia sản xuất vang nổi tiếng thế giới : pháp , ý , úc , chile ...",
-    "name": "emm 's french bistro",
+    "introduction": "eraina serves a variety of drinks and european dishes with influences from france spain italy and greece catering for vegetarians is also provided",
+    "name": "eraina",
     "phone": "01223368786",
     "postcode": "cb23rh",
-    "pricerange": "sang trọng",
-    "type": "nhà hàng"
+    "pricerange": "expensive",
+    "type": "restaurant"
   },
   {
     "location": [
-      21.018392,
-      105.811615
+      52.201743,
+      0.124843
     ],
-    "address": "12 huỳnh thúc kháng , p . thành công , q . ba đình",
-    "area": "",
-    "food": "lẩu",
+    "address": "regent street city centre",
+    "area": "centre",
+    "food": "italian",
     "id": "19213",
-    "introduction": "- chế biến theo đúng phong cách nguồn gốc của món ăn - hương vị đặc trưng phù hợp với khẩu vị người việt",
-    "name": "sentosa",
+    "introduction": "the simple menu and kitchen concept at pizza express has retained its freshly made ideal and you can still watch your pizza being prepared for you",
+    "name": "pizza express",
     "phone": "01223324033",
     "postcode": "cb21db",
-    "pricerange": "vừa phải",
-    "type": "nhà hàng"
+    "pricerange": "moderate",
+    "type": "restaurant"
   },
   {
     "location": [
-      21.026849,
-      105.823944
+      52.20103,
+      0.126023
     ],
-    "address": "102 trần huy liệu , giảng võ",
-    "area": "",
-    "food": "buffet",
+    "address": "de vere university arms regent street city centre",
+    "area": "centre",
+    "food": "british",
     "id": "19211",
-    "introduction": "buffet ăn vặt tại hà nội",
-    "name": "nhà hàng buffet quà vặt",
+    "introduction": "adjoining the de vere university arms restaurant 1 7 is located at the forefront of regent street , and provides a birds eye view to take in the hustle and bustle of the busy city . enjoy beautifully created food which is always complemented by a fine selection of wines in a truly relaxing and contemporary atmosphere",
+    "name": "restaurant 1 7",
     "phone": "01223337766",
     "postcode": "cb21ab",
-    "pricerange": "vừa phải",
-    "type": "nhà hàng"
+    "pricerange": "moderate",
+    "type": "restaurant"
   },
   {
     "location": [
-      21.043915,
-      105.838257
+      52.209028,
+      0.118296
     ],
-    "address": "số 75 ngõ 639 hoàng hoa thám , vĩnh phú",
-    "area": "",
-    "food": "lẩu",
+    "address": "12 bridge street city centre",
+    "area": "centre",
+    "food": "italian",
     "id": "19229",
-    "introduction": "thientrangfoods - bếp thiên trang cung cấp dịch vụ giao lẩu tại nhà tại hà nội",
-    "name": "bếp thiên trang",
+    "introduction": "ask is a leading name in the uk casual dining market with over 100 restaurants across the uk . ask is the perfect place to relax and enjoy mouthwatering risottos an extended range of hearty al forno dishes and all your favourite pastas pizzas and salads",
+    "name": "ask restaurant",
     "phone": "01223364917",
     "postcode": "cb21uf",
-    "pricerange": "rẻ",
-    "type": "nhà hàng"
+    "pricerange": "cheap",
+    "type": "restaurant"
   },
   {
     "location": [
-      21.024195,
-      105.81181
+      52.204453,
+      0.118693
     ],
-    "address": "số 5 nguyên hồng , p . thành công , q . ba đình , hà nội",
-    "area": "",
-    "food": "món việt",
+    "address": "11 peas hill city centre",
+    "area": "centre",
+    "food": "chinese",
     "id": "19242",
-    "introduction": "nhà hàng chuyên món việt . không gian sang trọng , lịch sự , phong cách hà nội xưa đẹp nhẹ nhàng .",
-    "name": "ngói đỏ garden",
+    "introduction": "jinling noodle bar serves a wide range of chinese and shanghai dishes reflecting many different flavours and ingredients",
+    "name": "jinling noodle bar",
     "phone": "01223566188",
     "postcode": "cb23pp",
-    "pricerange": "vừa phải",
-    "type": "nhà hàng"
+    "pricerange": "moderate",
+    "type": "restaurant"
   },
   {
     "location": [
-      21.01985,
-      105.81742
+      52.2002,
+      0.1268
     ],
-    "address": "số 31i láng hạ , p . thành công , q . ba đình",
-    "area": "",
-    "food": "món á",
+    "address": "83 regent street",
+    "area": "centre",
+    "food": "modern european",
     "id": "3697",
-    "introduction": "nhà hàng cơm gà hải nam chuyên các món ngon từ gà tươi . tất cả nguyên liệu nhà hàng sử dụng đều đảm bảo tươi sạch .",
-    "name": "cơm gà hải nam",
+    "introduction": "de luca cucina bar in the heart of cambridge is a stylish spot to enjoy food , wine , cocktails and coffee all in a vibrant atmosphere . the cocktail bar at the front is perfect for coffee and light meals in the day and cocktails in the evening . an open kitchen provides real excitement with head chef darren kiegher and his team preparing simply delicious italian food using locally sourced ingredients .",
+    "name": "de luca cucina and bar",
     "phone": "01223356666",
     "postcode": "cb21aw",
-    "pricerange": "vừa phải",
+    "pricerange": "moderate",
     "signature": "roasted barbary duck breast served with sweet potato wedges and mange tout with a red wine sauce",
-    "type": "nhà hàng"
+    "type": "restaurant"
   },
   {
     "location": [
-      21.032882,
-      105.807946
+      52.202449,
+      0.141062
     ],
-    "address": "số 48 đào tấn , q . ba đình",
-    "area": "",
-    "food": "nhật bản",
+    "address": "2 sturton street city centre",
+    "area": "centre",
+    "food": "gastropub",
     "id": "19188",
-    "introduction": "- là một trong những thương hiệu nhà hàng nhật bản đầu tiên tại hà nội với 20 năm hình thành và phát triển.- nguồn nguyên liệu đảm bảo , an toàn , đa số được nhập khẩu trực tiếp từ nhật bản",
-    "name": "sushi hokkaido sake",
+    "introduction": "the backstreet bistro is a gastropub with a separate bar area serving a couple of good real ales and a dining room serving modern european food . there is a decked area to sit out in during the summer months",
+    "name": "backstreet bistro",
     "phone": "01223306306",
     "postcode": "cb12qa",
-    "pricerange": "sang trọng",
-    "type": "nhà hàng"
+    "pricerange": "expensive",
+    "type": "restaurant"
   },
   {
     "location": [
-      21.036051,
-      105.79373
+      52.215486,
+      0.111167
     ],
-    "address": "37 trần đăng ninh , q . cầu giấy",
-    "area": "",
-    "food": "đặc sản",
+    "address": "68 histon road chesterton",
+    "area": "west",
+    "food": "indian",
     "id": "19266",
-    "introduction": "- nguyên liệu sạch có chứng nhận đầy đủ về vs attp và nguyên liệu nhập khẩu - các đầu bếp tại đây đều được trải qua quá trình đào tạo với đầu bếp chính người úc có kinh nghiệm hơn 15 năm trong ngành ẩm thực",
-    "name": "pepperonis",
+    "introduction": "tandoori palace serve a variety of indian and bangladeshi dishes and can cater for private parties of up to 110 guests upon request",
+    "name": "tandoori palace",
     "phone": "01223506055",
     "postcode": "cb43le",
-    "pricerange": "sang trọng",
-    "type": "nhà hàng"
+    "pricerange": "expensive",
+    "type": "restaurant"
   },
   {
     "location": [
-      21.028758,
-      105.826445
+      52.20025,
+      0.11659
     ],
-    "address": "123 k1 giảng võ , q . ba đình",
-    "area": "",
-    "food": "món á",
+    "address": "doubletree by hilton cambridge granta place mill lane",
+    "area": "centre",
+    "food": "modern european",
     "id": "10347",
-    "introduction": "- nguyên liệu sạch có chứng nhận đầy đủ về vs attp và nguyên liệu nhập khẩu- các đầu bếp tại đây đều được trải qua quá trình đào tạo với đầu bếp chính người úc có kinh nghiệm hơn 15 năm trong ngành ẩm thực",
-    "name": "pepperonis",
+    "introduction": "",
+    "name": "riverside brasserie",
     "phone": "01223259988",
     "postcode": "cb21rt",
-    "pricerange": "vừa phải",
-    "type": "nhà hàng"
+    "pricerange": "moderate",
+    "type": "restaurant"
   },
   {
     "location": [
-      21.030597,
-      105.819129
+      52.200422,
+      0.135784
     ],
-    "address": "số 283 kim mã , p . giảng võ , q . ba đình",
-    "area": "",
-    "food": "đặc sản",
+    "address": "74 mill road city centre",
+    "area": "centre",
+    "food": "indian",
     "id": "19180",
-    "introduction": "pizza home chuyên pizza và các món ăn mang phong cách ý .",
-    "name": "pizza home",
+    "introduction": "kohinoor serves a variety of indian and vegetarian dishes at their restaurant a takeaway and delivery service is also available",
+    "name": "kohinoor",
     "phone": "01223323639",
     "postcode": "cb12as",
-    "pricerange": "rẻ",
-    "type": "nhà hàng"
+    "pricerange": "cheap",
+    "type": "restaurant"
   },
   {
     "location": [
-      21.027327,
-      105.82777
+      52.190176,
+      0.13699
     ],
-    "address": "184 hào nam , q . đống đa ( đối diện ga tàu điện trên không )",
-    "area": "",
-    "food": "món pháp",
+    "address": "2 g cambridge leisure park cherry hinton road cherry hinton",
+    "area": "south",
+    "food": "mexican",
     "id": "19194",
-    "introduction": "- không gian cổ điển mang hơi thở châu âu , rất phù hợp với những thực khách việt ưa thích không gian cổ điển phương tây và những vị khách nước ngoài.- grill66 hào nam sẽ ` ` dẫn dắt '' vị giác của bạn đến gần hơn với ẩm thực châu âu bằng món bít tết mềm vừa phải , nước sốt ngấm đều , thơm mùi lửa và mùi thịt quyện hòa . - kết hợp cùng bít tết là các loại rượu vang đỏ chất lượng , hảo hạng không những mang lại những trải nghiệm tuyệt vời mà còn tốt cho sức khỏe .",
-    "name": "grill66 steakhouse",
+    "introduction": "chiquito is a chain of inexpensive tex mex restaurants predominantly aimed at tourists . they serve a variety of mexican and north of the border food as well as a range of cocktails",
+    "name": "chiquito restaurant bar",
     "phone": "01223400170",
     "postcode": "cb17dy",
-    "pricerange": "sang trọng",
-    "type": "nhà hàng"
+    "pricerange": "expensive",
+    "type": "restaurant"
   },
   {
     "location": [
-      21.03195,
-      105.8024
+      52.21032,
+      0.11367
     ],
-    "address": "số 35 trần kim xuyến , p . yên hòa , q . cầu giấy",
-    "area": "",
-    "food": "lẩu",
+    "address": "21 - 24 northampton road",
+    "area": "west",
+    "food": "italian",
     "id": "12700",
-    "introduction": "tất cả các món ăn của nhà hàng fenghuang đều được chế biến từ nguồn nguyên liệu tươi ngon , giàu dưỡng chất , mang đến cho thực khách trải nghiệm ẩm thực khó quên .",
-    "name": "dimsum & lẩu trung hoa",
+    "introduction": "",
+    "name": "prezzo",
     "phone": "01799521260",
     "postcode": "cb30ad",
-    "pricerange": "vừa phải",
-    "type": "nhà hàng"
+    "pricerange": "moderate",
+    "type": "restaurant"
   },
   {
     "location": [
-      21.031326,
-      105.815026
+      52.199332,
+      0.138395
     ],
-    "address": "tttm vincom center , tầng 3 , 29 liễu giai , q . ba đình",
-    "area": "",
-    "food": "món việt",
+    "address": "88 mill road city centre",
+    "area": "centre",
+    "food": "chinese",
     "id": "19185",
-    "introduction": "hệ thống nhà hàng vietstreet với nhiều chi nhánh tại hà nội & tp . hcm , là không gian hội tụ của những món ăn mang phong cách đường phố đến từ khắp 3 miền đất nước .",
-    "name": "vietstreet",
+    "introduction": "rice house serve a variety of popular chinese dishes at their restaurant",
+    "name": "rice house",
     "phone": "01223367755",
     "postcode": "cb12bd",
-    "pricerange": "rẻ",
-    "type": "nhà hàng"
+    "pricerange": "cheap",
+    "type": "restaurant"
   },
   {
     "location": [
-      21.043915,
-      105.838257
+      52.195416,
+      0.13114
     ],
-    "address": "53 giang văn minh , kim mã",
-    "area": "",
-    "food": "địa điểm nhậu",
+    "address": "59 hills road city centre",
+    "area": "centre",
+    "food": "lebanese",
     "id": "19221",
-    "name": "quán nhậu 53",
+    "name": "ali baba",
     "phone": "01462432565",
     "postcode": "cb21nt",
-    "pricerange": "vừa phải",
-    "type": "nhà hàng",
-    "introduction": "muốn tìm quán nhậu ngon ở hà nội thì đi đâu ? ? ? ghé ngay đến nhà hàng 53 giang văn minh"
+    "pricerange": "moderate",
+    "type": "restaurant"
   },
   {
     "location": [
-      21.033806,
-      105.805735
+      52.202793,
+      0.123488
     ],
-    "address": "630 la thành , giảng võ",
-    "area": "",
-    "food": "hải sản",
+    "address": "35 saint andrews street city centre",
+    "area": "centre",
+    "food": "international",
     "id": "19235",
-    "introduction": "minh thúy - hải sản tươi sống - nhà hàng - hà nội tại 52 giang văn minh , ... quán cũng khá to và rộng rãi , nằm trên đường giang văn minh khá là dễ tìm .",
-    "name": "nhà hàng hải sản minh thúy",
+    "introduction": "the varsity restaurant serves a variety of international and vegetarian dishes and can cater for private parties of up to 40 guests upon request",
+    "name": "the varsity restaurant",
     "phone": "01223356060",
     "postcode": "cb23ar",
-    "pricerange": "vừa phải",
-    "type": "nhà hàng"
+    "pricerange": "moderate",
+    "type": "restaurant"
   },
   {
     "location": [
-      21.032901,
-      105.813496
+      52.207312,
+      0.124201
     ],
-    "address": "48 liễu giai , q . ba đình",
-    "area": "",
-    "food": "món á",
+    "address": "40270 king street city centre",
+    "area": "centre",
+    "food": "modern european",
     "id": "19177",
-    "introduction": "bể chứa hải sản tươi sống cho thực khách lựa chọn",
-    "name": "hải sản phố",
+    "introduction": "darrys cookhouse and wine shop is an award winning drinking and dining restaurant and bar in the centre of cambridge",
+    "name": "darrys cookhouse and wine shop",
     "phone": "01223505015",
     "postcode": "cb11ln",
-    "pricerange": "sang trọng",
-    "type": "nhà hàng"
+    "pricerange": "expensive",
+    "type": "restaurant"
   },
   {
     "location": [
-      21.028758,
-      105.826445
+      52.199289,
+      0.13974
     ],
-    "address": "375 , đội cấn , phường liễu giai",
-    "area": "",
-    "food": "đặc sản",
+    "address": "mill road city centre",
+    "area": "centre",
+    "food": "indian",
     "id": "19182",
-    "introduction": "thực đơn của quán rất phong phú với đa dạng các món ăn quen thuộc như trứng rán , rau xào , củ cải kho , cá kho",
-    "name": "quán cơm bình dân trung linh",
+    "introduction": "the golden curry serves a variety of authentic indian dishes at their fully licensed restaurant",
+    "name": "the golden curry",
     "phone": "01223329432",
     "postcode": "cb12az",
-    "pricerange": "sang trọng",
-    "type": "nhà hàng"
+    "pricerange": "expensive",
+    "type": "restaurant"
   },
   {
     "location": [
-      21.021625,
-      105.800049
+      52.212444,
+      0.112823
     ],
-    "address": "số 52 nguyễn khang , p . yên hòa , q . cầu giấy",
-    "area": "",
-    "food": "đặc sản",
+    "address": "71 castle street city centre",
+    "area": "west",
+    "food": "indian",
     "id": "19249",
-    "introduction": "hải sản tươi ngon , giá cả hợp lý .",
-    "name": "cô tô",
+    "introduction": "cocum specialises in south indian cuisine using spices meat and vegetables from the kerala region there is also a take away option",
+    "name": "cocum",
     "phone": "01223366668",
     "postcode": "cb30ah",
-    "pricerange": "sang trọng",
-    "type": "nhà hàng"
+    "pricerange": "expensive",
+    "type": "restaurant"
   },
   {
     "location": [
-      21.023263,
-      105.809204
+      52.20608,
+      0.118215
     ],
-    "address": "vincom nguyễn chí thanh , l5 - 16 - 17",
-    "area": "",
-    "food": "món âu",
+    "address": "st . michael 's church trinity street city centre",
+    "area": "centre",
+    "food": "european",
     "id": "19227",
-    "introduction": "nằm trong chuỗi hệ thống al fresco ' s , al fresco ' s vincom nguyễn chí thanh hấp dẫn thực khách nhờ không gian hiện đại cùng những món ăn hấp dẫn",
-    "name": "al fresco ' s",
+    "introduction": "digby trout is a chain of restaurants that are located in many of london 's premier tourist attractions . they serve modern european cuisine and are open for lunch and dinner . situated in st michaels church , michaelhouse cafe serves coffee sandwiches and lunch from a regularly changing menu",
+    "name": "michaelhouse cafe",
     "phone": "01223309147",
     "postcode": "cb21su",
-    "pricerange": "sang trọng",
-    "type": "nhà hàng"
+    "pricerange": "expensive",
+    "type": "restaurant"
   },
   {
     "location": [
-      21.010216111445,
-      105.801443746485
+      52.199012,
+      0.113196
     ],
-    "address": "số 2a , ngõ 44 đỗ quang , p . trung hoà , q . cầu giấy",
-    "area": "",
-    "food": "đặc sản",
+    "address": "37 newnham road newnham",
+    "area": "west",
+    "food": "indian",
     "id": "19255",
-    "introduction": "chuyên các món ăn đặc sản từ thịt ngựa .",
-    "name": "hồng thái 3",
+    "introduction": "the rice boat serves an authentic kind of indian cuisine that originates from the villages of kerala where the spice trade originated",
+    "name": "rice boat",
     "phone": "01223302800",
     "postcode": "cb39ey",
-    "pricerange": "sang trọng",
-    "type": "nhà hàng"
+    "pricerange": "expensive",
+    "type": "restaurant"
   },
   {
     "location": [
-      21.031229,
-      105.813816
+      52.19934,
+      0.12146
     ],
-    "address": "tầng 2 , l2 - 11 , vincom center metropolis , 29 liễu giai , p . ngọc khánh , q . ba đình",
-    "area": "",
-    "food": "món âu",
+    "address": "15 - 19 trumpington street",
+    "area": "centre",
+    "food": "european",
     "id": "4607",
-    "introduction": "nằm trong chuỗi hệ thống al fresco ' s , al fresco ' s vincom metropolis liễu giai thu hút thực khách nhờ không gian hiện đại cùng những món ăn hấp dẫn",
-    "name": "al fresco 's",
+    "introduction": "",
+    "name": "hotel du vin and bistro",
     "phone": "01223227330",
     "postcode": "cb21qa",
-    "pricerange": "vừa phải",
+    "pricerange": "moderate",
     "signature": "",
-    "type": "nhà hàng"
+    "type": "restaurant"
   },
   {
     "location": [
-      21.018488,
-      105.798507
+      52.212444,
+      0.112823
     ],
-    "address": "số 9 vũ phạm hàm , p . yên hòa , q . cầu giấy",
-    "area": "",
-    "food": "đặc sản",
+    "address": "41518 castle street city centre",
+    "area": "west",
+    "food": "indian",
     "id": "19250",
-    "introduction": "don chicken - thương hiệu nổi tiếng đến từ hàn quốc chuyên về các món gà , với điểm nổi bật là nguồn liệu tươi sạch , các loại sốt đặc biệt nhập khẩu từ hàn quốc .",
-    "name": "don chicken",
+    "introduction": "maharajah tandoori restaurant serve a variety of indian and tandoori dishes at their restaurant catering for private parties of up to 40 guests is available upon request",
+    "name": "maharajah tandoori restaurant",
     "phone": "01223358399",
     "postcode": "cb30ah",
-    "pricerange": "sang trọng",
-    "type": "nhà hàng"
+    "pricerange": "expensive",
+    "type": "restaurant"
   },
   {
     "location": [
-      21.043915,
-      105.838257
+      52.20342,
+      0.12171
     ],
-    "address": "96 phố trấn vũ , quán thánh",
-    "area": "",
-    "food": "hải sản",
+    "address": "crowne plaza hotel 20 downing street",
+    "area": "centre",
+    "food": "international",
     "id": "14742",
-    "introduction": "phục vụ các món ngon từ hải sản tươi sống , địa chỉ uy tín hơn 20 năm",
-    "name": "quán hải sản vân oanh",
+    "introduction": "",
+    "name": "bloomsbury restaurant",
     "phone": "08719429180",
     "postcode": "cb23dt",
-    "pricerange": "vừa phải",
+    "pricerange": "moderate",
     "signature": "coconut and red chilli monkfish",
-    "type": "nhà hàng"
+    "type": "restaurant"
   },
   {
     "location": [
-      21.010952,
-      105.801939
+      52.210226,
+      0.115646
     ],
-    "address": "28 đỗ quang , p . trung hòa , q . cầu giấy",
-    "area": "",
-    "food": "món mỹ",
+    "address": "17 magdalene street city centre",
+    "area": "west",
+    "food": "vietnamese",
     "id": "19248",
-    "introduction": "emm ' s french bistro đỗ quang là chi nhánh thứ 2 của chuỗi nhà hàng chuyên phục vụ món ăn pháp ( nhà hàng đầu tiên tại trần huy liệu - ba đình ) , kết hợp cùng những loại rượu vang hảo hạng đến từ các quốc gia sản xuất vang nổi tiếng thế giới : pháp , ý , úc , chile ...",
-    "name": "emm ' s french bistro",
+    "introduction": "thanh binh serve a variety of vietnamese dishes as well as selling an assortment of tea and coffees",
+    "name": "thanh binh",
     "phone": "01223362456",
     "postcode": "cb30af",
-    "pricerange": "rẻ",
-    "type": "nhà hàng"
+    "pricerange": "cheap",
+    "type": "restaurant"
   },
   {
     "location": [
-      21.0272302935574,
-      105.81339913864
+      52.20903,
+      0.1183
     ],
-    "address": "số 75 nguyễn công hoan , p . ngọc khánh , q . ba đình",
-    "area": "",
-    "food": "món miền nam",
+    "address": "14 -16 bridge street",
+    "area": "centre",
+    "food": "spanish",
     "id": "12566",
-    "introduction": "chuyên ẩm thực & đặc sản vùng miền . nguyên liệu tươi ngon , hương vị & trình bày hấp dẫn .",
-    "name": "bánh tráng giang mỹ",
+    "introduction": "la tasca is a spanish tapas restaurant and bar offering over 30 tapas dishes",
+    "name": "la tasca",
     "phone": "01223464630",
     "postcode": "cb21uf",
-    "pricerange": "vừa phải",
-    "type": "nhà hàng"
+    "pricerange": "moderate",
+    "type": "restaurant"
   },
   {
     "location": [
-      21.0508906377493,
-      105.868113076787
+      52.215311,
+      0.12593
     ],
-    "address": "số 2 , ngõ 68 ngọc thuỵ , q . long biên",
-    "area": "",
-    "food": "lẩu",
+    "address": "20 milton road chesterton",
+    "area": "north",
+    "food": "italian",
     "id": "19259",
-    "introduction": "quán chuyên món lẩu bò tơ nhúng dấm và các món ăn đồng quê .",
-    "name": "ẩm thực đồng quê",
+    "introduction": "da vinci pizzeria serve an extensive range of pizza and italian dishes as well as some vegetarian options a takeaway and delivery service is also available",
+    "name": "da vinci pizzeria",
     "phone": "01223351707",
     "postcode": "cb41jy",
-    "pricerange": "rẻ",
-    "type": "nhà hàng"
+    "pricerange": "cheap",
+    "type": "restaurant"
   },
   {
     "location": [
-      21.06787,
-      105.821651
+      52.213742,
+      0.1242
     ],
-    "address": "51 - 53 tô ngọc vân , q . tây hồ",
-    "area": "",
-    "food": "món miền trung",
+    "address": "22 chesterton road chesterton",
+    "area": "north",
+    "food": "french",
     "id": "19264",
-    "name": "phương nguyên",
+    "name": "restaurant 2 two",
     "phone": "01223351880",
     "postcode": "cb43ax",
-    "pricerange": "sang trọng",
-    "type": "nhà hàng",
-    "introduction": "- nguồn nguyên liệu được nhập từ các nhà cung cấp uy tín , có chứng nhận xuất xứ và an toàn thực phẩm - đầu bếp có nhiều năm kinh nghiệm trong việc chế biến món ăn việt"
+    "pricerange": "expensive",
+    "type": "restaurant"
   },
   {
     "location": [
-      21.032901,
-      105.813496
+      52.208055,
+      0.118397
     ],
-    "address": "37a hùng vương , điện bàn",
-    "area": "",
-    "food": "món việt",
+    "address": "12 st . johns street city centre",
+    "area": "centre",
+    "food": "chinese",
     "id": "19228",
-    "introduction": "nhà hàng 37 hùng vương mang đến cho quý khách những trải nghiệm ẩm thực đặc sắc , kết hợp giữa truyền thống và hiện đại , tinh hoa bản địa cùng món ăn đặc trưng của nhiều nước trên thế giới .",
-    "name": "nhà hàng 37a hùng vương",
+    "introduction": "ugly duckling serves a variety of chinese dishes to eat in or take away they also offer 10 percent discount on takeaway orders",
+    "name": "ugly duckling",
     "postcode": "cb21tw",
-    "pricerange": "sang trọng",
-    "type": "nhà hàng"
+    "pricerange": "expensive",
+    "type": "restaurant"
   },
   {
     "location": [
-      21.027473,
-      105.822255
+      52.203,
+      0.12375
     ],
-    "address": "tầng 1 , tòa nhà c7 giảng võ , phố trần huy liệu , p . giảng võ , q . ba đình",
-    "area": "",
-    "food": "món trung",
+    "address": "36 saint andrews street",
+    "area": "centre",
+    "food": "japanese",
     "id": "12638",
-    "introduction": "nhà hàng hutong - hot pot paradise đặc trưng với 5 vị nước lẩu từ cay nồng đến thanh ngọt cùng 99 món nhúng hảo hạng mang đến trải nghiệm khác biệt về ẩm thực hồng kông .",
-    "name": "hutong",
+    "introduction": "",
+    "name": "wagamama",
     "phone": "01223462354",
     "postcode": "cb23ar",
-    "pricerange": "sang trọng",
-    "type": "nhà hàng"
+    "pricerange": "expensive",
+    "type": "restaurant"
   },
   {
     "location": [
-      21.040066,
-      105.807126
+      52.204609,
+      0.137976
     ],
-    "address": "số 9 , ngõ 260 đội cấn , liễu giai",
-    "area": "",
-    "food": "món việt",
+    "address": "12 norfolk street city centre",
+    "area": "centre",
+    "food": "chinese",
     "id": "19186",
-    "introduction": "hương việt hiện nay được xem là một trong những địa chỉ nhà hàng phong cách quê hương hiếm hoi nổi tiếng về chất lượng hương vị các món ăn , vệ sinh an toàn thực phẩm .",
-    "name": "nhà hàng hương việt - asknsakdknj",
+    "introduction": "lan hong house serves great value home cooked authentic chinese food with over 2 5 dishes available from the buffet",
+    "name": "lan hong house",
     "phone": "01223350420",
     "postcode": "cb12lf",
-    "pricerange": "vừa phải",
-    "type": "nhà hàng"
+    "pricerange": "moderate",
+    "type": "restaurant"
   },
   {
     "location": [
-      21.004101,
-      105.833255
+      52.19017,
+      0.13699
     ],
-    "address": "số 106 - b24 , ngõ 41 , phố đông tác , q . đống đa",
-    "area": "",
-    "food": "hàn quốc",
+    "address": "cambridge leisure park clifton way",
+    "area": "south",
+    "food": "portuguese",
     "id": "12238",
-    "introduction": "wang wang - quán thịt nướng hàn quốc - thừa hưởng những nét tinh hoa của ẩm thực xứ kim chi",
-    "name": "wang wang",
+    "introduction": "it 's nandos",
+    "name": "nandos",
     "phone": "01223327908",
     "postcode": "cb17dy",
-    "pricerange": "rẻ",
-    "type": "nhà hàng"
+    "pricerange": "cheap",
+    "type": "restaurant"
   },
   {
     "location": [
-      21.03491,
-      105.810379
+      52.1987,
+      0.12578
     ],
-    "address": "71 nguyễn chí thanh , thành công",
-    "area": "",
-    "food": "buffet",
+    "address": "6 lensfield road",
+    "area": "centre",
+    "food": "british",
     "id": "13071",
-    "introduction": "nhà hàng buffet nướng lẩu hải sản . ăn không giới hạn tất cả các đồ như : ghẹ , ốc hương , bề bề , tu hài , tôm càng xanh ...",
-    "name": "nhà hàng buffet chef dzung",
+    "introduction": "",
+    "name": "the oak bistro",
     "phone": "01223323361",
     "postcode": "cb21eg",
-    "pricerange": "vừa phải",
+    "pricerange": "moderate",
     "signature": "chargrilled rib eye steak with truffle butter mixed salad and fries",
-    "type": "nhà hàng"
+    "type": "restaurant"
   },
   {
     "location": [
-      21.033806,
-      105.805735
+      52.204387,
+      0.117841
     ],
-    "address": "2 láng hạ , chợ dừa , ba đình",
-    "area": "",
-    "food": "buffet",
+    "address": "4 kings parade city centre",
+    "area": "centre",
+    "food": "british",
     "id": "19226",
-    "introduction": "nhà hàng lẩu yang với nhiều năm kinh nghiệm phát triển thương hiệu buffet lẩu",
-    "name": "lẩu buffet yang",
+    "introduction": "the copper kettle serve a variety of english dishes at their restaurant including full english breakfasts lunches , roast dinners and baked potatoes . a takeaway menu is also provided",
+    "name": "the copper kettle",
     "phone": "01223365068",
     "postcode": "cb21sj",
-    "pricerange": "vừa phải",
-    "type": "nhà hàng"
+    "pricerange": "moderate",
+    "type": "restaurant"
   },
   {
     "location": [
-      21.023542,
-      105.808892
+      52.190176,
+      0.13699
     ],
-    "address": "tttm vincom , tầng 5 , 54 nguyễn chí thanh , q . đống đa",
-    "area": "",
-    "food": "món việt",
+    "address": "cambridge leisure park clifton way cherry hinton",
+    "area": "south",
+    "food": "chinese",
     "id": "19197",
-    "name": "vietstreet",
+    "name": "the lucky star",
     "phone": "01223244277",
     "postcode": "cb17dy",
-    "pricerange": "rẻ",
-    "type": "nhà hàng",
-    "introduction": "hệ thống nhà hàng vietstreet với nhiều chi nhánh tại hà nội & tp . hcm , là không gian hội tụ của những món ăn mang phong cách đường phố đến từ khắp 3 miền đất nước ."
+    "pricerange": "cheap",
+    "type": "restaurant"
   },
   {
     "location": [
-      21.02184,
-      105.818345
+      52.202598,
+      0.118342
     ],
-    "address": "115 kim mã",
-    "area": "",
-    "food": "buffet",
+    "address": "51 trumpington street city centre",
+    "area": "centre",
+    "food": "british",
     "id": "19224",
-    "introduction": "buffet nướng hải sản tươi sống ăn thỏa thích chỉ từ 139k",
-    "name": "nhà hàng bbq donzella",
+    "introduction": "fitzbillies restaurant serves a variety of bistro style lunches , anglo - european a la carte evening meals , as well as teas coffees and cakes throughout the day . catering for private parties is available upon request",
+    "name": "fitzbillies restaurant",
     "phone": "01223352500",
     "postcode": "cb21rg",
-    "pricerange": "sang trọng",
-    "type": "nhà hàng"
+    "pricerange": "expensive",
+    "type": "restaurant"
   },
   {
     "location": [
-      21.027473,
-      105.822255
+      52.200187,
+      0.126407
     ],
-    "address": "23 ngọc khánh",
-    "area": "",
-    "food": "món trung quốc",
+    "address": "108 regent street city centre",
+    "area": "centre",
+    "food": "korean",
     "id": "19216",
-    "introduction": "nhà hàng việt lai thuận nơi hội tụ những “ tinh hoa ẩm thực trung hoa ” , tạo sự khác biệt , phong phú , thỏa mãn niềm đam mê ẩm thực của nhiều thực khách .",
-    "name": "nhà hàng việt lai thuận",
+    "introduction": "little seoul offer a variety of korean cuisine for lunch and dinner",
+    "name": "little seoul",
     "phone": "01223308681",
     "postcode": "cb21dp",
-    "pricerange": "sang trọng",
-    "type": "nhà hàng"
+    "pricerange": "expensive",
+    "type": "restaurant"
   },
   {
     "location": [
-      21.02809,
-      105.82236
+      52.197349,
+      0.145075
     ],
-    "address": "số 107 c8 ngõ 12 núi trúc , q . ba đình",
-    "area": "",
-    "food": "quán nhậu",
+    "address": "196 mill road city centre",
+    "area": "centre",
+    "food": "turkish",
     "id": "19189",
-    "introduction": "200 loại hải sản được đánh bắt từ nhiều vùng miền như : trường sa , côn đảo , vũng tàu , nha trang , khánh hòa , bình định , ninh thuận , …",
-    "name": "la cà quán - núi trúc",
+    "introduction": "meze is a restaurant and bar that serves tasty and fresh turkish cuisine set in an informal relaxed atmosphere the bar area also serves a wide range of beers wines and spirits",
+    "name": "meze bar",
     "postcode": "cb13nf",
-    "pricerange": "sang trọng",
-    "type": "nhà hàng"
+    "pricerange": "expensive",
+    "type": "restaurant"
   },
   {
     "location": [
-      21.043915,
-      105.838257
+      52.201423,
+      0.116661
     ],
-    "address": "2a nguyên hồng , thành công",
-    "area": "",
-    "food": "nướng",
+    "address": "40210 millers yard city centre",
+    "area": "centre",
+    "food": "asian oriental",
     "id": "19225",
-    "introduction": "nầm bò nướng 99k đẫm phô mai",
-    "name": "bò nầm nướng",
+    "introduction": "dojo noodle bar serves a variety of japanese chinese vietnamese korean and malaysian dishes to eat in or take away sister restaurant to touzai",
+    "name": "dojo noodle bar",
     "phone": "01223363471",
     "postcode": "cb21rq",
-    "pricerange": "rẻ",
-    "type": "nhà hàng"
+    "pricerange": "cheap",
+    "type": "restaurant"
   },
   {
     "location": [
-      21.01689,
-      105.80284
+      52.210226,
+      0.115646
     ],
-    "address": "số 65 đường nguyễn khang , p . trung hòa , q . cầu giấy",
-    "area": "",
-    "food": "lẩu",
+    "address": "15 magdalene street city centre",
+    "area": "west",
+    "food": "italian",
     "id": "19247",
-    "introduction": "cô chủ nhà hàng lẩu pháp là người miền tây mức giá rẻ phù hợp với học sinh - sinh viên , người lao động",
-    "name": "lẩu pháp ( cô hai lẩu mắm cần thơ )",
+    "introduction": "la margherita serve a variety of italian and vegetarian dishes at their restaurant",
+    "name": "la margherita",
     "phone": "01223315232",
     "postcode": "cb30af",
-    "pricerange": "rẻ",
-    "type": "nhà hàng"
+    "pricerange": "cheap",
+    "type": "restaurant"
   },
   {
     "location": [
-      21.040066,
-      105.807126
+      52.207446,
+      0.122788
     ],
-    "address": "194 phó đức chính , nguyễn trung trực",
-    "area": "",
-    "food": "nướng",
+    "address": "40428 king street city centre",
+    "area": "centre",
+    "food": "asian oriental",
     "id": "19175",
-    "introduction": "chuyên phục vụ các món nướng",
-    "name": "nhà hàng nướng không khói",
+    "introduction": "yippee noodle bar serves a variety of oriental and vegetarian dishes at their restaurant they also have a bar area and offer a take away service",
+    "name": "yippee noodle bar",
     "phone": "01223518111",
     "postcode": "cb11lh",
-    "pricerange": "vừa phải",
-    "type": "nhà hàng"
+    "pricerange": "moderate",
+    "type": "restaurant"
   },
   {
     "location": [
-      21.0508906377493,
-      105.868113076787
+      52.215157,
+      0.125015
     ],
-    "address": "31 , phủ tây hồ",
-    "area": "",
-    "food": "đặc sản",
+    "address": "7 milton road chesterton",
+    "area": "north",
+    "food": "indian",
     "id": "19263",
-    "name": "nhà hàng phương dung",
+    "name": "the nirala",
     "phone": "01223360966",
     "postcode": "cb41uy",
-    "pricerange": "vừa phải",
-    "type": "nhà hàng",
-    "introduction": "bắt đầu hoạt động từ năm 1989 , bánh tôm phương dung là một nét đẹp không thể thiếu trong ẩm thực người tràng an là mỹ vị nơi tây hồ"
+    "pricerange": "moderate",
+    "type": "restaurant"
   },
   {
     "location": [
-      21.035564,
-      105.817931
+      52.204703,
+      0.133238
     ],
-    "address": "tầng m - khách sạn candle hotel , số 287 - 301 đội cấn , q . ba đình",
-    "area": "",
-    "food": "buffet",
+    "address": "183 east road city centre",
+    "area": "centre",
+    "food": "british",
     "id": "19171",
-    "introduction": "những món ăn nhật bản thơm ngon bổ dưỡng được chế biến với niềm đam mê nghệ thuật ẩm thực , cùng sự tinh tế sáng tạo của đội ngũ đầu bếp kinh nghiệm và đẳng cấp quốc tế . với sự tham gia của chuyên gia đến từ nhật bản , những món này sẽ mang đến nhiều thú vị cho thực khách .",
-    "name": "sakura",
+    "introduction": "cotto is a restaurant cafe and bakery all rolled in to 1 . the restaurant upstairs is open for dinner from wednesday to saturday consisting of 1 menu of between 3 to 5 dishes tailored to the day the cafe and bakery offer cakes and other delicacies",
+    "name": "cotto",
     "phone": "01223302010",
     "postcode": "cb11bg",
-    "pricerange": "vừa phải",
-    "type": "nhà hàng"
+    "pricerange": "moderate",
+    "type": "restaurant"
   },
   {
     "location": [
-      21.015995,
-      105.800175
+      52.21031,
+      0.11381
     ],
-    "address": "số 71 trung hoà , q . cầu giấy",
-    "area": "",
-    "food": "buffet",
+    "address": "21 - 24 northampton street",
+    "area": "west",
+    "food": "british",
     "id": "14810",
-    "introduction": "- món nướng mang hương vị đông bắc - trung hoa độc đáo . - sử dụng than cao cấp bichotan cho nhiệt lượng cao gấp 3 so với than thông thường & không tự tỏa khói giúp món nướng giữ trọn vị ngon nguyên bản .",
-    "name": "chifan",
+    "introduction": "",
+    "name": "saint johns chop house",
     "phone": "01223353110",
     "postcode": "cb30ad",
-    "pricerange": "vừa phải",
+    "pricerange": "moderate",
     "signature": "barnsley chop braised potatoes roast celeriac red cabbage and port sauce",
-    "type": "nhà hàng"
+    "type": "restaurant"
   },
   {
     "location": [
-      21.020243,
-      105.848038
+      52.209742,
+      0.146975
     ],
-    "address": "6a hàng lược , hàng mã",
-    "area": "",
-    "food": "lẩu",
+    "address": "cambridge retail park newmarket road fen ditton",
+    "area": "east",
+    "food": "italian",
     "id": "19275",
-    "introduction": "- đầu bếp nhà hàng từng có 1 thời gian dài theo học nấu ăn bên thái , có kinh nghiệm hơn 10 năm làm bếp",
-    "name": "lạ quán",
+    "introduction": "pizza hut is a large chain with restaurants nationwide offering convenience pizzas pasta and salads to eat in or take away",
+    "name": "pizza hut fen ditton",
     "phone": "01223323737",
     "postcode": "cb58wr",
-    "pricerange": "vừa phải",
-    "type": "nhà hàng"
+    "pricerange": "moderate",
+    "type": "restaurant"
   },
   {
     "location": [
-      21.032583,
-      105.808972
+      52.198696,
+      0.12578
     ],
-    "address": "tầng 1 số 20 phố đào tấn , p . cống vị , q . ba đình",
-    "area": "",
-    "food": "món việt",
+    "address": "12 lensfield road city centre",
+    "area": "centre",
+    "food": "chinese",
     "id": "19219",
-    "name": "an nam cháo",
+    "name": "golden house",
     "phone": "01842753771",
     "postcode": "cb21eg",
-    "pricerange": "rẻ",
-    "type": "nhà hàng",
-    "introduction": "an nam cháo do ông nguyễn ngọc xuân , doanh nhân người việt tại liên bang nga , gây dựng đang dần dần thay đổi quan điểm này để món cháo thuần việt trở thành món ăn cho mọi người ."
+    "pricerange": "cheap",
+    "type": "restaurant"
   },
   {
     "location": [
-      21.043915,
-      105.838257
+      52.200187,
+      0.126407
     ],
-    "address": "tầng 6 tttm lotte center 54 liễu giai",
-    "area": "",
-    "food": "nướng",
+    "address": "86 regent street city centre",
+    "area": "centre",
+    "food": "asian oriental",
     "id": "19215",
-    "introduction": "gojumong casual is an authentic korean barbecue restaurant situated on the 6th floor of lotte center . operated since 2014 , we 've been well - known for a wide - range menu of savoury barbecue and cozy atmosphere , which is loved by not only locals but also foreigners . gojumong is definitely the perfect place for enjoying premium cuts of marinated beef or pork to be char - grilled at your table along with a healthy assortment of banchan , bottomless korean side dishes .",
-    "name": "gojumong casual",
+    "introduction": "j restaurant offers a wide variety of sushi noodles and dim sum to eat in or takeaway a home delivery service is also available",
+    "name": "j restaurant",
     "phone": "01223307581",
     "postcode": "cb21dp",
-    "pricerange": "rẻ",
-    "type": "nhà hàng"
+    "pricerange": "cheap",
+    "type": "restaurant"
   },
   {
     "location": [
-      21.029528,
-      105.812953
+      52.20951,
+      0.11669
     ],
-    "address": "114b2 nguyễn chí thanh , q . ba đình",
-    "area": "",
-    "food": "món âu",
+    "address": "33 bridge street",
+    "area": "centre",
+    "food": "european",
     "id": "6780",
-    "introduction": "- nguyên liệu sạch có chứng nhận đầy đủ về vs attp và nguyên liệu nhập khẩu- các đầu bếp tại đây đều được trải qua quá trình đào tạo với đầu bếp chính người úc có kinh nghiệm hơn 15 năm trong ngành ẩm thực",
-    "name": "pepperonis",
+    "introduction": "",
+    "name": "galleria",
     "phone": "01223362054",
     "postcode": "cb21uw",
-    "pricerange": "vừa phải",
+    "pricerange": "moderate",
     "signature": "poached fillets of monkfish in lemongrass with sweet red chilli cream sauce and tiger prawns with leeks and mushrooms served with rice",
-    "type": "nhà hàng"
+    "type": "restaurant"
   },
   {
     "location": [
-      21.03491,
-      105.810379
+      52.204424,
+      0.12046
     ],
-    "address": "số 81 phan kế bính kéo dài , p . cống vị , q . ba đình",
-    "area": "",
-    "food": "nhật bản",
+    "address": "corn exchange street",
+    "area": "centre",
+    "food": "gastropub",
     "id": "31390",
-    "introduction": "- không gian riêng tư yên tĩnh , có khu vực ngồi chờ cho khách trước khi vào nhà hàng . - món mỳ ramen được nấu từ nước ninh xương trong vòng 12h là món đặc trưng chỉ có tại tonchan ramen .",
-    "name": "tonchan ramen",
+    "introduction": "",
+    "name": "the cow pizza kitchen and bar",
     "phone": "01223308871",
     "postcode": "cb23qf",
-    "pricerange": "vừa phải",
+    "pricerange": "moderate",
     "signature": "wasabi spiked hamburger",
-    "type": "nhà hàng"
+    "type": "restaurant"
   },
   {
     "location": [
-      21.02095,
-      105.817914
+      52.199332,
+      0.138395
     ],
-    "address": "108 k1 láng hạ , q . ba đình",
-    "area": "",
-    "food": "pizza",
+    "address": "100 mill road city centre",
+    "area": "centre",
+    "food": "african",
     "id": "19183",
-    "introduction": "nằm trong chuỗi hệ thống al fresco ' s , al fresco ' s láng hạ hấp dẫn thực khách nhờ không gian hiện đại cùng những món ăn hấp dẫn",
-    "name": "al fresco ' s",
+    "introduction": "bedouin serves algerian cuisine",
+    "name": "bedouin",
     "phone": "01223367660",
     "postcode": "cb12bd",
-    "pricerange": "sang trọng",
-    "type": "nhà hàng"
+    "pricerange": "expensive",
+    "type": "restaurant"
   },
   {
     "location": [
-      21.0241543,
-      105.8208429
+      52.206098,
+      0.118713
     ],
-    "address": "số 299 giảng võ , p . ngọc khánh , q . ba đình",
-    "area": "",
-    "food": "lẩu nướng",
+    "address": "2 rose crescent city centre",
+    "area": "centre",
+    "food": "mediterranean",
     "id": "19238",
-    "introduction": "măm măm bbq chuyên món nướng phong cách trung hoa .",
-    "name": "măm măm bbq",
+    "introduction": "the gardenia serves a variety of authentic greek and mediterranean dishes at their restaurant catering for private parties of up to 2 5 guests is available upon request",
+    "name": "the gardenia",
     "phone": "01223356354",
     "postcode": "cb23ll",
-    "pricerange": "rẻ",
-    "type": "nhà hàng"
+    "pricerange": "cheap",
+    "type": "restaurant"
   },
   {
     "location": [
-      21.043915,
-      105.838257
+      52.201116,
+      0.125712
     ],
-    "address": "số 16 trấn vũ , p . quán thánh , q . ba đình",
-    "area": "",
-    "food": "lẩu",
+    "address": "47 - 53 regent street",
+    "area": "centre",
+    "food": "italian",
     "id": "29652",
-    "introduction": "- chủ nhà hàng ( bếp trưởng ) người pháp hơn 20 năm kinh nghiệm nhà hàng khách sạn , từng làm bếp trưởng metropole 5 năm 2013 - 2017",
-    "name": "fabrik",
+    "introduction": "",
+    "name": "zizzi cambridge",
     "phone": "01223365599",
     "postcode": "cb21ab",
-    "pricerange": "rẻ",
+    "pricerange": "cheap",
     "signature": "piccante rustica pizza , a spicy sausage salami mascarpone and roquito chilli",
-    "type": "nhà hàng"
+    "type": "restaurant"
   },
   {
     "location": [
-      21.029434,
-      105.850312
+      52.212992,
+      0.157569
     ],
-    "address": "98 hàng trống , q . hoàn kiếm",
-    "area": "",
-    "food": "đặc sản",
+    "address": "newmarket road fen ditton",
+    "area": "east",
+    "food": "indian",
     "id": "19272",
-    "introduction": "- nguyên liệu sạch có chứng nhận đầy đủ về vs attp và nguyên liệu nhập khẩu- các đầu bếp tại đây đều được trải qua quá trình đào tạo với đầu bếp chính người úc có kinh nghiệm hơn 15 năm trong ngành ẩm thực",
-    "name": "pepperonis",
+    "introduction": "pipasha restaurant serves a variety of indian dishes to eat in or take away a delivery service is also available",
+    "name": "pipasha restaurant",
     "phone": "01223577786",
     "postcode": "cb58pa",
-    "pricerange": "sang trọng",
-    "type": "nhà hàng"
+    "pricerange": "expensive",
+    "type": "restaurant"
   },
   {
     "location": [
-      21.028732,
-      105.811052
+      52.203,
+      0.12375
     ],
-    "address": "10a phạm huy thông , ngọc khánh , p . nguyễn chí thanh , q . ba đình , hà nội",
-    "area": "",
-    "food": "hàn quốc",
+    "address": "33 - 34 saint andrews street",
+    "area": "centre",
+    "food": "portuguese",
     "id": "12237",
-    "introduction": "- thu hút đông đảo giới trẻ hà thành bằng thực đơn hấp dẫn các món ăn chế biến theo phong cách đường phố hàn quốc . - nổi tiếng nhất là chảo seoul khổng lồ 75 cm .",
-    "name": "gà rán seoul soul",
+    "introduction": "",
+    "name": "nandos city centre",
     "phone": "01223327908",
     "postcode": "cb23ar",
-    "pricerange": "rẻ",
-    "type": "nhà hàng"
+    "pricerange": "cheap",
+    "type": "restaurant"
   },
   {
     "location": [
-      21.0508906377493,
-      105.868113076787
+      52.213853,
+      0.125509
     ],
-    "address": "133 trích sài , bưởi",
-    "area": "",
-    "food": "đặc sản",
+    "address": "victoria avenue chesterton",
+    "area": "north",
+    "food": "indian",
     "id": "19257",
-    "name": "ốc tửu quán",
+    "name": "royal spice",
     "phone": "01733553355",
     "postcode": "cb41eh",
-    "pricerange": "rẻ",
-    "type": "nhà hàng",
-    "introduction": "tửu quán - 133 trích sài , gắn liền với khu ốc hồ tây nổi tiếng , nơi giới trẻ hà thành hay lui tới để tận hưởng những món ốc tươi ngon đậm mùi sả ớt ."
+    "pricerange": "cheap",
+    "type": "restaurant"
   },
   {
     "location": [
-      21.06787,
-      105.821651
+      52.215311,
+      0.12593
     ],
-    "address": "số 688 lạc long quân , nhật tân",
-    "area": "",
-    "food": "món việt",
+    "address": "milton road chesterton",
+    "area": "north",
+    "food": "chinese",
     "id": "19260",
-    "introduction": "phục vụ đồ ăn tại chỗ · đồ ăn mang đi",
-    "name": "việt square restaurant",
+    "introduction": "a unique treat for all lovers of chinese cuisine . from the spice islands to the food streets of beijing and the finest ocean catch .",
+    "name": "hakka",
     "phone": "01223568988",
     "postcode": "cb41jy",
-    "pricerange": "sang trọng",
-    "type": "nhà hàng"
+    "pricerange": "expensive",
+    "type": "restaurant"
   },
   {
     "location": [
-      21.031326,
-      105.815026
+      52.206098,
+      0.118713
     ],
-    "address": "47 văn cao , ngọc hồ",
-    "area": "",
-    "food": "món miền nam",
+    "address": "4 - 6 rose crescent",
+    "area": "centre",
+    "food": "spanish",
     "id": "19237",
-    "introduction": "quán ngon miền tây - thực đơn đa dạng vô cùng ấn tượng",
-    "name": "quán ngon miền tây",
+    "introduction": "",
+    "name": "la raza",
     "phone": "01223464550",
     "postcode": "cb23ll",
-    "pricerange": "rẻ",
+    "pricerange": "cheap",
     "signature": "seafood paella",
-    "type": "nhà hàng"
+    "type": "restaurant"
   },
   {
     "location": [
-      21.0309462203865,
-      105.821191889242
+      52.200187,
+      0.126407
     ],
-    "address": "7 phố ngọc khánh , giảng võ",
-    "area": "",
-    "food": "đặc sản",
+    "address": "72 regent street city centre",
+    "area": "centre",
+    "food": "indian",
     "id": "19218",
-    "introduction": "trải qua hơn 30 năm cùng với sự phát triển của đất nước nhà hàng ngọc thúy vẫn giữ được hương vị thuần việt với các món ăn dân dã nhưng được rất nhiều khách quý tin tưởng",
-    "name": "nhà hàng ngọc thúy",
+    "introduction": "the gandhi serves a variety of indian and bangladeshi dishes at their restaurant to eat in or take away . catering for private parties of up to 140 guests is available upon request",
+    "name": "the gandhi",
     "phone": "01223353942",
     "postcode": "cb21dp",
-    "pricerange": "rẻ",
-    "type": "nhà hàng"
+    "pricerange": "cheap",
+    "type": "restaurant"
   },
   {
     "location": [
-      21.06787,
-      105.821651
+      52.220757,
+      0.111564
     ],
-    "address": "447 lạc long quân , xuân la",
-    "area": "",
-    "food": "món việt",
+    "address": "191 histon road chesterton",
+    "area": "north",
+    "food": "chinese",
     "id": "19265",
-    "introduction": "- nguồn nguyên liệu được nhập từ các nhà cung cấp uy tín , có chứng nhận xuất xứ và an toàn thực phẩm - đầu bếp có nhiều năm kinh nghiệm trong việc chế biến món ăn việt",
-    "name": "mường khương quán",
+    "introduction": "the golden wok serves a variety of traditional chinese meals including sweet and sour dishes as well as rice and noodles",
+    "name": "golden wok",
     "phone": "01223350688",
     "postcode": "cb43hl",
-    "pricerange": "vừa phải",
-    "type": "nhà hàng"
+    "pricerange": "moderate",
+    "type": "restaurant"
   },
   {
     "location": [
-      21.0190412497552,
-      105.79390969929
+      52.215077,
+      0.112421
     ],
-    "address": "số 37a trần kim xuyến , p . yên hoà , q . cầu giấy",
-    "area": "",
-    "food": "đặc sản",
+    "address": "205 victoria road chesterton",
+    "area": "west",
+    "food": "indian",
     "id": "19267",
-    "name": "chim to dần bình an",
+    "name": "meghna",
     "phone": "01223727410",
     "postcode": "cb43lf",
-    "pricerange": "vừa phải",
-    "type": "nhà hàng",
-    "introduction": "- chuyên các món về chim , đa dạng về chủng loại , nguyên liệu tươi theo mùa . - không gian rộng 2 mặt tiền , thoáng mát , chỗ đỗ xe thoải mái ."
+    "pricerange": "moderate",
+    "type": "restaurant"
   },
   {
     "location": [
-      21.026396,
-      105.821624
+      52.196862,
+      0.129248
     ],
-    "address": "116 d4 giảng võ , q . ba đình",
-    "area": "",
-    "food": "đặc sản",
+    "address": "hills road city centre",
+    "area": "centre",
+    "food": "indian",
     "id": "19220",
-    "introduction": "",
-    "name": "botanica",
+    "introduction": "the saffron brasserie serve a variety of dishes from their contemporary indian and bangladeshi menu . catering for private parties of up to 100 guests is available upon request",
+    "name": "saffron brasserie",
     "phone": "01223354679",
     "postcode": "cb21la",
-    "pricerange": "sang trọng",
-    "type": "nhà hàng"
+    "pricerange": "expensive",
+    "type": "restaurant"
   },
   {
     "location": [
-      21.040066,
-      105.807126
+      52.210013,
+      0.118007
     ],
-    "address": "275 đội cấn , ngọc hồ",
-    "area": "",
-    "food": "lẩu nướng",
+    "address": "thompsons lane fen ditton",
+    "area": "centre",
+    "food": "mediterranean",
     "id": "19268",
-    "name": "nhà hàng lẩu nướng hàn quốc",
+    "name": "la mimosa",
     "phone": "01223362525",
     "postcode": "cb58aq",
-    "pricerange": "sang trọng",
-    "type": "nhà hàng",
-    "introduction": "nhà hàng lẩu nướng triều tiên"
+    "pricerange": "expensive",
+    "type": "restaurant"
   },
   {
     "location": [
-      21.029461,
-      105.809204
+      52.206111,
+      0.132969
     ],
-    "address": "số 575 kim mã , p . ngọc khánh , q . ba đình",
-    "area": "",
-    "food": "món việt",
+    "address": "39 burleigh street city centre",
+    "area": "centre",
+    "food": "chinese",
     "id": "19173",
-    "introduction": "- hệ thống nhà hàng việt lớn nhất thế giới với 7 thành viên , top 500 nhà hàng tốt nhất châu á - nhà hàng chỉ sử dụng những đồ ăn , thức uống có nguồn gốc tại việt nam và duy trì thông số kỹ thuật nghiêm ngặt đối với tất cả các sản phẩm trong phòng bếp , đáp ứng các tiêu chuẩn cao nhất về chất lượng và an toàn",
-    "name": "highway4",
+    "introduction": "shanghai family restaurant comprises a french cafe on the lower level and a chinese restaurant upstairs",
+    "name": "shanghai family restaurant",
     "phone": "01223301761",
     "postcode": "cb11dg",
-    "pricerange": "vừa phải",
-    "type": "nhà hàng"
+    "pricerange": "moderate",
+    "type": "restaurant"
   },
   {
     "location": [
-      21.02184,
-      105.818345
+      52.200693,
+      0.119744
     ],
-    "address": "1 kim mã , ngọc khánh",
-    "area": "",
-    "food": "món nhật - hàn",
+    "address": "the little rose 37 trumpington street",
+    "area": "centre",
+    "food": "seafood",
     "id": "19223",
-    "introduction": "tự hào là bản đồ việt nam được tạo ra bởi người việt nam",
-    "name": "nhà hàng nhật bản hải ngư",
+    "introduction": "using the freshest seafood from the loch of the same name , loch fyne restaurants serve a variety of shellfish and smoked fish all of which are complimented by an extensive wine list . non - seafood dishes are also available",
+    "name": "loch fyne",
     "phone": "01223362433",
     "postcode": "cb21qy",
-    "pricerange": "sang trọng",
-    "type": "nhà hàng"
+    "pricerange": "expensive",
+    "type": "restaurant"
   },
   {
     "location": [
-      21.028732,
-      105.811052
+      52.20143,
+      0.11664
     ],
-    "address": "206d , đội cấn , phường đội cấn",
-    "area": "",
-    "food": "đặc sản",
+    "address": "3 - 5 millers yard mill lane",
+    "area": "centre",
+    "food": "indian",
     "id": "15275",
-    "introduction": "chuyên phục vụ cơm bình dân , cơm văn phòng",
-    "name": "quán cơm bình dân 206d",
+    "introduction": "",
+    "name": "mahal of cambridge",
     "phone": "01223360409",
     "postcode": "cb21rq",
-    "pricerange": "rẻ",
-    "type": "nhà hàng"
+    "pricerange": "cheap",
+    "signature": "chicken tikka masala",
+    "type": "restaurant"
   },
   {
     "location": [
-      21.026849,
-      105.823944
+      52.208252,
+      0.119957
     ],
-    "address": "số 122 - k1 , giảng võ , q . ba đình",
-    "area": "",
-    "food": "lẩu",
+    "address": "jesus lane fen ditton",
+    "area": "centre",
+    "food": "italian",
     "id": "19269",
-    "introduction": "- bếp thái koh yam là sự kết thừa của thương hiệu koh samui mang đến cho thực khách hà thành cơ hội khám phá gần 100 món ăn mang đặc trưng thái . - không gian theo phong cách thái lan hiện đại , nguồn nguyên liệu tươi được nhập hàng ngày .",
-    "name": "bếp thái koh yam",
+    "introduction": "the simple menu and kitchen concept at pizza express has retained its freshly made ideal , and you can still watch your pizza being prepared for you . this branch has live jazz music",
+    "name": "pizza express fen ditton",
     "phone": "01223324033",
     "postcode": "cb58ba",
-    "pricerange": "vừa phải",
-    "type": "nhà hàng"
+    "pricerange": "moderate",
+    "type": "restaurant"
   },
   {
     "location": [
-      21.017096,
-      105.799358
+      52.199012,
+      0.113196
     ],
-    "address": "số 132 trung hòa , quận cầu giấy , hà nội",
-    "area": "",
-    "food": "món miền bắc",
+    "address": "35 newnham road newnham",
+    "area": "west",
+    "food": "thai",
     "id": "19256",
-    "introduction": "thực đơn hơn 200 món ăn đặc sắc , được xây dựng bởi bếp trưởng chef thái với gần 20 năm kinh nghiệm đứng bếp và tổng điều hành ở các nhà hàng , khu nghỉ dưỡng lớn",
-    "name": "bếp quán",
+    "introduction": "sala thong serves a variety of thai dishes at their restaurant catering for private parties of up to 40 guests is available upon request",
+    "name": "sala thong",
     "phone": "01223323178",
     "postcode": "cb39ey",
-    "pricerange": "sang trọng",
-    "type": "nhà hàng"
+    "pricerange": "expensive",
+    "type": "restaurant"
   },
   {
     "location": [
-      21.061935,
-      105.830761
+      52.215157,
+      0.125015
     ],
-    "address": "62 xuân diệu , q . tây hồ",
-    "area": "",
+    "address": "cambridge city football club milton road chesterton",
+    "area": "north",
     "id": "19262",
-    "introduction": "al fresco 's 62 xuân diệu là chi nhánh thuộc chuỗi nhà hàng al fresco ' s đến từ đất nước australia xinh đẹp có tên tuổi quen thuộc với mọi người dân việt nam .",
-    "name": "al fresco ' s",
+    "introduction": "located in cambridge city football club , city stop restaurant serve a variety of english and italian dishes as well as offering a selection of vegetarian options catering for corporate events and private parties of up to 100 guests is available upon request .",
+    "name": "city stop restaurant",
     "phone": "01223363270",
     "postcode": "cb41uy",
-    "pricerange": "sang trọng",
-    "food": "món âu",
-    "type": "nhà hàng"
+    "pricerange": "expensive",
+    "food": "european",
+    "type": "restaurant"
   },
   {
     "location": [
-      21.061006,
-      105.809219
+      52.218164,
+      0.143209
     ],
-    "address": "481 lạc long quân , p . xuân la , q . tây hồ",
-    "area": "",
-    "food": "nướng",
+    "address": "169 high street chesterton chesterton",
+    "area": "north",
+    "food": "asian oriental",
     "id": "19261",
-    "introduction": "- nhà hàng chuyên các món hải sản tươi sống - nướng - lẩu tổng hợp . món ăn được chế biến từ các loại thịt bò , thịt lợn , hải sản tươi sống … bởi những đầu bếp chuyên nghiệp có nhiều năm kinh nghiệm phục vụ tại các nhà hàng lớn.- bàn cạnh cửa sổ có view nhìn ra hồ tây .",
-    "name": "ohcha",
+    "introduction": "saigon city serve vietnamese chinese and thai cuisine to eat in or take away",
+    "name": "saigon city",
     "phone": "01223356555",
     "postcode": "cb41nl",
-    "pricerange": "sang trọng",
-    "type": "nhà hàng"
+    "pricerange": "expensive",
+    "type": "restaurant"
   },
   {
     "location": [
-      21.0232798204888,
-      105.826530015689
+      52.189484,
+      0.135465
     ],
-    "address": "số 77 hào nam , p . ô chợ dừa , q . đống đa",
-    "area": "",
-    "food": "món việt",
+    "address": "10 homerton street city centre",
+    "area": "south",
+    "food": "chinese",
     "id": "19246",
-    "introduction": "không gian indochine độc đáo cùng món ăn từ chả cá lăng chuẩn vị truyền thống hà nội .",
-    "name": "chả cá hàng sơn",
+    "introduction": "peking resturant cook from fresh ingredients . they specialise in sichuan and hunan dishes",
+    "name": "peking restaurant",
     "phone": "01223354755",
     "postcode": "cb28nx",
-    "pricerange": "sang trọng",
-    "type": "nhà hàng"
+    "pricerange": "expensive",
+    "type": "restaurant"
   },
   {
     "location": [
-      21.014183,
-      105.818792
+      52.190176,
+      0.13699
     ],
-    "address": "26 hoàng cầu mới ( fpt thái hà rẽ phải 50 m ) , q . đống đa",
-    "area": "",
-    "food": "lẩu",
+    "address": "cambridge leisure park clifton way cherry hinton",
+    "area": "south",
+    "food": "italian",
     "id": "19195",
-    "introduction": "- không gian thiết kế theo phong cách loius hoàng gia",
-    "name": "hoàng gia",
+    "introduction": "frankie and bennys has a traditional 1950s new york feel to it with its original family photographs , traditional wooden furniture and period music . they serve a wide range of authentic american and italian dishes .",
+    "name": "frankie and bennys",
     "phone": "01223412430",
     "postcode": "cb17dy",
-    "pricerange": "sang trọng",
-    "type": "nhà hàng"
+    "pricerange": "expensive",
+    "type": "restaurant"
   },
   {
     "location": [
-      21.03195,
-      105.8024
+      52.22414,
+      0.09194
     ],
-    "address": "167 hoàng ngân , trung hoà",
-    "area": "",
-    "food": "buffet",
+    "address": "hotel felix whitehouse lane huntingdon road",
+    "area": "west",
+    "food": "british",
     "id": "7492",
-    "introduction": "nhà hàng tự chọn rộng rãi , bình dị này phục vụ sushi , hải sản , đồ nướng và các món ăn đặc trưng kiểu âu .",
-    "name": "nhà hàng bay buffet",
+    "introduction": "critically acclaimed food in luxurious and stylish surroundings , overlooking the hotels lush gardens .",
+    "name": "graffiti",
     "phone": "01223277977",
     "postcode": "cb30lx",
-    "pricerange": "sang trọng",
+    "pricerange": "expensive",
     "signature": "panfried fillet of brill tempura of langoustine crushed garden peas shellfish basil nage",
-    "type": "nhà hàng"
+    "type": "restaurant"
   },
   {
     "location": [
-      21.03868,
-      105.84658
+      52.199012,
+      0.113196
     ],
-    "address": "số 21 phùng hưng ( ngắn ) , p . hàng mã , q . hoàn kiếm",
-    "area": "",
-    "food": "đặc sản",
+    "address": "31 newnham road newnham",
+    "area": "west",
+    "food": "indian",
     "id": "19254",
-    "introduction": "- nhà hàng quả trám chuyên các món ăn đặc sản vùng cao như : gà đồi tiên yên - quảng ninh , bò h ' mông , lợn đen phú thọ , cá sông đà , hải sản cô tô ... đặc biệt các món ăn từ đặc sản quả trám tự nhiên . nguyên liệu sạch được nhà hàng tuyển chọn tại chính các vùng quê đặc sản.- nhà hàng nằm trong khu phố cổ hà nội , sở hữu một không gian gần gũi , mang đậm dấu ấn việt .",
-    "name": "quả trám",
+    "introduction": "indian house serve a variety of indian dishes to eat in or take away they also have a selection of english dishes on their menu",
+    "name": "india house",
     "phone": "01223461661",
     "postcode": "cb39ey",
-    "pricerange": "sang trọng",
-    "type": "nhà hàng"
+    "pricerange": "expensive",
+    "type": "restaurant"
   },
   {
     "location": [
-      21.035588,
-      105.78922
+      52.217736,
+      0.102505
     ],
-    "address": "106 trần thái tông , q . cầu giấy",
-    "area": "",
-    "food": "món âu",
+    "address": "cambridge lodge hotel 139 huntingdon road city centre",
+    "area": "west",
+    "food": "european",
     "id": "19252",
-    "introduction": "al fresco 's 106 trần thái tông là chi nhánh thuộc chuỗi nhà hàng đến từ đất nước australia xinh đẹp có tên tuổi quen thuộc với mọi người dân việt nam .",
-    "name": "al fresco ' s",
+    "introduction": "located in the cambridge lodge hotel , this restaurant serves a variety of european and vegetarian dishes and can cater for private parties of up to 20 guests upon request .",
+    "name": "cambridge lodge restaurant",
     "phone": "01223355166",
     "postcode": "cb30dq",
-    "pricerange": "sang trọng",
-    "type": "nhà hàng"
+    "pricerange": "expensive",
+    "type": "restaurant"
   },
   {
     "location": [
-      21.0203079054205,
-      105.850353632903
+      52.212992,
+      0.157569
     ],
-    "address": "số 65 hàm long , p . hàng bài , q . hoàn kiếm",
-    "area": "",
-    "food": "buffet",
+    "address": "grafton hotel 619 newmarket road fen ditton",
+    "area": "east",
+    "food": "british",
     "id": "19271",
-    "introduction": "chef mama chuyên các món nướng và lẩu thượng hạng . nguyên liệu tươi ngon , cao cấp được tuyển chọn khắt khe .",
-    "name": "chef mama",
+    "introduction": "located in the grafton hotel this restaurant serves a variety of english and vegetarian dishes from their a la carte and carvery menu . they also have a bar area",
+    "name": "grafton hotel restaurant",
     "phone": "01223241387",
     "postcode": "cb58pa",
-    "pricerange": "sang trọng",
-    "type": "nhà hàng"
+    "pricerange": "expensive",
+    "type": "restaurant"
   },
   {
     "location": [
-      21.0586227213894,
-      105.821541764807
+      52.214531,
+      0.127298
     ],
-    "address": "số 38 đặng thai mai , q . tây hồ",
-    "area": "",
-    "food": "món việt",
+    "address": "66 chesterton road chesterton",
+    "area": "north",
+    "food": "chinese",
     "id": "19258",
-    "introduction": "không gian giản dị và chân thành của nhà hàng sen đầm trị sẽ giúp thực khách tìm lại sự thư thái và nhẹ nhõm trong tâm hồn",
-    "name": "sen đầm trị",
+    "introduction": "the hotpot serves a variety of chinese dishes at their restaurant and can cater for private parties of up to 5 five guests upon request",
+    "name": "the hotpot",
     "phone": "01223366552",
     "postcode": "cb41ep",
-    "pricerange": "sang trọng",
-    "type": "nhà hàng"
+    "pricerange": "expensive",
+    "type": "restaurant"
   },
   {
     "location": [
-      21.043915,
-      105.838257
+      52.20984,
+      0.11793
     ],
-    "address": "269 kim mã , khu tập thể giảng võ",
-    "area": "",
-    "food": "món á",
+    "address": "quayside off bridge street",
+    "area": "centre",
+    "food": "modern european",
     "id": "7236",
-    "introduction": "lẩu 88 - lẩu các loại - quán ăn - món việt",
-    "name": "lẩu 88",
+    "introduction": "",
+    "name": "the river bar steakhouse and grill",
     "phone": "01223307030",
     "postcode": "cb58aq",
-    "pricerange": "rẻ",
+    "pricerange": "cheap",
     "signature": "lobster mac and cheese",
-    "type": "nhà hàng"
+    "type": "restaurant"
   },
   {
     "location": [
-      21.040066,
-      105.807126
+      52.207312,
+      0.124201
     ],
-    "address": "số 346 đường bưởi , p . vĩnh phúc , q . ba đình",
-    "area": "",
-    "food": "lẩu",
+    "address": "54 king street city centre",
+    "area": "centre",
+    "food": "italian",
     "id": "19176",
-    "introduction": "- hệ thống nhà hàng lẩu dê nhất ly ra đời từ năm 1994 , chuyên lẩu nướng không khói và các món ngon từ thịt dê.- nguyên liệu dê ré tươi , ngon , sạch , thịt săn chắc , được nhập từ các tỉnh miền núi phía bắc việt nam .",
-    "name": "lẩu dê nhất ly",
+    "introduction": "clowns cafe serve a variety of drinks as well as italian dishes such as pasta ciabatta and salads",
+    "name": "clowns cafe",
     "phone": "01223355711",
     "postcode": "cb11ln",
-    "pricerange": "sang trọng",
-    "type": "nhà hàng"
+    "pricerange": "expensive",
+    "type": "restaurant"
   },
   {
     "location": [
-      21.048178,
-      105.841864
+      52.209632,
+      0.117213
     ],
-    "address": "69 phó đức chính , q . ba đình",
-    "area": "",
-    "food": "quán nhậu",
+    "address": "30 bridge street city centre",
+    "area": "centre",
+    "food": "turkish",
     "id": "19232",
-    "introduction": "- nguồn nguyên liệu của nhà hàng được nhập từ các nhà cung cấp uy tín tại hà nội - đội ngũ đầu bếp chuyên nghiệp và có kinh nghiệm lâu năm với các món nhậu , lẩu",
-    "name": "lẩu đức trọc",
+    "introduction": "anatolia is a basement restaurant that serves a variety of turkish and vegetarian dishes and cater for private parties of up to 80 guests upon request",
+    "name": "anatolia",
     "phone": "01223362372",
     "postcode": "cb21uj",
-    "pricerange": "vừa phải",
-    "type": "nhà hàng"
+    "pricerange": "moderate",
+    "type": "restaurant"
   },
   {
     "location": [
-      21.0279955415118,
-      105.822214369689
+      52.204609,
+      0.137976
     ],
-    "address": "số 102c5 trần huy liệu , q . ba đình",
-    "area": "",
-    "food": "đặc sản",
+    "address": "8 norfolk street city centre",
+    "area": "centre",
+    "food": "indian",
     "id": "19187",
-    "name": "let ' s sushi",
+    "name": "panahar",
     "phone": "01223355012",
     "postcode": "cb12lf",
-    "pricerange": "sang trọng",
-    "type": "nhà hàng",
-    "introduction": "nguyên liệu tươi ngon , thực đơn món nhật phong phú ."
+    "pricerange": "expensive",
+    "type": "restaurant"
   },
   {
     "location": [
-      21.025359,
-      105.82171
+      52.207702,
+      0.133982
     ],
-    "address": "63 phạm hồng thái , trúc bạch",
-    "area": "",
-    "food": "món việt",
+    "address": "napier street city centre",
+    "area": "centre",
+    "food": "chinese",
     "id": "19174",
-    "introduction": "món ăn việt - phong vị dân dã quê hương",
-    "name": "nhà hàng món việt",
+    "introduction": "tang chinese is a buffet restaurant and bar serving a variety of dishes for lunch and dinner there is also a takeaway menu available",
+    "name": "tang chinese",
     "phone": "01223357187",
     "postcode": "cb11hr",
-    "pricerange": "sang trọng",
-    "type": "nhà hàng"
+    "pricerange": "expensive",
+    "type": "restaurant"
   },
   {
     "location": [
-      21.02565,
-      105.8182
+      52.20683,
+      0.1192
     ],
-    "address": "số 152 ngọc khánh , p . giảng võ , q . ba đình",
-    "area": "",
-    "food": "nhật bản",
+    "address": "34 - 35 green street",
+    "area": "centre",
+    "food": "gastropub",
     "id": "12482",
-    "introduction": "- nguyên liệu cá hồi nhập khẩu tươi ngon và đa dạng . các món ăn nhật bản chuẩn vị , giá hợp lý . - không gian nhà hàng hiện đại , ấm cúng và đậm dấu ấn xứ phù tang .",
-    "name": "g8 osake house - 152 ngọc khánh",
+    "introduction": "slug lettuce is a premium high street bar that serves a wide range of restaurant quality food to suit all occasions and appetites .",
+    "name": "the slug and lettuce",
     "postcode": "cb23ju",
-    "pricerange": "sang trọng",
-    "type": "nhà hàng"
+    "pricerange": "expensive",
+    "type": "restaurant"
   },
   {
     "location": [
-      21.046313,
-      105.841702
+      52.209003,
+      0.118661
     ],
-    "address": "số 21 ngũ xã , p . trúc bạch , q . ba đình",
-    "area": "",
-    "food": "đặc sản",
+    "address": "5 jordans yard bridge street city centre",
+    "area": "centre",
+    "food": "indian",
     "id": "19231",
-    "introduction": "hải sản tươi ngon , giá hợp lý .",
-    "name": "vua hải sản đường phố",
+    "introduction": "curry king serve a variety of indian dishes to eat in or take away catering for private parties of up to 40 guests is available upon request",
+    "name": "curry king",
     "phone": "01223324351",
     "postcode": "cb21ug",
-    "pricerange": "sang trọng",
-    "type": "nhà hàng"
+    "pricerange": "expensive",
+    "type": "restaurant"
   },
   {
     "location": [
-      21.041565,
-      105.791437
+      52.214201,
+      0.108588
     ],
-    "address": "số 273 tô hiệu , p . dịch vọng , q . cầu giấy",
-    "area": "",
-    "food": "buffet",
+    "address": "huntingdon road city centre",
+    "area": "west",
+    "food": "british",
     "id": "19251",
-    "introduction": "- nhà hàng đầu tiên tại hà nội hoạt động theo mô hình kết hợp lẩu hơi - lẩu nướng . - thực đơn phong phú , thực phẩm an toàn tuyển chọn từ các nhà cung cấp uy tín .",
-    "name": "safodi",
+    "introduction": "",
+    "name": "travellers rest",
     "phone": "01223276182",
     "postcode": "cb30df",
-    "pricerange": "sang trọng",
-    "type": "nhà hàng"
+    "pricerange": "expensive",
+    "type": "restaurant"
   },
   {
     "location": [
-      21.0316651205505,
-      105.82247678048
+      52.199332,
+      0.138395
     ],
-    "address": "số 11 , ngõ 290 kim mã , p . kim mã , q . ba đình",
-    "area": "",
-    "food": "đặc sản",
+    "address": "106 mill road city centre",
+    "area": "centre",
+    "food": "indian",
     "id": "19184",
-    "introduction": "- lẩu dê khô thu béo - kim mã là chi nhánh thứ 3 của chuỗi nhà hàng chuyên về dê.- dê tuyển chọn và nhập từ ninh bình . món ăn nổi tiếng nhất là lẩu dê khô .",
-    "name": "lẩu dê khô thu béo",
+    "introduction": "curry queen is the most popular indian restaurant in cambridge serving good indian cuisine including all the usual dishes",
+    "name": "curry queen",
     "phone": "01223351027",
     "postcode": "cb12bd",
-    "pricerange": "sang trọng",
-    "type": "nhà hàng"
+    "pricerange": "expensive",
+    "type": "restaurant"
   },
   {
     "location": [
-      21.025732,
-      105.846123
+      52.196967,
+      0.149286
     ],
-    "address": "tầng 1 , tòa nhà hanoi tower , số 49 , phố hai bà trưng , q . hoàn kiếm",
-    "area": "",
-    "food": "nhật bản",
+    "address": "290 mill road city centre",
+    "area": "east",
+    "food": "gastropub",
     "id": "19190",
-    "name": "tamaya japanese restaurant",
+    "name": "royal standard",
     "phone": "01223247877",
     "postcode": "cb13nl",
-    "pricerange": "sang trọng",
-    "type": "nhà hàng",
-    "introduction": "thông điệp chính của nhà hàng tamaya japanese restaurant là origninal japanese taste - trải nhiệm hương vị 200 món ăn thuần nhật cùng bếp trưởng kudou takahisa"
+    "pricerange": "expensive",
+    "type": "restaurant"
   },
   {
     "location": [
-      21.020243,
-      105.848038
+      52.211144,
+      0.163247
     ],
-    "address": "34a quang trung , q . hoàn kiếm",
-    "area": "",
-    "food": "đặc sản",
+    "address": "7 barnwell road fen ditton",
+    "area": "east",
+    "food": "indian",
     "id": "19274",
-    "introduction": "- đầu bếp nhà hàng từng có 1 thời gian dài theo học nấu ăn bên thái , có kinh nghiệm hơn 10 năm làm bếp",
-    "name": "bếp thái koh yam",
+    "introduction": "rajmahal serves traditional indian cuisine accomapnied by a broad wine list with beers and spirits also available",
+    "name": "rajmahal",
     "phone": "01223244955",
     "postcode": "cb58rg",
-    "pricerange": "vừa phải",
-    "type": "nhà hàng"
+    "pricerange": "moderate",
+    "type": "restaurant"
   },
   {
     "location": [
-      21.040066,
-      105.807126
+      52.206111,
+      0.132969
     ],
-    "address": "63 phạm hồng thái , trúc bạch",
-    "area": "",
-    "food": "món việt",
+    "address": "21 burleigh street city centre",
+    "area": "centre",
+    "food": "chinese",
     "id": "19172",
-    "name": "nhà hàng cơm việt",
+    "name": "hk fusion",
     "phone": "01223355909",
     "postcode": "cb11dg",
-    "pricerange": "sang trọng",
-    "type": "nhà hàng",
-    "introduction": "ăn tại chỗ · nhận hàng ở lề đường · giao hàng"
+    "pricerange": "expensive",
+    "type": "restaurant"
   },
   {
     "location": [
-      21.036253,
-      105.80765
+      52.207312,
+      0.124201
     ],
-    "address": "số 26 , ngõ 254 , đường bưởi , ba đình",
-    "area": "",
-    "food": "quán nhậu",
+    "address": "king street city centre",
+    "area": "centre",
+    "food": "turkish",
     "id": "19178",
-    "introduction": "không gian và thực đơn đa dạng , hấp dẫn , mang đậm chất núi rừng tây bắc với giá hợp lý",
-    "name": "độc quán",
+    "introduction": "efes restaurant serve a variety of turkish dishes including kebabs in truly authentic surroundings .",
+    "name": "efes restaurant",
     "phone": "01223500005",
     "postcode": "cb11ln",
-    "pricerange": "vừa phải",
-    "type": "nhà hàng"
+    "pricerange": "moderate",
+    "type": "restaurant"
   },
   {
     "location": [
-      21.02184,
-      105.818345
+      52.20103,
+      0.126023
     ],
-    "address": "6a láng hạ , q . ba đình",
-    "area": "",
-    "food": "món thái",
+    "address": "regent street city centre",
+    "area": "centre",
+    "food": "north american",
     "id": "19209",
-    "introduction": "- đầu bếp với 15 năm kinh nghiệm- sự hòa quyện của nhiều hương vị : chua , cay , mặn , ngọt , đắng cùng nước sốt độc quyền của nhà hàng .",
-    "name": "thai pattaya",
+    "introduction": "gourmet burger kitchen has a trendy interior and , although a bit more expensive than the average high street burger joint , the delicious burgers and other dishes are huge and freshly prepared with large side orders to match . catering for vegetarians is provided",
+    "name": "gourmet burger kitchen",
     "phone": "01223312598",
     "postcode": "cb21ab",
-    "pricerange": "sang trọng",
-    "type": "nhà hàng"
+    "pricerange": "expensive",
+    "type": "restaurant"
   },
   {
     "location": [
-      21.033806,
-      105.805735
+      52.205442,
+      0.119706
     ],
-    "address": "21 phố vạn phúc , kim mã",
-    "area": "",
-    "food": "lẩu",
+    "address": "12 market hill city centre",
+    "area": "centre",
+    "food": "italian",
     "id": "19239",
-    "introduction": "lẩu gạch - trọn vị cua , tròn vị lẩu lẩu cua đồng nguyên chất 100 % , không phụ gia , không độn",
-    "name": "nhà hàng lẩu gạch",
+    "introduction": "don pasquale pizzeria serves an extensive range of pizzas and italian dishes including pasta as well as a selection of beverages . catering for private parties of up to 80 guests is available upon request",
+    "name": "don pasquale pizzeria",
     "phone": "01223350106",
     "postcode": "cb23nj",
-    "pricerange": "sang trọng",
-    "type": "nhà hàng"
+    "pricerange": "expensive",
+    "type": "restaurant"
   },
   {
     "location": [
-      21.025359,
-      105.82171
+      52.20439,
+      0.11784
     ],
-    "address": "tầng 4 , khách sạn grand vista hanoi , 146 giảng võ , p . giảng võ , q . ba đình",
-    "area": "",
-    "food": "buffet",
+    "address": "1 kings parade",
+    "area": "centre",
+    "food": "british",
     "id": "6941",
-    "introduction": "nhà hàng déli mang tới cho thực khách những trải nghiệm đẳng cấp cùng nhiều nền ẩm thực đặc sắc khác nhau trên thế giới .",
-    "name": "déli",
+    "introduction": "",
+    "name": "the cambridge chop house",
     "phone": "01223359506",
     "postcode": "cb21sj",
-    "pricerange": "sang trọng",
+    "pricerange": "expensive",
     "signature": "lamb barnsley chop potato and garlic bake greens and gravy",
-    "type": "nhà hàng"
+    "type": "restaurant"
   },
   {
     "location": [
-      21.02184,
-      105.818345
+      52.200422,
+      0.135784
     ],
-    "address": "83 nguyễn thái học , văn miếu",
-    "area": "",
-    "food": "nướng",
+    "address": "52 mill road city centre",
+    "area": "centre",
+    "food": "asian oriental",
     "id": "19181",
-    "introduction": "quán vỉa hè , phục vụ nhanh . nầm bò nướng ngon , giòn và thơm .",
-    "name": "quán cao",
+    "introduction": "kymmoy is a noodle bar serving a wide variety of chinese thai cuisine for lunch and dinner",
+    "name": "kymmoy",
     "phone": "01223311911",
     "postcode": "cb12as",
-    "pricerange": "sang trọng",
-    "type": "nhà hàng"
+    "pricerange": "expensive",
+    "type": "restaurant"
   },
   {
     "location": [
-      21.024295,
-      105.845834
+      52.186739,
+      0.173048
     ],
-    "address": "số 4a ngõ 67 lý thường kiệt , p . trần hưng đạo , q . hoàn kiếm",
-    "area": "",
-    "food": "đặc sản",
+    "address": "43 high street cherry hinton cherry hinton",
+    "area": "east",
+    "food": "indian",
     "id": "19198",
-    "name": "chay vị lai",
+    "name": "sitar tandoori",
     "phone": "01223249955",
     "postcode": "cb19hx",
-    "pricerange": "sang trọng",
-    "type": "nhà hàng",
-    "introduction": "- nguyên liệu từ thực vật sạch tuyển chọn từ nguồn cung uy tín cả trong nước và nhập khẩu . - nhà hàng sở hữu một không gian thanh tịnh , thoáng đãng và gần gũi với thiên nhiên ."
+    "pricerange": "expensive",
+    "type": "restaurant"
   },
   {
     "location": [
-      21.033806,
-      105.805735
+      52.200187,
+      0.126407
     ],
-    "address": "109 đào tấn , q . ba đình",
-    "area": "",
-    "food": "lẩu nướng",
+    "address": "84 regent street city centre",
+    "area": "centre",
+    "food": "mediterranean",
     "id": "19217",
-    "introduction": "- king bbq thuộc sở hữu của tập đoàn redsun iti - một trong những tập đoàn ẩm thực lớn mạnh bậc nhất việt nam , sở hữu nhiều thương hiệu ẩm thực nổi tiếng khác như : thaiexpress , hotpot story , seoul garden , sushi kei , buk buk , capricciosa , khao lao , tasaki bbq , dolpan sam- công thức độc quyền của “ nước sốt king ” - được chính bếp trưởng park sung min , một trong những đầu bếp nổi tiếng nhất hàn quốc , với kinh nghiệm hơn 40 năm trong ngành ẩm thực , trực tiếp nghiên cứu và chế biến .",
-    "name": "king bbq",
+    "introduction": "shiraz serves traditional mediterranean cuisine accompanied by an extensive wine list with beers and spirits also available",
+    "name": "shiraz restaurant",
     "phone": "01223307581",
     "postcode": "cb21dp",
-    "pricerange": "sang trọng",
-    "type": "nhà hàng"
+    "pricerange": "expensive",
+    "type": "restaurant"
   },
   {
     "location": [
-      21.02565,
-      105.8182
+      52.21251,
+      0.12774
     ],
-    "address": "số 67 phan kế bính , cống vị",
-    "area": "",
-    "food": "buffet",
+    "address": "midsummer common",
+    "area": "centre",
+    "food": "british",
     "id": "508",
-    "introduction": "với 2 set buffet 199k và 279k , menu của làu là sự kết hợp hài hoà của các món dimsum nóng hổi , thịt nướng tẩm ướp đậm đà và hải sản tươi ngon , giàu dinh dưỡng .",
-    "name": "làu buffet",
+    "introduction": "",
+    "name": "midsummer house restaurant",
     "phone": "01223369299",
     "postcode": "cb41 ha",
-    "pricerange": "sang trọng",
+    "pricerange": "expensive",
     "signature": "seared scallops with truffle apple and celeriac",
-    "type": "nhà hàng"
+    "type": "restaurant"
   },
   {
     "location": [
-      21.032178,
-      105.812426
+      52.209028,
+      0.118296
     ],
-    "address": "f3-c01 , tầng 3 , tttm lotte center , 54 liễu giai , q . ba đình",
-    "area": "",
-    "food": "món miền trung",
+    "address": "bridge street city centre",
+    "area": "centre",
+    "food": "french",
     "id": "19230",
-    "introduction": "phố ngon 37 thuộc tập đoàn golden gate - tập đoàn sở hữu những thương hiệu hàng đầu về lĩnh vực ẩm thực - nhà hàng như sumobbq , gogi house , kichi kichi , isushi , ashima , hutong , cowboy jack ' s , daruma , k - pub , vuvuzela , shogun , manwah .",
-    "name": "phố ngon 37",
+    "introduction": "cote is a modern french bistro offering some of the classic and simple favourites of french cuisine",
+    "name": "cote",
     "phone": "01223311053",
     "postcode": "cb21uf",
-    "pricerange": "sang trọng",
-    "type": "nhà hàng"
+    "pricerange": "expensive",
+    "type": "restaurant"
   },
   {
     "location": [
-      21.032837059389,
-      105.807896103764
+      52.209632,
+      0.117213
     ],
-    "address": "số 52 đào tấn , q . ba đình",
-    "area": "",
-    "food": "lẩu",
+    "address": "32 bridge street city centre",
+    "area": "centre",
+    "food": "italian",
     "id": "19234",
-    "introduction": "nổi tiếng với những món lẩu nấm thơm ngon , bổ dưỡng , kết hợp cùng gần 20 loại nấm thiên nhiên quý hiếm từ mỹ , hàn , nhật ...",
-    "name": "nấm tràng an",
+    "introduction": "caffe uno is a chain of cafe style restaurants that offer a wide selection of meals and snacks to suit any time of the day including an extensive breakfast menu and choice of hot or cold drinks",
+    "name": "caffe uno",
     "phone": "01223448620",
     "postcode": "cb21uj",
-    "pricerange": "sang trọng",
-    "type": "nhà hàng"
+    "pricerange": "expensive",
+    "type": "restaurant"
   },
   {
     "location": [
-      21.028412,
-      105.810744
+      52.197154,
+      0.129511
     ],
-    "address": "số 12 phạm huy thông , q . ba đình",
-    "area": "",
-    "food": "món việt",
+    "address": "17 hills road city centre",
+    "area": "centre",
+    "food": "chinese",
     "id": "19222",
-    "introduction": "nhà hàng sơn thủy restaurant chuyên về các món ăn hải sản và đặc sản núi rừng .",
-    "name": "sơn thủy restaurant",
+    "introduction": "sesame restaurant and bar offers a wide variety of traditional chinese cuisine for lunch or dinner with wifi access and a television screen in the basement",
+    "name": "sesame restaurant and bar",
     "phone": "01223358899",
     "postcode": "cb21nw",
-    "pricerange": "sang trọng",
-    "type": "nhà hàng"
+    "pricerange": "expensive",
+    "type": "restaurant"
   },
   {
     "location": [
-      21.032178,
-      105.812426
+      52.206504,
+      0.119157
     ],
-    "address": "67 trần phú , kim mã",
-    "area": "",
-    "food": "món miền bắc",
+    "address": "24 green street city centre",
+    "area": "centre",
+    "food": "thai",
     "id": "19236",
-    "introduction": "quán ăn đặc sản miền bắc",
-    "name": "đặc sản miền bắc",
+    "introduction": "bangkok city serve a variety of authentic dishes to eat in or take away",
+    "name": "bangkok city",
     "phone": "01223354382",
     "postcode": "cb23jx",
-    "pricerange": "sang trọng",
-    "type": "nhà hàng"
+    "pricerange": "expensive",
+    "type": "restaurant"
   }
 ]
